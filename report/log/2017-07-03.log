@@ -1,0 +1,1004 @@
+2017-07-03 22:35:25,794 - root - INFO - ############################### START ###############################
+2017-07-03 22:35:31,722 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/login, Spend 0.939000129699707 seconds
+2017-07-03 22:35:32,094 - root - INFO - SUCCESS    Clear and type element: <id->username> content: , Spend 0.3712000846862793 seconds
+2017-07-03 22:35:32,471 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 12345678, Spend 0.3763999938964844 seconds
+2017-07-03 22:35:32,761 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'btn_com btn_blue login_btn_submit sy_in']>, Spend 0.2894001007080078 seconds
+2017-07-03 22:35:32,995 - root - INFO - SUCCESS    positioned to element: <css selector->div[class = 'in_r']> , Spend 0.23199987411499023 seconds
+2017-07-03 22:35:32,996 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:35:33,681 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/login, Spend 0.24099993705749512 seconds
+2017-07-03 22:35:33,936 - root - INFO - SUCCESS    Clear and type element: <id->username> content: 15868147450, Spend 0.25320005416870117 seconds
+2017-07-03 22:35:34,179 - root - INFO - SUCCESS    Clear and type element: <id->password> content: , Spend 0.2426002025604248 seconds
+2017-07-03 22:35:34,409 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'btn_com btn_blue login_btn_submit sy_in']>, Spend 0.22879981994628906 seconds
+2017-07-03 22:35:34,547 - root - INFO - SUCCESS    positioned to element: <xpath->//div[2]/div[2]/div/div[1]/form/div[2]/div/span[1]> , Spend 0.13579988479614258 seconds
+2017-07-03 22:35:34,548 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:35:35,253 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/login, Spend 0.2981998920440674 seconds
+2017-07-03 22:35:35,613 - root - INFO - SUCCESS    Clear and type element: <id->username> content: 15868147450, Spend 0.35879993438720703 seconds
+2017-07-03 22:35:35,984 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 12345678, Spend 0.3695998191833496 seconds
+2017-07-03 22:35:36,230 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'btn_com btn_blue login_btn_submit sy_in']>, Spend 0.24519991874694824 seconds
+2017-07-03 22:35:39,443 - root - INFO - SUCCESS    positioned to element: <xpath->//div[1]/div[1]/div[1]/div/div[1]/div[1]/span> , Spend 3.211400032043457 seconds
+2017-07-03 22:35:39,444 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:35:43,123 - root - INFO - ###############################  End  ###############################
+2017-07-03 22:35:43,123 - root - INFO - ############################### START ###############################
+2017-07-03 22:35:48,989 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/user/info, Spend 0.8968000411987305 seconds
+2017-07-03 22:35:49,338 - root - INFO - SUCCESS    Clear and type element: <id->username> content: 15868147450, Spend 0.34759998321533203 seconds
+2017-07-03 22:35:49,628 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 12345678, Spend 0.2895998954772949 seconds
+2017-07-03 22:35:49,879 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'btn_com btn_blue login_btn_submit sy_in']>, Spend 0.24879980087280273 seconds
+2017-07-03 22:35:51,652 - root - INFO - SUCCESS    Clear and type element: <id->name> content: 张, Spend 1.7721998691558838 seconds
+2017-07-03 22:35:51,934 - root - INFO - SUCCESS    Clear and type element: <id->email> content: 1392364471@qq.com, Spend 0.2819998264312744 seconds
+2017-07-03 22:35:52,106 - root - INFO - SUCCESS    Clicked element: <css selector->input[value = '女']>, Spend 0.1718001365661621 seconds
+2017-07-03 22:35:52,544 - root - INFO - SUCCESS    Clear and type element: <css selector->input[name = 'address']> content: 浙江省杭州市滨江区网商路669号阿里巴巴总部, Spend 0.4386000633239746 seconds
+2017-07-03 22:35:52,823 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'per_sure btn_submit']>, Spend 0.27679991722106934 seconds
+2017-07-03 22:35:52,958 - root - INFO - SUCCESS    positioned to element: <xpath->//div[3]/div/div/form/div/div/div[1]/span> , Spend 0.13380002975463867 seconds
+2017-07-03 22:35:52,959 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:35:54,541 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/user/info, Spend 1.2798001766204834 seconds
+2017-07-03 22:35:54,906 - root - INFO - SUCCESS    Clear and type element: <id->name> content: 张张萨芬举案说法是是是, Spend 0.363800048828125 seconds
+2017-07-03 22:35:55,240 - root - INFO - SUCCESS    Clear and type element: <id->email> content: 1392364471@qq.com, Spend 0.3338000774383545 seconds
+2017-07-03 22:35:55,432 - root - INFO - SUCCESS    Clicked element: <css selector->input[value = '女']>, Spend 0.19060015678405762 seconds
+2017-07-03 22:35:55,757 - root - INFO - SUCCESS    Clear and type element: <css selector->input[name = 'address']> content: 浙江省杭州市滨江区网商路669号阿里巴巴总部, Spend 0.324199914932251 seconds
+2017-07-03 22:35:56,016 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'per_sure btn_submit']>, Spend 0.2569999694824219 seconds
+2017-07-03 22:35:56,123 - root - INFO - SUCCESS    positioned to element: <xpath->//div[3]/div/div/form/div/div/div[1]/span> , Spend 0.10619997978210449 seconds
+2017-07-03 22:35:56,123 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:35:56,983 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/user/info, Spend 0.5232000350952148 seconds
+2017-07-03 22:35:57,249 - root - INFO - SUCCESS    Clear and type element: <id->name> content: 小灰灰小灰灰小灰灰小, Spend 0.26399993896484375 seconds
+2017-07-03 22:35:57,523 - root - INFO - SUCCESS    Clear and type element: <id->email> content: 1392364471, Spend 0.27320003509521484 seconds
+2017-07-03 22:35:57,690 - root - INFO - SUCCESS    Clicked element: <css selector->input[value = '女']>, Spend 0.16700005531311035 seconds
+2017-07-03 22:35:57,985 - root - INFO - SUCCESS    Clear and type element: <css selector->input[name = 'address']> content: 浙江省杭州市滨江区网商路669号阿里巴巴总部, Spend 0.2948000431060791 seconds
+2017-07-03 22:35:58,152 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'per_sure btn_submit']>, Spend 0.16499996185302734 seconds
+2017-07-03 22:35:58,250 - root - INFO - SUCCESS    positioned to element: <xpath->//div[3]/div/div/form/div/div/div[4]/span> , Spend 0.09780001640319824 seconds
+2017-07-03 22:35:58,251 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:35:59,184 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/user/info, Spend 0.6932001113891602 seconds
+2017-07-03 22:35:59,544 - root - INFO - SUCCESS    Clicked element: <xpath->//form/div/div/div[5]/div/span[1]/input[1]>, Spend 0.35899996757507324 seconds
+2017-07-03 22:35:59,875 - root - INFO - SUCCESS    Clicked element: <xpath->//form/div/div/div[5]/div/span[1]/ul/li[1]>, Spend 0.3285999298095703 seconds
+2017-07-03 22:36:00,073 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'per_sure btn_submit']>, Spend 0.1975998878479004 seconds
+2017-07-03 22:36:00,127 - root - INFO - SUCCESS    positioned to element: <xpath->//form/div/div/div[5]/div/span[1]/input[1]> , Spend 0.05360007286071777 seconds
+2017-07-03 22:36:00,128 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:36:01,163 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/user/info, Spend 0.7718000411987305 seconds
+2017-07-03 22:36:01,431 - root - INFO - SUCCESS    Clicked element: <xpath->//form/div/div/div[5]/div/span[2]/input[1]>, Spend 0.26620006561279297 seconds
+2017-07-03 22:36:01,785 - root - INFO - SUCCESS    Clicked element: <xpath->//form/div/div/div[5]/div/span[2]/ul/li[1]>, Spend 0.35179996490478516 seconds
+2017-07-03 22:36:02,029 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'per_sure btn_submit']>, Spend 0.24340009689331055 seconds
+2017-07-03 22:36:02,079 - root - INFO - SUCCESS    positioned to element: <xpath->//form/div/div/div[5]/div/span[2]/input[1]> , Spend 0.04900002479553223 seconds
+2017-07-03 22:36:02,079 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:36:02,954 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/user/info, Spend 0.5641999244689941 seconds
+2017-07-03 22:36:03,186 - root - INFO - SUCCESS    Clicked element: <xpath->//form/div/div/div[5]/div/span[3]/input[1]>, Spend 0.23060011863708496 seconds
+2017-07-03 22:36:03,419 - root - INFO - SUCCESS    Clicked element: <xpath->//form/div/div/div[5]/div/span[3]/ul/li[1]>, Spend 0.23219990730285645 seconds
+2017-07-03 22:36:03,598 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'per_sure btn_submit']>, Spend 0.1791999340057373 seconds
+2017-07-03 22:36:03,652 - root - INFO - SUCCESS    positioned to element: <xpath->//form/div/div/div[5]/div/span[3]/input[1]> , Spend 0.05360007286071777 seconds
+2017-07-03 22:36:03,653 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:36:04,646 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/user/info, Spend 0.7407999038696289 seconds
+2017-07-03 22:36:05,047 - root - INFO - SUCCESS    Clear and type element: <id->name> content: 小灰灰, Spend 0.3991999626159668 seconds
+2017-07-03 22:36:05,462 - root - INFO - SUCCESS    Clear and type element: <id->email> content: 1392364471@qq.com, Spend 0.4138000011444092 seconds
+2017-07-03 22:36:05,728 - root - INFO - SUCCESS    Clicked element: <css selector->input[value = '女']>, Spend 0.26379990577697754 seconds
+2017-07-03 22:36:06,271 - root - INFO - SUCCESS    Clear and type element: <css selector->input[name = 'address']> content: 浙江省杭州市滨江区网商路669号阿里巴巴总部, Spend 0.5421998500823975 seconds
+2017-07-03 22:36:06,545 - root - INFO - SUCCESS    Clicked element: <css selector->span[class = 'edit_pic cropper']>, Spend 0.27359986305236816 seconds
+2017-07-03 22:36:07,821 - root - INFO - SUCCESS    Clicked element: <css selector->label[class = 'btn_select_file']>, Spend 0.26779985427856445 seconds
+2017-07-03 22:36:10,836 - root - INFO - SUCCESS    Clicked element: <css selector->div[class = 'submit btn_com btn_blue cropper_upload w140']>, Spend 0.3808000087738037 seconds
+2017-07-03 22:36:11,150 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'per_sure btn_submit']>, Spend 0.29739999771118164 seconds
+2017-07-03 22:36:11,823 - root - INFO - SUCCESS    positioned to element: <css selector->html body div.dialog_pop div.dialog_box div.dialog_main div.dialog_main.dialog_alert> , Spend 0.6716001033782959 seconds
+2017-07-03 22:36:11,823 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:36:12,856 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/user/info, Spend 0.8199999332427979 seconds
+2017-07-03 22:36:13,264 - root - INFO - SUCCESS    Clicked element: <class name->sc_nick>, Spend 0.40619993209838867 seconds
+2017-07-03 22:36:13,564 - root - INFO - SUCCESS    Clicked element: <id->ss_cancel>, Spend 0.29799985885620117 seconds
+2017-07-03 22:36:13,656 - root - INFO - SUCCESS    positioned to element: <xpath->html/body/div[2]/div/div/div[2]/p[1]/span[2]> , Spend 0.09099984169006348 seconds
+2017-07-03 22:36:13,656 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:36:14,832 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/user/info, Spend 0.7291998863220215 seconds
+2017-07-03 22:36:15,625 - root - INFO - SUCCESS    Clicked element: <class name->alter_mobile>, Spend 0.7915999889373779 seconds
+2017-07-03 22:36:15,768 - root - INFO - SUCCESS    positioned to element: <xpath->html/body/div[3]/div/div/div[1]/h6> , Spend 0.1419999599456787 seconds
+2017-07-03 22:36:15,769 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:36:17,148 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/user/info, Spend 0.7419998645782471 seconds
+2017-07-03 22:36:17,404 - root - INFO - SUCCESS    Clicked element: <xpath->html/body/div[3]/div/div/div/span>, Spend 0.25480008125305176 seconds
+2017-07-03 22:36:18,569 - root - INFO - SUCCESS    positioned to element: <xpath->html/body/div[5]/div/div/div/div[2]> , Spend 0.15020012855529785 seconds
+2017-07-03 22:36:18,571 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:36:19,684 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/user/info, Spend 0.5887999534606934 seconds
+2017-07-03 22:36:19,876 - root - INFO - SUCCESS    Clicked element: <xpath->html/body/div[3]/div/div/div/span>, Spend 0.18939995765686035 seconds
+2017-07-03 22:36:21,134 - root - INFO - SUCCESS    Clicked element: <xpath->html/body/div[5]/div/a>, Spend 0.24740004539489746 seconds
+2017-07-03 22:36:21,270 - root - INFO - SUCCESS    positioned to element: <xpath->html/body/div[3]/div/div/div/h6> , Spend 0.13459992408752441 seconds
+2017-07-03 22:36:21,271 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:36:25,051 - root - INFO - ###############################  End  ###############################
+2017-07-03 22:36:25,052 - root - INFO - ############################### START ###############################
+2017-07-03 22:36:31,541 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/user/fund/trader/password, Spend 0.9548001289367676 seconds
+2017-07-03 22:36:31,863 - root - INFO - SUCCESS    Clear and type element: <id->username> content: 15868147450, Spend 0.3210000991821289 seconds
+2017-07-03 22:36:32,205 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 12345678, Spend 0.34039998054504395 seconds
+2017-07-03 22:36:32,498 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'btn_com btn_blue login_btn_submit sy_in']>, Spend 0.290600061416626 seconds
+2017-07-03 22:36:34,143 - root - INFO - SUCCESS    Clear and type element: <css selector->input[placeholder = '请输入旧密码']> content: , Spend 1.643200159072876 seconds
+2017-07-03 22:36:34,430 - root - INFO - SUCCESS    Clear and type element: <css selector->input[id = 'newPassword1']> content: 123456, Spend 0.28640007972717285 seconds
+2017-07-03 22:36:34,685 - root - INFO - SUCCESS    Clear and type element: <css selector->input[id = 'newPassword2']> content: 123456, Spend 0.2539999485015869 seconds
+2017-07-03 22:36:34,926 - root - INFO - SUCCESS    Clicked element: <css selector->a[class = 'btn_com   btn_submit_p']>, Spend 0.24099993705749512 seconds
+2017-07-03 22:36:35,048 - root - INFO - SUCCESS    positioned to element: <xpath->//div[2]/div[2]/div/div[1]/div[1]/form/div[1]/span[2]> , Spend 0.11999988555908203 seconds
+2017-07-03 22:36:35,048 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:36:36,386 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/user/fund/trader/password, Spend 0.8519999980926514 seconds
+2017-07-03 22:36:36,778 - root - INFO - SUCCESS    Clear and type element: <css selector->input[placeholder = '请输入旧密码']> content: 12345678, Spend 0.3896000385284424 seconds
+2017-07-03 22:36:37,001 - root - INFO - SUCCESS    Clear and type element: <css selector->input[id = 'newPassword1']> content: , Spend 0.22360014915466309 seconds
+2017-07-03 22:36:37,289 - root - INFO - SUCCESS    Clear and type element: <css selector->input[id = 'newPassword2']> content: 123456, Spend 0.2871999740600586 seconds
+2017-07-03 22:36:37,569 - root - INFO - SUCCESS    Clicked element: <css selector->a[class = 'btn_com   btn_submit_p']>, Spend 0.2763998508453369 seconds
+2017-07-03 22:36:37,707 - root - INFO - SUCCESS    positioned to element: <xpath->//div[2]/div[2]/div/div[1]/div[1]/form/div[2]/span[2]> , Spend 0.1359999179840088 seconds
+2017-07-03 22:36:37,708 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:36:38,794 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/user/fund/trader/password, Spend 0.4459998607635498 seconds
+2017-07-03 22:36:39,032 - root - INFO - SUCCESS    Clear and type element: <css selector->input[placeholder = '请输入旧密码']> content: 12345678, Spend 0.2369999885559082 seconds
+2017-07-03 22:36:39,285 - root - INFO - SUCCESS    Clear and type element: <css selector->input[id = 'newPassword1']> content: 123456, Spend 0.2516000270843506 seconds
+2017-07-03 22:36:39,484 - root - INFO - SUCCESS    Clear and type element: <css selector->input[id = 'newPassword2']> content: , Spend 0.19900012016296387 seconds
+2017-07-03 22:36:39,679 - root - INFO - SUCCESS    Clicked element: <css selector->a[class = 'btn_com   btn_submit_p']>, Spend 0.19319987297058105 seconds
+2017-07-03 22:36:39,798 - root - INFO - SUCCESS    positioned to element: <xpath->//div[2]/div[2]/div/div[1]/div[1]/form/div[3]/span[2]> , Spend 0.1194000244140625 seconds
+2017-07-03 22:36:39,798 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:36:43,460 - root - INFO - ###############################  End  ###############################
+2017-07-03 22:36:43,462 - root - INFO - ############################### START ###############################
+2017-07-03 22:36:49,355 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/user/company/confirm, Spend 0.9022002220153809 seconds
+2017-07-03 22:36:49,796 - root - INFO - SUCCESS    Clear and type element: <id->username> content: 15868147450, Spend 0.4402000904083252 seconds
+2017-07-03 22:36:50,152 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 12345678, Spend 0.35339999198913574 seconds
+2017-07-03 22:36:50,447 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'btn_com btn_blue login_btn_submit sy_in']>, Spend 0.29419994354248047 seconds
+2017-07-03 22:36:53,236 - root - INFO - SUCCESS    Clear and type element: <name->enterpriseName> content: , Spend 2.7883999347686768 seconds
+2017-07-03 22:36:53,677 - root - INFO - SUCCESS    Clear and type element: <name->businessLicense> content: 256524563222, Spend 0.43959999084472656 seconds
+2017-07-03 22:36:54,037 - root - INFO - SUCCESS    Clicked element: <xpath->//form/div[1]/div/div[3]/div[2]/div/span[2]/span>, Spend 0.3578000068664551 seconds
+2017-07-03 22:36:54,277 - root - INFO - SUCCESS    Clicked element: <css selector->label[class = 'btn_select_file']>, Spend 0.24039983749389648 seconds
+2017-07-03 22:36:57,199 - root - INFO - SUCCESS    Clicked element: <css selector->div[class = 'submit btn_com btn_blue cropper_upload w140']>, Spend 0.33899998664855957 seconds
+2017-07-03 22:36:57,561 - root - INFO - SUCCESS    Clicked element: <id->areaOut1>, Spend 0.3619999885559082 seconds
+2017-07-03 22:36:57,916 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea1Id']/li[3]>, Spend 0.35339999198913574 seconds
+2017-07-03 22:36:58,357 - root - INFO - SUCCESS    Clicked element: <id->areaOut2>, Spend 0.43939995765686035 seconds
+2017-07-03 22:36:58,700 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea2Id']/li[2]>, Spend 0.3417999744415283 seconds
+2017-07-03 22:36:58,967 - root - INFO - SUCCESS    Clicked element: <id->areaOut3>, Spend 0.2667999267578125 seconds
+2017-07-03 22:36:59,359 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea3Id']/li[2]>, Spend 0.3915998935699463 seconds
+2017-07-03 22:36:59,717 - root - INFO - SUCCESS    Clear and type element: <name->address> content: 杭州市滨江区网商路669号, Spend 0.3561999797821045 seconds
+2017-07-03 22:36:59,995 - root - INFO - SUCCESS    Clear and type element: <name->linkManPhone> content: 4008888001, Spend 0.27699995040893555 seconds
+2017-07-03 22:37:00,254 - root - INFO - SUCCESS    Clear and type element: <name->linkMan> content: 张某某, Spend 0.2578001022338867 seconds
+2017-07-03 22:37:00,481 - root - INFO - SUCCESS    Clear and type element: <name->linkManJob> content: 软件架构师, Spend 0.2274000644683838 seconds
+2017-07-03 22:37:00,793 - root - INFO - SUCCESS    Clear and type element: <name->linkManEmail> content: 1392364470@qq.com, Spend 0.3118000030517578 seconds
+2017-07-03 22:37:01,092 - root - INFO - SUCCESS    Clear and type element: <name->linkManMobile> content: 15868147450, Spend 0.2970001697540283 seconds
+2017-07-03 22:37:02,449 - root - INFO - SUCCESS    Clicked element: <css selector->a[class = 'per_sure btn_submit']>, Spend 0.34959983825683594 seconds
+2017-07-03 22:37:02,626 - root - INFO - SUCCESS    positioned to element: <xpath->//form/div[1]/div/div[1]/span[1]> , Spend 0.17499995231628418 seconds
+2017-07-03 22:37:02,627 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:37:04,729 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/user/company/confirm, Spend 1.8330001831054688 seconds
+2017-07-03 22:37:05,128 - root - INFO - SUCCESS    Clear and type element: <name->enterpriseName> content: 阿里云, Spend 0.39840006828308105 seconds
+2017-07-03 22:37:05,447 - root - INFO - SUCCESS    Clear and type element: <name->businessLicense> content: 256524563222, Spend 0.3173999786376953 seconds
+2017-07-03 22:37:05,633 - root - INFO - SUCCESS    Clicked element: <id->areaOut1>, Spend 0.18600010871887207 seconds
+2017-07-03 22:37:05,883 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea1Id']/li[3]>, Spend 0.2480001449584961 seconds
+2017-07-03 22:37:06,056 - root - INFO - SUCCESS    Clicked element: <id->areaOut2>, Spend 0.17319989204406738 seconds
+2017-07-03 22:37:06,279 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea2Id']/li[2]>, Spend 0.2217998504638672 seconds
+2017-07-03 22:37:06,489 - root - INFO - SUCCESS    Clicked element: <id->areaOut3>, Spend 0.2089998722076416 seconds
+2017-07-03 22:37:06,718 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea3Id']/li[2]>, Spend 0.22799992561340332 seconds
+2017-07-03 22:37:07,024 - root - INFO - SUCCESS    Clear and type element: <name->address> content: 杭州市滨江区网商路669号, Spend 0.30499982833862305 seconds
+2017-07-03 22:37:07,266 - root - INFO - SUCCESS    Clear and type element: <name->linkManPhone> content: 4008888001, Spend 0.24179983139038086 seconds
+2017-07-03 22:37:07,506 - root - INFO - SUCCESS    Clear and type element: <name->linkMan> content: 张某某, Spend 0.2387998104095459 seconds
+2017-07-03 22:37:07,734 - root - INFO - SUCCESS    Clear and type element: <name->linkManJob> content: 软件架构师, Spend 0.22699999809265137 seconds
+2017-07-03 22:37:08,039 - root - INFO - SUCCESS    Clear and type element: <name->linkManEmail> content: 1392364470@qq.com, Spend 0.303800106048584 seconds
+2017-07-03 22:37:08,307 - root - INFO - SUCCESS    Clear and type element: <name->linkManMobile> content: 15868147450, Spend 0.26780009269714355 seconds
+2017-07-03 22:37:08,478 - root - INFO - SUCCESS    Clicked element: <css selector->a[class = 'per_sure btn_submit']>, Spend 0.1700000762939453 seconds
+2017-07-03 22:37:08,558 - root - INFO - SUCCESS    positioned to element: <xpath->//form/div[1]/div/div[1]/span[1]> , Spend 0.07999992370605469 seconds
+2017-07-03 22:37:08,559 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:37:11,676 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/user/company/confirm, Spend 2.9809999465942383 seconds
+2017-07-03 22:37:12,097 - root - INFO - SUCCESS    Clear and type element: <name->enterpriseName> content: 多少分干活多哈都是对的风好大服用方法杀得好, Spend 0.42059993743896484 seconds
+2017-07-03 22:37:12,453 - root - INFO - SUCCESS    Clear and type element: <name->businessLicense> content: 256524563222, Spend 0.35580015182495117 seconds
+2017-07-03 22:37:12,667 - root - INFO - SUCCESS    Clicked element: <id->areaOut1>, Spend 0.21219992637634277 seconds
+2017-07-03 22:37:12,950 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea1Id']/li[3]>, Spend 0.2817997932434082 seconds
+2017-07-03 22:37:13,151 - root - INFO - SUCCESS    Clicked element: <id->areaOut2>, Spend 0.20000004768371582 seconds
+2017-07-03 22:37:13,402 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea2Id']/li[2]>, Spend 0.2504000663757324 seconds
+2017-07-03 22:37:13,632 - root - INFO - SUCCESS    Clicked element: <id->areaOut3>, Spend 0.22880005836486816 seconds
+2017-07-03 22:37:13,893 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea3Id']/li[2]>, Spend 0.2609999179840088 seconds
+2017-07-03 22:37:14,205 - root - INFO - SUCCESS    Clear and type element: <name->address> content: 杭州市滨江区网商路669号, Spend 0.3101999759674072 seconds
+2017-07-03 22:37:14,507 - root - INFO - SUCCESS    Clear and type element: <name->linkManPhone> content: 4008888001, Spend 0.3004000186920166 seconds
+2017-07-03 22:37:14,784 - root - INFO - SUCCESS    Clear and type element: <name->linkMan> content: 张某某, Spend 0.2766001224517822 seconds
+2017-07-03 22:37:15,060 - root - INFO - SUCCESS    Clear and type element: <name->linkManJob> content: 软件架构师, Spend 0.2757999897003174 seconds
+2017-07-03 22:37:15,434 - root - INFO - SUCCESS    Clear and type element: <name->linkManEmail> content: 1392364470@qq.com, Spend 0.37240004539489746 seconds
+2017-07-03 22:37:15,761 - root - INFO - SUCCESS    Clear and type element: <name->linkManMobile> content: 15868147450, Spend 0.3268001079559326 seconds
+2017-07-03 22:37:16,003 - root - INFO - SUCCESS    Clicked element: <css selector->a[class = 'per_sure btn_submit']>, Spend 0.24000000953674316 seconds
+2017-07-03 22:37:16,113 - root - INFO - SUCCESS    positioned to element: <xpath->//form/div[1]/div/div[1]/span[1]> , Spend 0.10799980163574219 seconds
+2017-07-03 22:37:16,115 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:37:18,126 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/user/company/confirm, Spend 1.7679998874664307 seconds
+2017-07-03 22:37:18,581 - root - INFO - SUCCESS    Clear and type element: <name->enterpriseName> content: 阿里巴巴, Spend 0.45399999618530273 seconds
+2017-07-03 22:37:18,864 - root - INFO - SUCCESS    Clear and type element: <name->businessLicense> content: , Spend 0.2820000648498535 seconds
+2017-07-03 22:37:19,065 - root - INFO - SUCCESS    Clicked element: <id->areaOut1>, Spend 0.20059990882873535 seconds
+2017-07-03 22:37:19,388 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea1Id']/li[3]>, Spend 0.3203999996185303 seconds
+2017-07-03 22:37:19,611 - root - INFO - SUCCESS    Clicked element: <id->areaOut2>, Spend 0.2220001220703125 seconds
+2017-07-03 22:37:19,898 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea2Id']/li[2]>, Spend 0.28620004653930664 seconds
+2017-07-03 22:37:20,128 - root - INFO - SUCCESS    Clicked element: <id->areaOut3>, Spend 0.23000001907348633 seconds
+2017-07-03 22:37:20,385 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea3Id']/li[2]>, Spend 0.25620007514953613 seconds
+2017-07-03 22:37:20,747 - root - INFO - SUCCESS    Clear and type element: <name->address> content: 杭州市滨江区网商路669号, Spend 0.36100006103515625 seconds
+2017-07-03 22:37:21,077 - root - INFO - SUCCESS    Clear and type element: <name->linkManPhone> content: 4008888001, Spend 0.32779979705810547 seconds
+2017-07-03 22:37:21,379 - root - INFO - SUCCESS    Clear and type element: <name->linkMan> content: 张某某, Spend 0.3023998737335205 seconds
+2017-07-03 22:37:21,675 - root - INFO - SUCCESS    Clear and type element: <name->linkManJob> content: 软件架构师, Spend 0.2952001094818115 seconds
+2017-07-03 22:37:22,295 - root - INFO - SUCCESS    Clear and type element: <name->linkManEmail> content: 1392364470@qq.com, Spend 0.6177999973297119 seconds
+2017-07-03 22:37:22,719 - root - INFO - SUCCESS    Clear and type element: <name->linkManMobile> content: 15868147450, Spend 0.42299985885620117 seconds
+2017-07-03 22:37:22,894 - root - INFO - SUCCESS    Clicked element: <css selector->a[class = 'per_sure btn_submit']>, Spend 0.17399978637695312 seconds
+2017-07-03 22:37:22,986 - root - INFO - SUCCESS    positioned to element: <xpath->//form/div[1]/div/div[2]/span[1]> , Spend 0.09099984169006348 seconds
+2017-07-03 22:37:22,987 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:37:24,508 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/user/company/confirm, Spend 1.309999942779541 seconds
+2017-07-03 22:37:24,872 - root - INFO - SUCCESS    Clear and type element: <name->enterpriseName> content: 阿里巴巴, Spend 0.3640000820159912 seconds
+2017-07-03 22:37:25,347 - root - INFO - SUCCESS    Clear and type element: <name->businessLicense> content: 256524563, Spend 0.47259998321533203 seconds
+2017-07-03 22:37:25,626 - root - INFO - SUCCESS    Clicked element: <id->areaOut1>, Spend 0.27740001678466797 seconds
+2017-07-03 22:37:26,025 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea1Id']/li[3]>, Spend 0.39820003509521484 seconds
+2017-07-03 22:37:26,279 - root - INFO - SUCCESS    Clicked element: <id->areaOut2>, Spend 0.2534000873565674 seconds
+2017-07-03 22:37:26,564 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea2Id']/li[2]>, Spend 0.2839999198913574 seconds
+2017-07-03 22:37:26,786 - root - INFO - SUCCESS    Clicked element: <id->areaOut3>, Spend 0.22239995002746582 seconds
+2017-07-03 22:37:26,981 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea3Id']/li[2]>, Spend 0.1937999725341797 seconds
+2017-07-03 22:37:27,383 - root - INFO - SUCCESS    Clear and type element: <name->address> content: 杭州市滨江区网商路669号, Spend 0.401400089263916 seconds
+2017-07-03 22:37:27,677 - root - INFO - SUCCESS    Clear and type element: <name->linkManPhone> content: 4008888001, Spend 0.2934000492095947 seconds
+2017-07-03 22:37:28,024 - root - INFO - SUCCESS    Clear and type element: <name->linkMan> content: 张某某, Spend 0.3450000286102295 seconds
+2017-07-03 22:37:28,366 - root - INFO - SUCCESS    Clear and type element: <name->linkManJob> content: 软件架构师, Spend 0.34200000762939453 seconds
+2017-07-03 22:37:28,702 - root - INFO - SUCCESS    Clear and type element: <name->linkManEmail> content: 1392364470@qq.com, Spend 0.335399866104126 seconds
+2017-07-03 22:37:29,146 - root - INFO - SUCCESS    Clear and type element: <name->linkManMobile> content: 15868147450, Spend 0.4419999122619629 seconds
+2017-07-03 22:37:29,417 - root - INFO - SUCCESS    Clicked element: <css selector->a[class = 'per_sure btn_submit']>, Spend 0.26999998092651367 seconds
+2017-07-03 22:37:29,532 - root - INFO - SUCCESS    positioned to element: <xpath->//form/div[1]/div/div[2]/span[1]> , Spend 0.11299991607666016 seconds
+2017-07-03 22:37:29,533 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:37:31,256 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/user/company/confirm, Spend 1.4089999198913574 seconds
+2017-07-03 22:37:31,527 - root - INFO - SUCCESS    Clear and type element: <name->enterpriseName> content: 阿里巴巴, Spend 0.2709999084472656 seconds
+2017-07-03 22:37:31,942 - root - INFO - SUCCESS    Clear and type element: <name->businessLicense> content: 256524563222, Spend 0.41479992866516113 seconds
+2017-07-03 22:37:32,179 - root - INFO - SUCCESS    Clicked element: <id->areaOut1>, Spend 0.2349998950958252 seconds
+2017-07-03 22:37:32,486 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea1Id']/li[3]>, Spend 0.3062000274658203 seconds
+2017-07-03 22:37:32,767 - root - INFO - SUCCESS    Clicked element: <id->areaOut2>, Spend 0.27920007705688477 seconds
+2017-07-03 22:37:33,099 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea2Id']/li[2]>, Spend 0.3306000232696533 seconds
+2017-07-03 22:37:33,371 - root - INFO - SUCCESS    Clicked element: <id->areaOut3>, Spend 0.2707998752593994 seconds
+2017-07-03 22:37:33,807 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea3Id']/li[2]>, Spend 0.4347999095916748 seconds
+2017-07-03 22:37:34,147 - root - INFO - SUCCESS    Clear and type element: <name->address> content: , Spend 0.3397998809814453 seconds
+2017-07-03 22:37:34,431 - root - INFO - SUCCESS    Clear and type element: <name->linkManPhone> content: 4008888001, Spend 0.2820000648498535 seconds
+2017-07-03 22:37:34,735 - root - INFO - SUCCESS    Clear and type element: <name->linkMan> content: 张某某, Spend 0.30299997329711914 seconds
+2017-07-03 22:37:35,067 - root - INFO - SUCCESS    Clear and type element: <name->linkManJob> content: 软件架构师, Spend 0.3297998905181885 seconds
+2017-07-03 22:37:35,583 - root - INFO - SUCCESS    Clear and type element: <name->linkManEmail> content: 1392364470@qq.com, Spend 0.5148000717163086 seconds
+2017-07-03 22:37:36,035 - root - INFO - SUCCESS    Clear and type element: <name->linkManMobile> content: 15868147450, Spend 0.4509999752044678 seconds
+2017-07-03 22:37:36,285 - root - INFO - SUCCESS    Clicked element: <css selector->a[class = 'per_sure btn_submit']>, Spend 0.24860000610351562 seconds
+2017-07-03 22:37:36,411 - root - INFO - SUCCESS    positioned to element: <xpath->//form/div[1]/div/div[5]/span[1]> , Spend 0.12400007247924805 seconds
+2017-07-03 22:37:36,412 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:37:37,655 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/user/company/confirm, Spend 1.0799999237060547 seconds
+2017-07-03 22:37:37,942 - root - INFO - SUCCESS    Clear and type element: <name->enterpriseName> content: 阿里巴巴, Spend 0.2869999408721924 seconds
+2017-07-03 22:37:38,377 - root - INFO - SUCCESS    Clear and type element: <name->businessLicense> content: 256524563222, Spend 0.4347999095916748 seconds
+2017-07-03 22:37:38,608 - root - INFO - SUCCESS    Clicked element: <id->areaOut1>, Spend 0.22979998588562012 seconds
+2017-07-03 22:37:38,919 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea1Id']/li[3]>, Spend 0.30900001525878906 seconds
+2017-07-03 22:37:39,200 - root - INFO - SUCCESS    Clicked element: <id->areaOut2>, Spend 0.2799999713897705 seconds
+2017-07-03 22:37:39,633 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea2Id']/li[2]>, Spend 0.4305999279022217 seconds
+2017-07-03 22:37:39,928 - root - INFO - SUCCESS    Clicked element: <id->areaOut3>, Spend 0.2951998710632324 seconds
+2017-07-03 22:37:40,189 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea3Id']/li[2]>, Spend 0.25999999046325684 seconds
+2017-07-03 22:37:40,453 - root - INFO - SUCCESS    Clear and type element: <name->address> content: 杭, Spend 0.26219987869262695 seconds
+2017-07-03 22:37:40,780 - root - INFO - SUCCESS    Clear and type element: <name->linkManPhone> content: 4008888001, Spend 0.32559990882873535 seconds
+2017-07-03 22:37:41,085 - root - INFO - SUCCESS    Clear and type element: <name->linkMan> content: 张某某, Spend 0.3044002056121826 seconds
+2017-07-03 22:37:41,375 - root - INFO - SUCCESS    Clear and type element: <name->linkManJob> content: 软件架构师, Spend 0.2888000011444092 seconds
+2017-07-03 22:37:41,770 - root - INFO - SUCCESS    Clear and type element: <name->linkManEmail> content: 1392364470@qq.com, Spend 0.3938000202178955 seconds
+2017-07-03 22:37:42,241 - root - INFO - SUCCESS    Clear and type element: <name->linkManMobile> content: 15868147450, Spend 0.4700000286102295 seconds
+2017-07-03 22:37:42,448 - root - INFO - SUCCESS    Clicked element: <css selector->a[class = 'per_sure btn_submit']>, Spend 0.20659995079040527 seconds
+2017-07-03 22:37:42,536 - root - INFO - SUCCESS    positioned to element: <xpath->//form/div[1]/div/div[5]/span[1]> , Spend 0.08700013160705566 seconds
+2017-07-03 22:37:42,538 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:37:43,957 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/user/company/confirm, Spend 1.1749999523162842 seconds
+2017-07-03 22:37:44,267 - root - INFO - SUCCESS    Clear and type element: <name->enterpriseName> content: 阿里巴巴, Spend 0.30900001525878906 seconds
+2017-07-03 22:37:44,686 - root - INFO - SUCCESS    Clear and type element: <name->businessLicense> content: 256524563222, Spend 0.4179999828338623 seconds
+2017-07-03 22:37:44,922 - root - INFO - SUCCESS    Clicked element: <id->areaOut1>, Spend 0.23399996757507324 seconds
+2017-07-03 22:37:45,345 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea1Id']/li[3]>, Spend 0.4220001697540283 seconds
+2017-07-03 22:37:45,592 - root - INFO - SUCCESS    Clicked element: <id->areaOut2>, Spend 0.24559998512268066 seconds
+2017-07-03 22:37:45,852 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea2Id']/li[2]>, Spend 0.25859999656677246 seconds
+2017-07-03 22:37:46,117 - root - INFO - SUCCESS    Clicked element: <id->areaOut3>, Spend 0.26400017738342285 seconds
+2017-07-03 22:37:46,402 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea3Id']/li[2]>, Spend 0.28299999237060547 seconds
+2017-07-03 22:37:46,796 - root - INFO - SUCCESS    Clear and type element: <name->address> content: 杭州市滨江区网商路669号, Spend 0.39299988746643066 seconds
+2017-07-03 22:37:47,107 - root - INFO - SUCCESS    Clear and type element: <name->linkManPhone> content: , Spend 0.2962000370025635 seconds
+2017-07-03 22:37:47,480 - root - INFO - SUCCESS    Clear and type element: <name->linkMan> content: 张某某, Spend 0.3728001117706299 seconds
+2017-07-03 22:37:47,822 - root - INFO - SUCCESS    Clear and type element: <name->linkManJob> content: 软件架构师, Spend 0.33899998664855957 seconds
+2017-07-03 22:37:48,285 - root - INFO - SUCCESS    Clear and type element: <name->linkManEmail> content: 1392364470@qq.com, Spend 0.46160006523132324 seconds
+2017-07-03 22:37:48,736 - root - INFO - SUCCESS    Clear and type element: <name->linkManMobile> content: 15868147450, Spend 0.4500000476837158 seconds
+2017-07-03 22:37:49,027 - root - INFO - SUCCESS    Clicked element: <css selector->a[class = 'per_sure btn_submit']>, Spend 0.289600133895874 seconds
+2017-07-03 22:37:49,187 - root - INFO - SUCCESS    positioned to element: <xpath->//form/div[1]/div/div[6]/span[1]> , Spend 0.15799999237060547 seconds
+2017-07-03 22:37:49,189 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:37:50,851 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/user/company/confirm, Spend 1.4659998416900635 seconds
+2017-07-03 22:37:51,294 - root - INFO - SUCCESS    Clear and type element: <name->enterpriseName> content: 阿里巴巴, Spend 0.44099998474121094 seconds
+2017-07-03 22:37:51,662 - root - INFO - SUCCESS    Clear and type element: <name->businessLicense> content: 256524563222, Spend 0.3657999038696289 seconds
+2017-07-03 22:37:51,877 - root - INFO - SUCCESS    Clicked element: <id->areaOut1>, Spend 0.21379995346069336 seconds
+2017-07-03 22:37:52,161 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea1Id']/li[3]>, Spend 0.28239989280700684 seconds
+2017-07-03 22:37:52,373 - root - INFO - SUCCESS    Clicked element: <id->areaOut2>, Spend 0.21000003814697266 seconds
+2017-07-03 22:37:52,630 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea2Id']/li[2]>, Spend 0.2569999694824219 seconds
+2017-07-03 22:37:52,864 - root - INFO - SUCCESS    Clicked element: <id->areaOut3>, Spend 0.23280000686645508 seconds
+2017-07-03 22:37:53,069 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea3Id']/li[2]>, Spend 0.20239996910095215 seconds
+2017-07-03 22:37:53,312 - root - INFO - SUCCESS    Clear and type element: <name->address> content: 杭州市滨江区网商路669号, Spend 0.24320006370544434 seconds
+2017-07-03 22:37:53,543 - root - INFO - SUCCESS    Clear and type element: <name->linkManPhone> content: 400888800, Spend 0.23020005226135254 seconds
+2017-07-03 22:37:53,776 - root - INFO - SUCCESS    Clear and type element: <name->linkMan> content: 张某某, Spend 0.23160004615783691 seconds
+2017-07-03 22:37:53,993 - root - INFO - SUCCESS    Clear and type element: <name->linkManJob> content: 软件架构师, Spend 0.21780014038085938 seconds
+2017-07-03 22:37:54,273 - root - INFO - SUCCESS    Clear and type element: <name->linkManEmail> content: 1392364470@qq.com, Spend 0.27900004386901855 seconds
+2017-07-03 22:37:54,538 - root - INFO - SUCCESS    Clear and type element: <name->linkManMobile> content: 15868147450, Spend 0.2627999782562256 seconds
+2017-07-03 22:37:54,707 - root - INFO - SUCCESS    Clicked element: <css selector->a[class = 'per_sure btn_submit']>, Spend 0.16839981079101562 seconds
+2017-07-03 22:37:54,777 - root - INFO - SUCCESS    positioned to element: <xpath->//form/div[1]/div/div[6]/span[1]> , Spend 0.06799983978271484 seconds
+2017-07-03 22:37:54,778 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:37:56,298 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/user/company/confirm, Spend 1.3870000839233398 seconds
+2017-07-03 22:37:56,802 - root - INFO - SUCCESS    Clear and type element: <name->enterpriseName> content: 阿里巴巴, Spend 0.502000093460083 seconds
+2017-07-03 22:37:57,249 - root - INFO - SUCCESS    Clear and type element: <name->businessLicense> content: 256524563222, Spend 0.44720005989074707 seconds
+2017-07-03 22:37:57,462 - root - INFO - SUCCESS    Clicked element: <id->areaOut1>, Spend 0.21199989318847656 seconds
+2017-07-03 22:37:57,768 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea1Id']/li[3]>, Spend 0.30480003356933594 seconds
+2017-07-03 22:37:58,042 - root - INFO - SUCCESS    Clicked element: <id->areaOut2>, Spend 0.27360010147094727 seconds
+2017-07-03 22:37:58,392 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea2Id']/li[2]>, Spend 0.3483998775482178 seconds
+2017-07-03 22:37:58,675 - root - INFO - SUCCESS    Clicked element: <id->areaOut3>, Spend 0.28279995918273926 seconds
+2017-07-03 22:37:58,985 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea3Id']/li[2]>, Spend 0.30879998207092285 seconds
+2017-07-03 22:37:59,436 - root - INFO - SUCCESS    Clear and type element: <name->address> content: 杭州市滨江区网商路669号, Spend 0.4495999813079834 seconds
+2017-07-03 22:37:59,802 - root - INFO - SUCCESS    Clear and type element: <name->linkManPhone> content: 4008888001, Spend 0.3655998706817627 seconds
+2017-07-03 22:38:00,139 - root - INFO - SUCCESS    Clear and type element: <name->linkMan> content: , Spend 0.33640003204345703 seconds
+2017-07-03 22:38:00,601 - root - INFO - SUCCESS    Clear and type element: <name->linkManJob> content: 软件架构师, Spend 0.4611999988555908 seconds
+2017-07-03 22:38:00,993 - root - INFO - SUCCESS    Clear and type element: <name->linkManEmail> content: 1392364470@qq.com, Spend 0.39100003242492676 seconds
+2017-07-03 22:38:01,394 - root - INFO - SUCCESS    Clear and type element: <name->linkManMobile> content: 15868147450, Spend 0.4012000560760498 seconds
+2017-07-03 22:38:01,671 - root - INFO - SUCCESS    Clicked element: <css selector->a[class = 'per_sure btn_submit']>, Spend 0.27500009536743164 seconds
+2017-07-03 22:38:01,810 - root - INFO - SUCCESS    positioned to element: <xpath->//form/div[1]/div/div[7]/span[1]> , Spend 0.1380000114440918 seconds
+2017-07-03 22:38:01,811 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:38:03,400 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/user/company/confirm, Spend 1.3970000743865967 seconds
+2017-07-03 22:38:03,659 - root - INFO - SUCCESS    Clear and type element: <name->enterpriseName> content: 阿里巴巴, Spend 0.25799989700317383 seconds
+2017-07-03 22:38:03,972 - root - INFO - SUCCESS    Clear and type element: <name->businessLicense> content: 256524563222, Spend 0.31099987030029297 seconds
+2017-07-03 22:38:04,171 - root - INFO - SUCCESS    Clicked element: <id->areaOut1>, Spend 0.19920015335083008 seconds
+2017-07-03 22:38:04,493 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea1Id']/li[3]>, Spend 0.31980013847351074 seconds
+2017-07-03 22:38:04,774 - root - INFO - SUCCESS    Clicked element: <id->areaOut2>, Spend 0.2797999382019043 seconds
+2017-07-03 22:38:05,124 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea2Id']/li[2]>, Spend 0.3486001491546631 seconds
+2017-07-03 22:38:05,407 - root - INFO - SUCCESS    Clicked element: <id->areaOut3>, Spend 0.28260016441345215 seconds
+2017-07-03 22:38:05,725 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea3Id']/li[2]>, Spend 0.3173999786376953 seconds
+2017-07-03 22:38:06,203 - root - INFO - SUCCESS    Clear and type element: <name->address> content: 杭州市滨江区网商路669号, Spend 0.47679996490478516 seconds
+2017-07-03 22:38:06,588 - root - INFO - SUCCESS    Clear and type element: <name->linkManPhone> content: 4008888001, Spend 0.38339996337890625 seconds
+2017-07-03 22:38:06,960 - root - INFO - SUCCESS    Clear and type element: <name->linkMan> content: 张, Spend 0.37059998512268066 seconds
+2017-07-03 22:38:07,323 - root - INFO - SUCCESS    Clear and type element: <name->linkManJob> content: 软件架构师, Spend 0.361799955368042 seconds
+2017-07-03 22:38:07,824 - root - INFO - SUCCESS    Clear and type element: <name->linkManEmail> content: 1392364470@qq.com, Spend 0.49900007247924805 seconds
+2017-07-03 22:38:08,333 - root - INFO - SUCCESS    Clear and type element: <name->linkManMobile> content: 15868147450, Spend 0.5065999031066895 seconds
+2017-07-03 22:38:08,609 - root - INFO - SUCCESS    Clicked element: <css selector->a[class = 'per_sure btn_submit']>, Spend 0.27500009536743164 seconds
+2017-07-03 22:38:08,705 - root - INFO - SUCCESS    positioned to element: <xpath->//form/div[1]/div/div[7]/span[1]> , Spend 0.09500002861022949 seconds
+2017-07-03 22:38:08,706 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:38:10,509 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/user/company/confirm, Spend 1.570000171661377 seconds
+2017-07-03 22:38:10,789 - root - INFO - SUCCESS    Clear and type element: <name->enterpriseName> content: 阿里巴巴, Spend 0.28040003776550293 seconds
+2017-07-03 22:38:11,264 - root - INFO - SUCCESS    Clear and type element: <name->businessLicense> content: 256524563222, Spend 0.47460007667541504 seconds
+2017-07-03 22:38:11,444 - root - INFO - SUCCESS    Clicked element: <id->areaOut1>, Spend 0.1789999008178711 seconds
+2017-07-03 22:38:11,690 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea1Id']/li[3]>, Spend 0.24399995803833008 seconds
+2017-07-03 22:38:11,864 - root - INFO - SUCCESS    Clicked element: <id->areaOut2>, Spend 0.17280006408691406 seconds
+2017-07-03 22:38:12,091 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea2Id']/li[2]>, Spend 0.2274000644683838 seconds
+2017-07-03 22:38:12,258 - root - INFO - SUCCESS    Clicked element: <id->areaOut3>, Spend 0.16680002212524414 seconds
+2017-07-03 22:38:12,487 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea3Id']/li[2]>, Spend 0.22919988632202148 seconds
+2017-07-03 22:38:12,776 - root - INFO - SUCCESS    Clear and type element: <name->address> content: 杭州市滨江区网商路669号, Spend 0.287600040435791 seconds
+2017-07-03 22:38:13,027 - root - INFO - SUCCESS    Clear and type element: <name->linkManPhone> content: 4008888001, Spend 0.25 seconds
+2017-07-03 22:38:13,307 - root - INFO - SUCCESS    Clear and type element: <name->linkMan> content: 张张张张张张张张张张张, Spend 0.2799999713897705 seconds
+2017-07-03 22:38:13,553 - root - INFO - SUCCESS    Clear and type element: <name->linkManJob> content: 软件架构师, Spend 0.2463998794555664 seconds
+2017-07-03 22:38:13,950 - root - INFO - SUCCESS    Clear and type element: <name->linkManEmail> content: 1392364470@qq.com, Spend 0.39459991455078125 seconds
+2017-07-03 22:38:14,227 - root - INFO - SUCCESS    Clear and type element: <name->linkManMobile> content: 15868147450, Spend 0.27680015563964844 seconds
+2017-07-03 22:38:14,449 - root - INFO - SUCCESS    Clicked element: <css selector->a[class = 'per_sure btn_submit']>, Spend 0.22099995613098145 seconds
+2017-07-03 22:38:14,557 - root - INFO - SUCCESS    positioned to element: <xpath->//form/div[1]/div/div[7]/span[1]> , Spend 0.10599994659423828 seconds
+2017-07-03 22:38:14,559 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:38:16,142 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/user/company/confirm, Spend 1.3910000324249268 seconds
+2017-07-03 22:38:16,583 - root - INFO - SUCCESS    Clear and type element: <name->enterpriseName> content: 阿里巴巴, Spend 0.4386000633239746 seconds
+2017-07-03 22:38:17,045 - root - INFO - SUCCESS    Clear and type element: <name->businessLicense> content: 256524563222, Spend 0.4605998992919922 seconds
+2017-07-03 22:38:17,275 - root - INFO - SUCCESS    Clicked element: <id->areaOut1>, Spend 0.22880005836486816 seconds
+2017-07-03 22:38:17,615 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea1Id']/li[3]>, Spend 0.33899998664855957 seconds
+2017-07-03 22:38:17,842 - root - INFO - SUCCESS    Clicked element: <id->areaOut2>, Spend 0.22600007057189941 seconds
+2017-07-03 22:38:18,111 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea2Id']/li[2]>, Spend 0.26760005950927734 seconds
+2017-07-03 22:38:18,354 - root - INFO - SUCCESS    Clicked element: <id->areaOut3>, Spend 0.24300003051757812 seconds
+2017-07-03 22:38:18,636 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea3Id']/li[2]>, Spend 0.2796001434326172 seconds
+2017-07-03 22:38:18,981 - root - INFO - SUCCESS    Clear and type element: <name->address> content: 杭州市滨江区网商路669号, Spend 0.3452000617980957 seconds
+2017-07-03 22:38:19,415 - root - INFO - SUCCESS    Clear and type element: <name->linkManPhone> content: 4008888001, Spend 0.4328000545501709 seconds
+2017-07-03 22:38:19,791 - root - INFO - SUCCESS    Clear and type element: <name->linkMan> content: 张某某, Spend 0.37580013275146484 seconds
+2017-07-03 22:38:19,996 - root - INFO - SUCCESS    Clear and type element: <name->linkManJob> content: , Spend 0.203200101852417 seconds
+2017-07-03 22:38:20,410 - root - INFO - SUCCESS    Clear and type element: <name->linkManEmail> content: 1392364470@qq.com, Spend 0.41319990158081055 seconds
+2017-07-03 22:38:20,850 - root - INFO - SUCCESS    Clear and type element: <name->linkManMobile> content: 15868147450, Spend 0.43900012969970703 seconds
+2017-07-03 22:38:21,119 - root - INFO - SUCCESS    Clicked element: <css selector->a[class = 'per_sure btn_submit']>, Spend 0.26800012588500977 seconds
+2017-07-03 22:38:21,289 - root - INFO - SUCCESS    positioned to element: <xpath->//form/div[1]/div/div[8]/span[1]> , Spend 0.1679999828338623 seconds
+2017-07-03 22:38:21,291 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:38:22,972 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/user/company/confirm, Spend 1.4879999160766602 seconds
+2017-07-03 22:38:23,266 - root - INFO - SUCCESS    Clear and type element: <name->enterpriseName> content: 阿里巴巴, Spend 0.29220008850097656 seconds
+2017-07-03 22:38:23,679 - root - INFO - SUCCESS    Clear and type element: <name->businessLicense> content: 256524563222, Spend 0.4124000072479248 seconds
+2017-07-03 22:38:23,917 - root - INFO - SUCCESS    Clicked element: <id->areaOut1>, Spend 0.2369999885559082 seconds
+2017-07-03 22:38:24,328 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea1Id']/li[3]>, Spend 0.4100000858306885 seconds
+2017-07-03 22:38:24,573 - root - INFO - SUCCESS    Clicked element: <id->areaOut2>, Spend 0.2425999641418457 seconds
+2017-07-03 22:38:24,960 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea2Id']/li[2]>, Spend 0.38540005683898926 seconds
+2017-07-03 22:38:25,361 - root - INFO - SUCCESS    Clicked element: <id->areaOut3>, Spend 0.39840006828308105 seconds
+2017-07-03 22:38:25,684 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea3Id']/li[2]>, Spend 0.32200002670288086 seconds
+2017-07-03 22:38:26,031 - root - INFO - SUCCESS    Clear and type element: <name->address> content: 杭州市滨江区网商路669号, Spend 0.34579992294311523 seconds
+2017-07-03 22:38:26,431 - root - INFO - SUCCESS    Clear and type element: <name->linkManPhone> content: 4008888001, Spend 0.3991999626159668 seconds
+2017-07-03 22:38:26,798 - root - INFO - SUCCESS    Clear and type element: <name->linkMan> content: 张某某, Spend 0.3654000759124756 seconds
+2017-07-03 22:38:27,119 - root - INFO - SUCCESS    Clear and type element: <name->linkManJob> content: 软, Spend 0.31999993324279785 seconds
+2017-07-03 22:38:27,712 - root - INFO - SUCCESS    Clear and type element: <name->linkManEmail> content: 1392364470@qq.com, Spend 0.5920000076293945 seconds
+2017-07-03 22:38:28,065 - root - INFO - SUCCESS    Clear and type element: <name->linkManMobile> content: 15868147450, Spend 0.3524000644683838 seconds
+2017-07-03 22:38:28,281 - root - INFO - SUCCESS    Clicked element: <css selector->a[class = 'per_sure btn_submit']>, Spend 0.2147998809814453 seconds
+2017-07-03 22:38:28,376 - root - INFO - SUCCESS    positioned to element: <xpath->//form/div[1]/div/div[8]/span[1]> , Spend 0.09299993515014648 seconds
+2017-07-03 22:38:28,377 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:38:29,574 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/user/company/confirm, Spend 1.0419998168945312 seconds
+2017-07-03 22:38:29,941 - root - INFO - SUCCESS    Clear and type element: <name->enterpriseName> content: 阿里巴巴, Spend 0.3659999370574951 seconds
+2017-07-03 22:38:30,394 - root - INFO - SUCCESS    Clear and type element: <name->businessLicense> content: 256524563222, Spend 0.45200014114379883 seconds
+2017-07-03 22:38:30,678 - root - INFO - SUCCESS    Clicked element: <id->areaOut1>, Spend 0.2834000587463379 seconds
+2017-07-03 22:38:31,095 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea1Id']/li[3]>, Spend 0.415600061416626 seconds
+2017-07-03 22:38:31,344 - root - INFO - SUCCESS    Clicked element: <id->areaOut2>, Spend 0.2480001449584961 seconds
+2017-07-03 22:38:31,599 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea2Id']/li[2]>, Spend 0.25499987602233887 seconds
+2017-07-03 22:38:31,787 - root - INFO - SUCCESS    Clicked element: <id->areaOut3>, Spend 0.18619990348815918 seconds
+2017-07-03 22:38:32,047 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea3Id']/li[2]>, Spend 0.2592000961303711 seconds
+2017-07-03 22:38:32,354 - root - INFO - SUCCESS    Clear and type element: <name->address> content: 杭州市滨江区网商路669号, Spend 0.3062000274658203 seconds
+2017-07-03 22:38:32,697 - root - INFO - SUCCESS    Clear and type element: <name->linkManPhone> content: 4008888001, Spend 0.34200000762939453 seconds
+2017-07-03 22:38:33,001 - root - INFO - SUCCESS    Clear and type element: <name->linkMan> content: 张某某, Spend 0.30320000648498535 seconds
+2017-07-03 22:38:33,387 - root - INFO - SUCCESS    Clear and type element: <name->linkManJob> content: 软件开发软件开发软件开, Spend 0.38520002365112305 seconds
+2017-07-03 22:38:33,857 - root - INFO - SUCCESS    Clear and type element: <name->linkManEmail> content: 1392364470@qq.com, Spend 0.4700000286102295 seconds
+2017-07-03 22:38:34,265 - root - INFO - SUCCESS    Clear and type element: <name->linkManMobile> content: 15868147450, Spend 0.40560007095336914 seconds
+2017-07-03 22:38:34,537 - root - INFO - SUCCESS    Clicked element: <css selector->a[class = 'per_sure btn_submit']>, Spend 0.27139997482299805 seconds
+2017-07-03 22:38:34,667 - root - INFO - SUCCESS    positioned to element: <xpath->//form/div[1]/div/div[8]/span[1]> , Spend 0.12899994850158691 seconds
+2017-07-03 22:38:34,669 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:38:36,011 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/user/company/confirm, Spend 1.1579999923706055 seconds
+2017-07-03 22:38:36,471 - root - INFO - SUCCESS    Clear and type element: <name->enterpriseName> content: 阿里巴巴, Spend 0.4589998722076416 seconds
+2017-07-03 22:38:36,947 - root - INFO - SUCCESS    Clear and type element: <name->businessLicense> content: 256524563222, Spend 0.473599910736084 seconds
+2017-07-03 22:38:37,147 - root - INFO - SUCCESS    Clicked element: <id->areaOut1>, Spend 0.19860005378723145 seconds
+2017-07-03 22:38:37,481 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea1Id']/li[3]>, Spend 0.3338000774383545 seconds
+2017-07-03 22:38:37,777 - root - INFO - SUCCESS    Clicked element: <id->areaOut2>, Spend 0.29420018196105957 seconds
+2017-07-03 22:38:38,103 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea2Id']/li[2]>, Spend 0.3248000144958496 seconds
+2017-07-03 22:38:38,370 - root - INFO - SUCCESS    Clicked element: <id->areaOut3>, Spend 0.26579999923706055 seconds
+2017-07-03 22:38:38,682 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea3Id']/li[2]>, Spend 0.31220006942749023 seconds
+2017-07-03 22:38:39,069 - root - INFO - SUCCESS    Clear and type element: <name->address> content: 杭州市滨江区网商路669号, Spend 0.384199857711792 seconds
+2017-07-03 22:38:39,450 - root - INFO - SUCCESS    Clear and type element: <name->linkManPhone> content: 4008888001, Spend 0.37960004806518555 seconds
+2017-07-03 22:38:39,828 - root - INFO - SUCCESS    Clear and type element: <name->linkMan> content: 张某某, Spend 0.37820005416870117 seconds
+2017-07-03 22:38:40,181 - root - INFO - SUCCESS    Clear and type element: <name->linkManJob> content: 软件架构师, Spend 0.3510000705718994 seconds
+2017-07-03 22:38:40,517 - root - INFO - SUCCESS    Clear and type element: <name->linkManEmail> content: , Spend 0.33480000495910645 seconds
+2017-07-03 22:38:40,907 - root - INFO - SUCCESS    Clear and type element: <name->linkManMobile> content: 15868147450, Spend 0.38919997215270996 seconds
+2017-07-03 22:38:41,199 - root - INFO - SUCCESS    Clicked element: <css selector->a[class = 'per_sure btn_submit']>, Spend 0.28999996185302734 seconds
+2017-07-03 22:38:41,351 - root - INFO - SUCCESS    positioned to element: <xpath->//form/div[1]/div/div[9]/span[1]> , Spend 0.15000009536743164 seconds
+2017-07-03 22:38:41,353 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:38:43,080 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/user/company/confirm, Spend 1.5299999713897705 seconds
+2017-07-03 22:38:43,402 - root - INFO - SUCCESS    Clear and type element: <name->enterpriseName> content: 阿里巴巴, Spend 0.32159996032714844 seconds
+2017-07-03 22:38:43,810 - root - INFO - SUCCESS    Clear and type element: <name->businessLicense> content: 256524563222, Spend 0.4083998203277588 seconds
+2017-07-03 22:38:44,037 - root - INFO - SUCCESS    Clicked element: <id->areaOut1>, Spend 0.2258000373840332 seconds
+2017-07-03 22:38:44,354 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea1Id']/li[3]>, Spend 0.315000057220459 seconds
+2017-07-03 22:38:44,580 - root - INFO - SUCCESS    Clicked element: <id->areaOut2>, Spend 0.22480010986328125 seconds
+2017-07-03 22:38:44,873 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea2Id']/li[2]>, Spend 0.2934000492095947 seconds
+2017-07-03 22:38:45,102 - root - INFO - SUCCESS    Clicked element: <id->areaOut3>, Spend 0.22799992561340332 seconds
+2017-07-03 22:38:45,379 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea3Id']/li[2]>, Spend 0.27499985694885254 seconds
+2017-07-03 22:38:45,752 - root - INFO - SUCCESS    Clear and type element: <name->address> content: 杭州市滨江区网商路669号, Spend 0.37200021743774414 seconds
+2017-07-03 22:38:46,077 - root - INFO - SUCCESS    Clear and type element: <name->linkManPhone> content: 4008888001, Spend 0.32379984855651855 seconds
+2017-07-03 22:38:46,387 - root - INFO - SUCCESS    Clear and type element: <name->linkMan> content: 张某某, Spend 0.3097999095916748 seconds
+2017-07-03 22:38:46,677 - root - INFO - SUCCESS    Clear and type element: <name->linkManJob> content: 软件架构师, Spend 0.28820013999938965 seconds
+2017-07-03 22:38:47,015 - root - INFO - SUCCESS    Clear and type element: <name->linkManEmail> content: 123456789, Spend 0.33700013160705566 seconds
+2017-07-03 22:38:47,403 - root - INFO - SUCCESS    Clear and type element: <name->linkManMobile> content: 15868147450, Spend 0.38739991188049316 seconds
+2017-07-03 22:38:47,632 - root - INFO - SUCCESS    Clicked element: <css selector->a[class = 'per_sure btn_submit']>, Spend 0.22719979286193848 seconds
+2017-07-03 22:38:47,724 - root - INFO - SUCCESS    positioned to element: <xpath->//form/div[1]/div/div[9]/span[1]> , Spend 0.09099984169006348 seconds
+2017-07-03 22:38:47,725 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:38:49,028 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/user/company/confirm, Spend 1.0989999771118164 seconds
+2017-07-03 22:38:49,261 - root - INFO - SUCCESS    Clear and type element: <name->enterpriseName> content: 阿里巴巴, Spend 0.23280000686645508 seconds
+2017-07-03 22:38:49,614 - root - INFO - SUCCESS    Clear and type element: <name->businessLicense> content: 256524563222, Spend 0.3510000705718994 seconds
+2017-07-03 22:38:49,907 - root - INFO - SUCCESS    Clicked element: <id->areaOut1>, Spend 0.29180002212524414 seconds
+2017-07-03 22:38:50,310 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea1Id']/li[3]>, Spend 0.40020012855529785 seconds
+2017-07-03 22:38:50,585 - root - INFO - SUCCESS    Clicked element: <id->areaOut2>, Spend 0.27539992332458496 seconds
+2017-07-03 22:38:50,950 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea2Id']/li[2]>, Spend 0.3640000820159912 seconds
+2017-07-03 22:38:51,272 - root - INFO - SUCCESS    Clicked element: <id->areaOut3>, Spend 0.3206000328063965 seconds
+2017-07-03 22:38:51,485 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea3Id']/li[2]>, Spend 0.21199989318847656 seconds
+2017-07-03 22:38:52,097 - root - INFO - SUCCESS    Clear and type element: <name->address> content: 杭州市滨江区网商路669号, Spend 0.6126000881195068 seconds
+2017-07-03 22:38:52,416 - root - INFO - SUCCESS    Clear and type element: <name->linkManPhone> content: 4008888001, Spend 0.3171999454498291 seconds
+2017-07-03 22:38:52,751 - root - INFO - SUCCESS    Clear and type element: <name->linkMan> content: 张某某, Spend 0.3337998390197754 seconds
+2017-07-03 22:38:53,046 - root - INFO - SUCCESS    Clear and type element: <name->linkManJob> content: 软件架构师, Spend 0.2932000160217285 seconds
+2017-07-03 22:38:53,421 - root - INFO - SUCCESS    Clear and type element: <name->linkManEmail> content: 1392364470@qq.com, Spend 0.3731999397277832 seconds
+2017-07-03 22:38:53,715 - root - INFO - SUCCESS    Clear and type element: <name->linkManMobile> content: , Spend 0.29380011558532715 seconds
+2017-07-03 22:38:54,008 - root - INFO - SUCCESS    Clicked element: <css selector->a[class = 'per_sure btn_submit']>, Spend 0.27559995651245117 seconds
+2017-07-03 22:38:54,173 - root - INFO - SUCCESS    positioned to element: <xpath->//form/div[1]/div/div[10]/span[1]> , Spend 0.1640000343322754 seconds
+2017-07-03 22:38:54,174 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0010001659393310547 seconds
+2017-07-03 22:38:55,492 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/user/company/confirm, Spend 1.1439998149871826 seconds
+2017-07-03 22:38:55,726 - root - INFO - SUCCESS    Clear and type element: <name->enterpriseName> content: 阿里巴巴, Spend 0.23199987411499023 seconds
+2017-07-03 22:38:56,031 - root - INFO - SUCCESS    Clear and type element: <name->businessLicense> content: 256524563222, Spend 0.3037998676300049 seconds
+2017-07-03 22:38:56,207 - root - INFO - SUCCESS    Clicked element: <id->areaOut1>, Spend 0.17400002479553223 seconds
+2017-07-03 22:38:56,455 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea1Id']/li[3]>, Spend 0.24699997901916504 seconds
+2017-07-03 22:38:56,626 - root - INFO - SUCCESS    Clicked element: <id->areaOut2>, Spend 0.17100000381469727 seconds
+2017-07-03 22:38:56,848 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea2Id']/li[2]>, Spend 0.22099995613098145 seconds
+2017-07-03 22:38:57,041 - root - INFO - SUCCESS    Clicked element: <id->areaOut3>, Spend 0.19300007820129395 seconds
+2017-07-03 22:38:57,241 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea3Id']/li[2]>, Spend 0.1977999210357666 seconds
+2017-07-03 22:38:57,513 - root - INFO - SUCCESS    Clear and type element: <name->address> content: 杭州市滨江区网商路669号, Spend 0.2709999084472656 seconds
+2017-07-03 22:38:57,865 - root - INFO - SUCCESS    Clear and type element: <name->linkManPhone> content: 4008888001, Spend 0.3509998321533203 seconds
+2017-07-03 22:38:58,101 - root - INFO - SUCCESS    Clear and type element: <name->linkMan> content: 张某某, Spend 0.23459982872009277 seconds
+2017-07-03 22:38:58,305 - root - INFO - SUCCESS    Clear and type element: <name->linkManJob> content: 软件架构师, Spend 0.20300006866455078 seconds
+2017-07-03 22:38:58,562 - root - INFO - SUCCESS    Clear and type element: <name->linkManEmail> content: 1392364470@qq.com, Spend 0.2560000419616699 seconds
+2017-07-03 22:38:58,802 - root - INFO - SUCCESS    Clear and type element: <name->linkManMobile> content: 1586814745, Spend 0.2387998104095459 seconds
+2017-07-03 22:38:58,962 - root - INFO - SUCCESS    Clicked element: <css selector->a[class = 'per_sure btn_submit']>, Spend 0.15979981422424316 seconds
+2017-07-03 22:38:59,026 - root - INFO - SUCCESS    positioned to element: <xpath->//form/div[1]/div/div[10]/span[1]> , Spend 0.06299996376037598 seconds
+2017-07-03 22:38:59,027 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:39:00,169 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/user/company/confirm, Spend 0.937999963760376 seconds
+2017-07-03 22:39:00,372 - root - INFO - SUCCESS    Clear and type element: <name->enterpriseName> content: 阿里巴巴, Spend 0.20260000228881836 seconds
+2017-07-03 22:39:00,650 - root - INFO - SUCCESS    Clear and type element: <name->businessLicense> content: 256524563222, Spend 0.2777998447418213 seconds
+2017-07-03 22:39:00,810 - root - INFO - SUCCESS    Clicked element: <id->areaOut1>, Spend 0.15900015830993652 seconds
+2017-07-03 22:39:01,023 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea1Id']/li[3]>, Spend 0.21300005912780762 seconds
+2017-07-03 22:39:01,171 - root - INFO - SUCCESS    Clicked element: <id->areaOut2>, Spend 0.14699983596801758 seconds
+2017-07-03 22:39:01,358 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea2Id']/li[2]>, Spend 0.18579983711242676 seconds
+2017-07-03 22:39:01,499 - root - INFO - SUCCESS    Clicked element: <id->areaOut3>, Spend 0.14119982719421387 seconds
+2017-07-03 22:39:01,628 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea3Id']/li[2]>, Spend 0.1288001537322998 seconds
+2017-07-03 22:39:01,916 - root - INFO - SUCCESS    Clear and type element: <name->address> content: 杭州市滨江区网商路669号, Spend 0.2871999740600586 seconds
+2017-07-03 22:39:02,140 - root - INFO - SUCCESS    Clear and type element: <name->linkManPhone> content: 4008888001, Spend 0.22420001029968262 seconds
+2017-07-03 22:39:02,347 - root - INFO - SUCCESS    Clear and type element: <name->linkMan> content: 张某某, Spend 0.20580005645751953 seconds
+2017-07-03 22:39:02,541 - root - INFO - SUCCESS    Clear and type element: <name->linkManJob> content: 软件架构师, Spend 0.192000150680542 seconds
+2017-07-03 22:39:02,840 - root - INFO - SUCCESS    Clear and type element: <name->linkManEmail> content: 1392364470@qq.com, Spend 0.2990000247955322 seconds
+2017-07-03 22:39:03,095 - root - INFO - SUCCESS    Clear and type element: <name->linkManMobile> content: 158681474511, Spend 0.25480008125305176 seconds
+2017-07-03 22:39:03,256 - root - INFO - SUCCESS    Clicked element: <css selector->a[class = 'per_sure btn_submit']>, Spend 0.15980005264282227 seconds
+2017-07-03 22:39:03,310 - root - INFO - SUCCESS    positioned to element: <xpath->//form/div[1]/div/div[10]/span[1]> , Spend 0.053999900817871094 seconds
+2017-07-03 22:39:03,311 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:39:04,160 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/user/company/confirm, Spend 0.7209999561309814 seconds
+2017-07-03 22:39:04,376 - root - INFO - SUCCESS    Clear and type element: <name->enterpriseName> content: 阿里巴巴, Spend 0.21600008010864258 seconds
+2017-07-03 22:39:04,651 - root - INFO - SUCCESS    Clear and type element: <name->businessLicense> content: 256524563222, Spend 0.27479982376098633 seconds
+2017-07-03 22:39:04,815 - root - INFO - SUCCESS    Clicked element: <id->areaOut1>, Spend 0.16359996795654297 seconds
+2017-07-03 22:39:05,105 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea1Id']/li[3]>, Spend 0.2877998352050781 seconds
+2017-07-03 22:39:05,269 - root - INFO - SUCCESS    Clicked element: <id->areaOut2>, Spend 0.16319990158081055 seconds
+2017-07-03 22:39:05,467 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea2Id']/li[2]>, Spend 0.19700002670288086 seconds
+2017-07-03 22:39:05,591 - root - INFO - SUCCESS    Clicked element: <id->areaOut3>, Spend 0.12459993362426758 seconds
+2017-07-03 22:39:05,758 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea3Id']/li[2]>, Spend 0.16659998893737793 seconds
+2017-07-03 22:39:05,955 - root - INFO - SUCCESS    Clear and type element: <name->address> content: 杭州市滨江区网商路669号, Spend 0.19639992713928223 seconds
+2017-07-03 22:39:06,136 - root - INFO - SUCCESS    Clear and type element: <name->linkManPhone> content: 4008888001, Spend 0.1807999610900879 seconds
+2017-07-03 22:39:06,314 - root - INFO - SUCCESS    Clear and type element: <name->linkMan> content: 张某某, Spend 0.17639994621276855 seconds
+2017-07-03 22:39:06,484 - root - INFO - SUCCESS    Clear and type element: <name->linkManJob> content: 软件架构师, Spend 0.17060017585754395 seconds
+2017-07-03 22:39:06,733 - root - INFO - SUCCESS    Clear and type element: <name->linkManEmail> content: 1392364470@qq.com, Spend 0.247999906539917 seconds
+2017-07-03 22:39:06,942 - root - INFO - SUCCESS    Clear and type element: <name->linkManMobile> content: 15868147450, Spend 0.20920014381408691 seconds
+2017-07-03 22:39:07,096 - root - INFO - SUCCESS    Clicked element: <css selector->a[class = 'per_sure btn_submit']>, Spend 0.15219998359680176 seconds
+2017-07-03 22:39:08,214 - root - INFO - SUCCESS    positioned to element: <xpath->//form/div[3]/div/div/div/div/div[1]/label/span[1]> , Spend 0.11420011520385742 seconds
+2017-07-03 22:39:08,214 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:39:11,830 - root - INFO - ###############################  End  ###############################
+2017-07-03 22:39:11,830 - root - INFO - ############################### START ###############################
+2017-07-03 22:39:17,693 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/user/company/confirm, Spend 0.8947999477386475 seconds
+2017-07-03 22:39:18,116 - root - INFO - SUCCESS    Clear and type element: <id->username> content: 15868147450, Spend 0.4212000370025635 seconds
+2017-07-03 22:39:18,398 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 12345678, Spend 0.2797999382019043 seconds
+2017-07-03 22:39:18,598 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'btn_com btn_blue login_btn_submit sy_in']>, Spend 0.20000004768371582 seconds
+2017-07-03 22:39:21,087 - root - INFO - SUCCESS    Clear and type element: <name->enterpriseName> content: 阿里巴巴, Spend 2.4892001152038574 seconds
+2017-07-03 22:39:21,381 - root - INFO - SUCCESS    Clear and type element: <name->businessLicense> content: 256524563222, Spend 0.29239988327026367 seconds
+2017-07-03 22:39:21,611 - root - INFO - SUCCESS    Clicked element: <xpath->//form/div[1]/div/div[3]/div[2]/div/span[2]/span>, Spend 0.22880005836486816 seconds
+2017-07-03 22:39:21,882 - root - INFO - SUCCESS    Clicked element: <css selector->label[class = 'btn_select_file']>, Spend 0.26960015296936035 seconds
+2017-07-03 22:39:24,789 - root - INFO - SUCCESS    Clicked element: <css selector->div[class = 'submit btn_com btn_blue cropper_upload w140']>, Spend 0.3060002326965332 seconds
+2017-07-03 22:39:25,170 - root - INFO - SUCCESS    Clicked element: <id->areaOut1>, Spend 0.3803999423980713 seconds
+2017-07-03 22:39:25,607 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea1Id']/li[3]>, Spend 0.43599987030029297 seconds
+2017-07-03 22:39:25,832 - root - INFO - SUCCESS    Clicked element: <id->areaOut2>, Spend 0.22359991073608398 seconds
+2017-07-03 22:39:26,125 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea2Id']/li[2]>, Spend 0.29239988327026367 seconds
+2017-07-03 22:39:26,357 - root - INFO - SUCCESS    Clicked element: <id->areaOut3>, Spend 0.23039984703063965 seconds
+2017-07-03 22:39:26,617 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea3Id']/li[2]>, Spend 0.259199857711792 seconds
+2017-07-03 22:39:26,947 - root - INFO - SUCCESS    Clear and type element: <name->address> content: 杭州市滨江区网商路669号, Spend 0.3303999900817871 seconds
+2017-07-03 22:39:27,249 - root - INFO - SUCCESS    Clear and type element: <name->linkManPhone> content: 4008888001, Spend 0.29979991912841797 seconds
+2017-07-03 22:39:27,603 - root - INFO - SUCCESS    Clear and type element: <name->linkMan> content: 张某某, Spend 0.3525998592376709 seconds
+2017-07-03 22:39:27,914 - root - INFO - SUCCESS    Clear and type element: <name->linkManJob> content: 软件架构师, Spend 0.31080007553100586 seconds
+2017-07-03 22:39:28,236 - root - INFO - SUCCESS    Clear and type element: <name->linkManEmail> content: 1392364470@qq.com, Spend 0.3206000328063965 seconds
+2017-07-03 22:39:28,534 - root - INFO - SUCCESS    Clear and type element: <name->linkManMobile> content: 15868147450, Spend 0.29779982566833496 seconds
+2017-07-03 22:39:29,805 - root - INFO - SUCCESS    Clicked element: <css selector->a[class = 'per_sure btn_submit']>, Spend 0.2609999179840088 seconds
+2017-07-03 22:39:30,135 - root - INFO - SUCCESS    Clear and type element: <xpath->.//*[@id='slogan']> content: , Spend 0.32899999618530273 seconds
+2017-07-03 22:39:30,953 - root - INFO - SUCCESS    Clear and type element: <xpath->//form/div[3]/div/div/div/div/div[5]/div/div[2]> content: 少时诵诗书所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所反反复复付付付付付付付付付付付付付付付付付付付付付付付付付付付付付付付付付付付付反反复复付反反复复凤分, Spend 0.8178000450134277 seconds
+2017-07-03 22:39:31,778 - root - INFO - SUCCESS    Clear and type element: <xpath->//form/div[3]/div/div/div/div/div[6]/div/div[2]> content: 少时诵诗书所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所反反复复付付付付付付付付付付付付付付付付付付付付付付付付付付付付付付付付付付付付反反复复付反反复复凤分, Spend 0.8229999542236328 seconds
+2017-07-03 22:39:32,019 - root - INFO - SUCCESS    Clicked element: <css selector->a[class = 'per_sure btn_submit2']>, Spend 0.24000000953674316 seconds
+2017-07-03 22:39:32,161 - root - INFO - SUCCESS    positioned to element: <xpath->//form/div[3]/div/div/div/div/div[1]/span> , Spend 0.14100003242492676 seconds
+2017-07-03 22:39:32,162 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:39:34,082 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/user/company/confirm, Spend 1.753000020980835 seconds
+2017-07-03 22:39:34,391 - root - INFO - SUCCESS    Clear and type element: <name->enterpriseName> content: 阿里巴巴, Spend 0.3082001209259033 seconds
+2017-07-03 22:39:34,746 - root - INFO - SUCCESS    Clear and type element: <name->businessLicense> content: 256524563222, Spend 0.3529999256134033 seconds
+2017-07-03 22:39:34,992 - root - INFO - SUCCESS    Clicked element: <id->areaOut1>, Spend 0.24599981307983398 seconds
+2017-07-03 22:39:35,332 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea1Id']/li[3]>, Spend 0.33839988708496094 seconds
+2017-07-03 22:39:35,546 - root - INFO - SUCCESS    Clicked element: <id->areaOut2>, Spend 0.2128000259399414 seconds
+2017-07-03 22:39:35,805 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea2Id']/li[2]>, Spend 0.2572000026702881 seconds
+2017-07-03 22:39:36,029 - root - INFO - SUCCESS    Clicked element: <id->areaOut3>, Spend 0.22340011596679688 seconds
+2017-07-03 22:39:36,345 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea3Id']/li[2]>, Spend 0.315000057220459 seconds
+2017-07-03 22:39:36,669 - root - INFO - SUCCESS    Clear and type element: <name->address> content: 杭州市滨江区网商路669号, Spend 0.3227999210357666 seconds
+2017-07-03 22:39:36,995 - root - INFO - SUCCESS    Clear and type element: <name->linkManPhone> content: 4008888001, Spend 0.32540011405944824 seconds
+2017-07-03 22:39:37,297 - root - INFO - SUCCESS    Clear and type element: <name->linkMan> content: 张某某, Spend 0.30120015144348145 seconds
+2017-07-03 22:39:37,577 - root - INFO - SUCCESS    Clear and type element: <name->linkManJob> content: 软件架构师, Spend 0.27880001068115234 seconds
+2017-07-03 22:39:37,975 - root - INFO - SUCCESS    Clear and type element: <name->linkManEmail> content: 1392364470@qq.com, Spend 0.3959999084472656 seconds
+2017-07-03 22:39:38,349 - root - INFO - SUCCESS    Clear and type element: <name->linkManMobile> content: 15868147450, Spend 0.3730001449584961 seconds
+2017-07-03 22:39:38,589 - root - INFO - SUCCESS    Clicked element: <css selector->a[class = 'per_sure btn_submit']>, Spend 0.238800048828125 seconds
+2017-07-03 22:39:38,924 - root - INFO - SUCCESS    Clear and type element: <xpath->.//*[@id='slogan']> content: 控, Spend 0.33520007133483887 seconds
+2017-07-03 22:39:39,643 - root - INFO - SUCCESS    Clear and type element: <xpath->//form/div[3]/div/div/div/div/div[5]/div/div[2]> content: 少时诵诗书所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所反反复复付付付付付付付付付付付付付付付付付付付付付付付付付付付付付付付付付付付付反反复复付反反复复凤分, Spend 0.7181999683380127 seconds
+2017-07-03 22:39:40,214 - root - INFO - SUCCESS    Clear and type element: <xpath->//form/div[3]/div/div/div/div/div[6]/div/div[2]> content: 少时诵诗书所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所反反复复付付付付付付付付付付付付付付付付付付付付付付付付付付付付付付付付付付付付反反复复付反反复复凤分, Spend 0.5708000659942627 seconds
+2017-07-03 22:39:40,360 - root - INFO - SUCCESS    Clicked element: <css selector->a[class = 'per_sure btn_submit2']>, Spend 0.14400005340576172 seconds
+2017-07-03 22:39:40,439 - root - INFO - SUCCESS    positioned to element: <xpath->//form/div[3]/div/div/div/div/div[1]/span> , Spend 0.07800006866455078 seconds
+2017-07-03 22:39:40,440 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:39:41,748 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/user/company/confirm, Spend 1.0889999866485596 seconds
+2017-07-03 22:39:42,075 - root - INFO - SUCCESS    Clear and type element: <name->enterpriseName> content: 阿里巴巴, Spend 0.3259999752044678 seconds
+2017-07-03 22:39:42,462 - root - INFO - SUCCESS    Clear and type element: <name->businessLicense> content: 256524563222, Spend 0.3859999179840088 seconds
+2017-07-03 22:39:42,696 - root - INFO - SUCCESS    Clicked element: <id->areaOut1>, Spend 0.2314000129699707 seconds
+2017-07-03 22:39:43,008 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea1Id']/li[3]>, Spend 0.31060004234313965 seconds
+2017-07-03 22:39:43,253 - root - INFO - SUCCESS    Clicked element: <id->areaOut2>, Spend 0.24399995803833008 seconds
+2017-07-03 22:39:43,529 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea2Id']/li[2]>, Spend 0.27499985694885254 seconds
+2017-07-03 22:39:43,751 - root - INFO - SUCCESS    Clicked element: <id->areaOut3>, Spend 0.22099995613098145 seconds
+2017-07-03 22:39:44,009 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea3Id']/li[2]>, Spend 0.25679993629455566 seconds
+2017-07-03 22:39:44,463 - root - INFO - SUCCESS    Clear and type element: <name->address> content: 杭州市滨江区网商路669号, Spend 0.4535999298095703 seconds
+2017-07-03 22:39:44,846 - root - INFO - SUCCESS    Clear and type element: <name->linkManPhone> content: 4008888001, Spend 0.3810000419616699 seconds
+2017-07-03 22:39:45,076 - root - INFO - SUCCESS    Clear and type element: <name->linkMan> content: 张某某, Spend 0.23000001907348633 seconds
+2017-07-03 22:39:45,295 - root - INFO - SUCCESS    Clear and type element: <name->linkManJob> content: 软件架构师, Spend 0.21719980239868164 seconds
+2017-07-03 22:39:45,708 - root - INFO - SUCCESS    Clear and type element: <name->linkManEmail> content: 1392364470@qq.com, Spend 0.41179990768432617 seconds
+2017-07-03 22:39:46,063 - root - INFO - SUCCESS    Clear and type element: <name->linkManMobile> content: 15868147450, Spend 0.35580015182495117 seconds
+2017-07-03 22:39:46,283 - root - INFO - SUCCESS    Clicked element: <css selector->a[class = 'per_sure btn_submit']>, Spend 0.21880006790161133 seconds
+2017-07-03 22:39:46,706 - root - INFO - SUCCESS    Clear and type element: <xpath->.//*[@id='slogan']> content: 解决解决军军军军军军军军军军军军哈哈哈哈哈哈或或或或或或或或或, Spend 0.42100000381469727 seconds
+2017-07-03 22:39:47,438 - root - INFO - SUCCESS    Clear and type element: <xpath->//form/div[3]/div/div/div/div/div[5]/div/div[2]> content: 少时诵诗书所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所反反复复付付付付付付付付付付付付付付付付付付付付付付付付付付付付付付付付付付付付反反复复付反反复复凤分, Spend 0.7314000129699707 seconds
+2017-07-03 22:39:48,078 - root - INFO - SUCCESS    Clear and type element: <xpath->//form/div[3]/div/div/div/div/div[6]/div/div[2]> content: 少时诵诗书所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所反反复复付付付付付付付付付付付付付付付付付付付付付付付付付付付付付付付付付付付付反反复复付反反复复凤分, Spend 0.6394000053405762 seconds
+2017-07-03 22:39:48,264 - root - INFO - SUCCESS    Clicked element: <css selector->a[class = 'per_sure btn_submit2']>, Spend 0.18400001525878906 seconds
+2017-07-03 22:39:48,339 - root - INFO - SUCCESS    positioned to element: <xpath->//form/div[3]/div/div/div/div/div[1]/span> , Spend 0.07399988174438477 seconds
+2017-07-03 22:39:48,340 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:39:49,388 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/user/company/confirm, Spend 0.8440001010894775 seconds
+2017-07-03 22:39:49,648 - root - INFO - SUCCESS    Clear and type element: <name->enterpriseName> content: 阿里巴巴, Spend 0.2590000629425049 seconds
+2017-07-03 22:39:50,095 - root - INFO - SUCCESS    Clear and type element: <name->businessLicense> content: 256524563222, Spend 0.44679999351501465 seconds
+2017-07-03 22:39:50,328 - root - INFO - SUCCESS    Clicked element: <id->areaOut1>, Spend 0.23200011253356934 seconds
+2017-07-03 22:39:50,585 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea1Id']/li[3]>, Spend 0.25480008125305176 seconds
+2017-07-03 22:39:50,711 - root - INFO - SUCCESS    Clicked element: <id->areaOut2>, Spend 0.1268000602722168 seconds
+2017-07-03 22:39:50,902 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea2Id']/li[2]>, Spend 0.18919992446899414 seconds
+2017-07-03 22:39:51,056 - root - INFO - SUCCESS    Clicked element: <id->areaOut3>, Spend 0.1548001766204834 seconds
+2017-07-03 22:39:51,242 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea3Id']/li[2]>, Spend 0.18579983711242676 seconds
+2017-07-03 22:39:51,490 - root - INFO - SUCCESS    Clear and type element: <name->address> content: 杭州市滨江区网商路669号, Spend 0.24679994583129883 seconds
+2017-07-03 22:39:51,718 - root - INFO - SUCCESS    Clear and type element: <name->linkManPhone> content: 4008888001, Spend 0.22679996490478516 seconds
+2017-07-03 22:39:51,933 - root - INFO - SUCCESS    Clear and type element: <name->linkMan> content: 张某某, Spend 0.21500015258789062 seconds
+2017-07-03 22:39:52,147 - root - INFO - SUCCESS    Clear and type element: <name->linkManJob> content: 软件架构师, Spend 0.2145998477935791 seconds
+2017-07-03 22:39:52,442 - root - INFO - SUCCESS    Clear and type element: <name->linkManEmail> content: 1392364470@qq.com, Spend 0.29359984397888184 seconds
+2017-07-03 22:39:52,682 - root - INFO - SUCCESS    Clear and type element: <name->linkManMobile> content: 15868147450, Spend 0.23940014839172363 seconds
+2017-07-03 22:39:52,920 - root - INFO - SUCCESS    Clicked element: <css selector->a[class = 'per_sure btn_submit']>, Spend 0.2369999885559082 seconds
+2017-07-03 22:39:53,056 - root - INFO - 【FAIL】    Unable to clear and type element: <xpath->.//*[@id='slogan']> content: 回归, Spend 0.13499999046325684 seconds
+2017-07-03 22:39:54,212 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/user/company/confirm, Spend 1.1489999294281006 seconds
+2017-07-03 22:39:54,569 - root - INFO - SUCCESS    Clear and type element: <name->enterpriseName> content: 阿里巴巴, Spend 0.35540008544921875 seconds
+2017-07-03 22:39:54,882 - root - INFO - SUCCESS    Clear and type element: <name->businessLicense> content: 256524563222, Spend 0.31240010261535645 seconds
+2017-07-03 22:39:55,092 - root - INFO - SUCCESS    Clicked element: <id->areaOut1>, Spend 0.2089998722076416 seconds
+2017-07-03 22:39:55,374 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea1Id']/li[3]>, Spend 0.2818000316619873 seconds
+2017-07-03 22:39:55,615 - root - INFO - SUCCESS    Clicked element: <id->areaOut2>, Spend 0.23959994316101074 seconds
+2017-07-03 22:39:55,920 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea2Id']/li[2]>, Spend 0.3041999340057373 seconds
+2017-07-03 22:39:56,092 - root - INFO - SUCCESS    Clicked element: <id->areaOut3>, Spend 0.17219996452331543 seconds
+2017-07-03 22:39:56,308 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea3Id']/li[2]>, Spend 0.2146000862121582 seconds
+2017-07-03 22:39:56,557 - root - INFO - SUCCESS    Clear and type element: <name->address> content: 杭州市滨江区网商路669号, Spend 0.2497999668121338 seconds
+2017-07-03 22:39:56,794 - root - INFO - SUCCESS    Clear and type element: <name->linkManPhone> content: 4008888001, Spend 0.23580002784729004 seconds
+2017-07-03 22:39:57,037 - root - INFO - SUCCESS    Clear and type element: <name->linkMan> content: 张某某, Spend 0.24180006980895996 seconds
+2017-07-03 22:39:57,263 - root - INFO - SUCCESS    Clear and type element: <name->linkManJob> content: 软件架构师, Spend 0.22519993782043457 seconds
+2017-07-03 22:39:57,559 - root - INFO - SUCCESS    Clear and type element: <name->linkManEmail> content: 1392364470@qq.com, Spend 0.29579997062683105 seconds
+2017-07-03 22:39:57,817 - root - INFO - SUCCESS    Clear and type element: <name->linkManMobile> content: 15868147450, Spend 0.25660014152526855 seconds
+2017-07-03 22:39:57,994 - root - INFO - SUCCESS    Clicked element: <css selector->a[class = 'per_sure btn_submit']>, Spend 0.17599987983703613 seconds
+2017-07-03 22:39:58,198 - root - INFO - SUCCESS    Clear and type element: <xpath->.//*[@id='slogan']> content: 阿里云, Spend 0.20239996910095215 seconds
+2017-07-03 22:39:58,867 - root - INFO - SUCCESS    Clear and type element: <xpath->//form/div[3]/div/div/div/div/div[5]/div/div[2]> content: 少时诵诗书所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所反反复复付付付付付付付付付付付付付付付付付付付付付付付付付付付付付付付付付付付付反反复复付反反复复凤分, Spend 0.6675999164581299 seconds
+2017-07-03 22:39:59,656 - root - INFO - SUCCESS    Clear and type element: <xpath->//form/div[3]/div/div/div/div/div[6]/div/div[2]> content: 解决解决军军军军军军军军军军军军军军军军军军军军军军军军军军军军军解决解决军军军军军军军军军军军军军军军军军军军军军军军军解决解决军军军军军军军军军军军军军军军军解决解决军军军军军军军军军军军军急急, Spend 0.7888000011444092 seconds
+2017-07-03 22:39:59,886 - root - INFO - SUCCESS    Clicked element: <css selector->a[class = 'per_sure btn_submit2']>, Spend 0.22900009155273438 seconds
+2017-07-03 22:40:00,018 - root - INFO - SUCCESS    positioned to element: <xpath->html/body/div[3]/div/div/form/div[3]/div/div/div/div/div[6]/label/span[1]> , Spend 0.13000011444091797 seconds
+2017-07-03 22:40:00,019 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:40:01,628 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/user/company/confirm, Spend 1.3609998226165771 seconds
+2017-07-03 22:40:01,876 - root - INFO - SUCCESS    Clear and type element: <name->enterpriseName> content: 阿里巴巴, Spend 0.24699997901916504 seconds
+2017-07-03 22:40:02,263 - root - INFO - SUCCESS    Clear and type element: <name->businessLicense> content: 256524563222, Spend 0.3866000175476074 seconds
+2017-07-03 22:40:02,471 - root - INFO - SUCCESS    Clicked element: <id->areaOut1>, Spend 0.2070000171661377 seconds
+2017-07-03 22:40:02,759 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea1Id']/li[3]>, Spend 0.28660011291503906 seconds
+2017-07-03 22:40:02,958 - root - INFO - SUCCESS    Clicked element: <id->areaOut2>, Spend 0.1979999542236328 seconds
+2017-07-03 22:40:03,214 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea2Id']/li[2]>, Spend 0.25479984283447266 seconds
+2017-07-03 22:40:03,443 - root - INFO - SUCCESS    Clicked element: <id->areaOut3>, Spend 0.22720003128051758 seconds
+2017-07-03 22:40:03,608 - root - INFO - SUCCESS    Clicked element: <xpath->.//*[@id='sArea3Id']/li[2]>, Spend 0.16499996185302734 seconds
+2017-07-03 22:40:03,980 - root - INFO - SUCCESS    Clear and type element: <name->address> content: 杭州市滨江区网商路669号, Spend 0.37240004539489746 seconds
+2017-07-03 22:40:04,263 - root - INFO - SUCCESS    Clear and type element: <name->linkManPhone> content: 4008888001, Spend 0.28240013122558594 seconds
+2017-07-03 22:40:04,530 - root - INFO - SUCCESS    Clear and type element: <name->linkMan> content: 张某某, Spend 0.26579999923706055 seconds
+2017-07-03 22:40:04,800 - root - INFO - SUCCESS    Clear and type element: <name->linkManJob> content: 软件架构师, Spend 0.2688000202178955 seconds
+2017-07-03 22:40:05,150 - root - INFO - SUCCESS    Clear and type element: <name->linkManEmail> content: 1392364470@qq.com, Spend 0.3487999439239502 seconds
+2017-07-03 22:40:05,473 - root - INFO - SUCCESS    Clear and type element: <name->linkManMobile> content: 15868147450, Spend 0.32179999351501465 seconds
+2017-07-03 22:40:05,677 - root - INFO - SUCCESS    Clicked element: <css selector->a[class = 'per_sure btn_submit']>, Spend 0.20200014114379883 seconds
+2017-07-03 22:40:05,923 - root - INFO - SUCCESS    Clear and type element: <xpath->.//*[@id='slogan']> content: 阿里云, Spend 0.2464001178741455 seconds
+2017-07-03 22:40:06,628 - root - INFO - SUCCESS    Clear and type element: <xpath->//form/div[3]/div/div/div/div/div[5]/div/div[2]> content: 少时诵诗书所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所反反复复付付付付付付付付付付付付付付付付付付付付付付付付付付付付付付付付付付付付反反复复付反反复复凤分, Spend 0.704200029373169 seconds
+2017-07-03 22:40:07,309 - root - INFO - SUCCESS    Clear and type element: <xpath->//form/div[3]/div/div/div/div/div[6]/div/div[2]> content: 少时诵诗书所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所所反反复复付付付付付付付付付付付付付付付付付付付付付付付付付付付付付付付付付付付付反反复复付反反复复凤分, Spend 0.6789999008178711 seconds
+2017-07-03 22:40:07,447 - root - INFO - SUCCESS    Clicked element: <css selector->a[class = 'per_sure btn_submit2']>, Spend 0.13699984550476074 seconds
+2017-07-03 22:40:07,516 - root - INFO - SUCCESS    positioned to element: <xpath->//form/div[5]/div[1]/div/div[1]/label/span> , Spend 0.06859993934631348 seconds
+2017-07-03 22:40:07,516 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:40:10,989 - root - INFO - ###############################  End  ###############################
+2017-07-03 22:40:10,989 - root - INFO - ############################### START ###############################
+2017-07-03 22:40:17,139 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/user/fund/trader/password, Spend 0.7960000038146973 seconds
+2017-07-03 22:40:17,401 - root - INFO - SUCCESS    Clear and type element: <id->username> content: 15868147450, Spend 0.261199951171875 seconds
+2017-07-03 22:40:17,628 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 12345678, Spend 0.22620010375976562 seconds
+2017-07-03 22:40:17,869 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'btn_com btn_blue login_btn_submit sy_in']>, Spend 0.24099993705749512 seconds
+2017-07-03 22:40:19,091 - root - INFO - SUCCESS    Clicked element: <class name->setPassword>, Spend 1.2209999561309814 seconds
+2017-07-03 22:40:19,187 - root - INFO - SUCCESS    positioned to element: <xpath->//form/div[1]/label/span> , Spend 0.09599995613098145 seconds
+2017-07-03 22:40:19,188 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:40:20,354 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/user/fund/trader/password, Spend 0.8622000217437744 seconds
+2017-07-03 22:40:20,572 - root - INFO - SUCCESS    Clicked element: <class name->setPassword>, Spend 0.21560001373291016 seconds
+2017-07-03 22:40:20,806 - root - INFO - SUCCESS    Clear and type element: <id->payPassword> content: , Spend 0.2333998680114746 seconds
+2017-07-03 22:40:21,095 - root - INFO - SUCCESS    Clear and type element: <id->payPassword1> content: 12345678, Spend 0.287600040435791 seconds
+2017-07-03 22:40:21,365 - root - INFO - SUCCESS    Clear and type element: <xpath->//div[2]/div[2]/div/div[2]/div/form/div[3]/input[1]> content: 1111, Spend 0.2701997756958008 seconds
+2017-07-03 22:40:21,604 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'per_sure btn_submit']>, Spend 0.23819994926452637 seconds
+2017-07-03 22:40:21,736 - root - INFO - SUCCESS    positioned to element: <xpath->//div[2]/div[2]/div/div[2]/div/form/div[1]/span[1]> , Spend 0.13100004196166992 seconds
+2017-07-03 22:40:21,737 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:40:22,336 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/user/fund/trader/password, Spend 0.437999963760376 seconds
+2017-07-03 22:40:22,521 - root - INFO - SUCCESS    Clicked element: <class name->setPassword>, Spend 0.16820001602172852 seconds
+2017-07-03 22:40:22,744 - root - INFO - SUCCESS    Clear and type element: <id->payPassword> content: 12345, Spend 0.22239995002746582 seconds
+2017-07-03 22:40:23,015 - root - INFO - SUCCESS    Clear and type element: <id->payPassword1> content: 12345678, Spend 0.26960015296936035 seconds
+2017-07-03 22:40:23,275 - root - INFO - SUCCESS    Clear and type element: <xpath->//div[2]/div[2]/div/div[2]/div/form/div[3]/input[1]> content: 1111, Spend 0.25880002975463867 seconds
+2017-07-03 22:40:23,589 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'per_sure btn_submit']>, Spend 0.31439995765686035 seconds
+2017-07-03 22:40:23,722 - root - INFO - SUCCESS    positioned to element: <xpath->//div[2]/div[2]/div/div[2]/div/form/div[1]/span[1]> , Spend 0.13100004196166992 seconds
+2017-07-03 22:40:23,723 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:40:24,316 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/user/fund/trader/password, Spend 0.39299988746643066 seconds
+2017-07-03 22:40:24,463 - root - INFO - SUCCESS    Clicked element: <class name->setPassword>, Spend 0.14600014686584473 seconds
+2017-07-03 22:40:24,666 - root - INFO - SUCCESS    Clear and type element: <id->payPassword> content: 12345678912345600, Spend 0.203200101852417 seconds
+2017-07-03 22:40:24,860 - root - INFO - SUCCESS    Clear and type element: <id->payPassword1> content: 12345678, Spend 0.19160008430480957 seconds
+2017-07-03 22:40:25,031 - root - INFO - SUCCESS    Clear and type element: <xpath->//div[2]/div[2]/div/div[2]/div/form/div[3]/input[1]> content: 1111, Spend 0.17100000381469727 seconds
+2017-07-03 22:40:25,188 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'per_sure btn_submit']>, Spend 0.15759992599487305 seconds
+2017-07-03 22:40:25,250 - root - INFO - SUCCESS    positioned to element: <xpath->//div[2]/div[2]/div/div[2]/div/form/div[1]/span[1]> , Spend 0.06100010871887207 seconds
+2017-07-03 22:40:25,250 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:40:25,709 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/user/fund/trader/password, Spend 0.33099985122680664 seconds
+2017-07-03 22:40:25,874 - root - INFO - SUCCESS    Clicked element: <class name->setPassword>, Spend 0.16499996185302734 seconds
+2017-07-03 22:40:26,057 - root - INFO - SUCCESS    Clear and type element: <id->payPassword> content: 12345678, Spend 0.18180012702941895 seconds
+2017-07-03 22:40:26,215 - root - INFO - SUCCESS    Clear and type element: <id->payPassword1> content: , Spend 0.15719985961914062 seconds
+2017-07-03 22:40:26,392 - root - INFO - SUCCESS    Clear and type element: <xpath->//div[2]/div[2]/div/div[2]/div/form/div[3]/input[1]> content: 1111, Spend 0.17620015144348145 seconds
+2017-07-03 22:40:26,557 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'per_sure btn_submit']>, Spend 0.1643998622894287 seconds
+2017-07-03 22:40:26,643 - root - INFO - SUCCESS    positioned to element: <xpath->//div[2]/div[2]/div/div[2]/div/form/div[2]/span[1]> , Spend 0.08500003814697266 seconds
+2017-07-03 22:40:26,643 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:40:27,115 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/user/fund/trader/password, Spend 0.34400010108947754 seconds
+2017-07-03 22:40:27,257 - root - INFO - SUCCESS    Clicked element: <class name->setPassword>, Spend 0.14100003242492676 seconds
+2017-07-03 22:40:27,460 - root - INFO - SUCCESS    Clear and type element: <id->payPassword> content: 12345678, Spend 0.20200014114379883 seconds
+2017-07-03 22:40:27,671 - root - INFO - SUCCESS    Clear and type element: <id->payPassword1> content: 12345, Spend 0.21040010452270508 seconds
+2017-07-03 22:40:27,863 - root - INFO - SUCCESS    Clear and type element: <xpath->//div[2]/div[2]/div/div[2]/div/form/div[3]/input[1]> content: 1111, Spend 0.1756000518798828 seconds
+2017-07-03 22:40:28,005 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'per_sure btn_submit']>, Spend 0.1419999599456787 seconds
+2017-07-03 22:40:28,078 - root - INFO - SUCCESS    positioned to element: <xpath->//div[2]/div[2]/div/div[2]/div/form/div[2]/span[1]> , Spend 0.07360005378723145 seconds
+2017-07-03 22:40:28,079 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:40:28,836 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/user/fund/trader/password, Spend 0.5480000972747803 seconds
+2017-07-03 22:40:29,036 - root - INFO - SUCCESS    Clicked element: <class name->setPassword>, Spend 0.19740009307861328 seconds
+2017-07-03 22:40:29,347 - root - INFO - SUCCESS    Clear and type element: <id->payPassword> content: 12345678, Spend 0.3111999034881592 seconds
+2017-07-03 22:40:29,684 - root - INFO - SUCCESS    Clear and type element: <id->payPassword1> content: 12345678912345600, Spend 0.3356001377105713 seconds
+2017-07-03 22:40:29,905 - root - INFO - SUCCESS    Clear and type element: <xpath->//div[2]/div[2]/div/div[2]/div/form/div[3]/input[1]> content: 1111, Spend 0.21959996223449707 seconds
+2017-07-03 22:40:30,092 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'per_sure btn_submit']>, Spend 0.18700003623962402 seconds
+2017-07-03 22:40:30,164 - root - INFO - SUCCESS    positioned to element: <xpath->//div[2]/div[2]/div/div[2]/div/form/div[2]/span[1]> , Spend 0.06999993324279785 seconds
+2017-07-03 22:40:30,164 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:40:30,807 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/user/fund/trader/password, Spend 0.4159998893737793 seconds
+2017-07-03 22:40:30,978 - root - INFO - SUCCESS    Clicked element: <class name->setPassword>, Spend 0.17139983177185059 seconds
+2017-07-03 22:40:31,192 - root - INFO - SUCCESS    Clear and type element: <id->payPassword> content: 12345678, Spend 0.21299982070922852 seconds
+2017-07-03 22:40:31,423 - root - INFO - SUCCESS    Clear and type element: <id->payPassword1> content: 12345678, Spend 0.22819995880126953 seconds
+2017-07-03 22:40:31,621 - root - INFO - SUCCESS    Clear and type element: <xpath->//div[2]/div[2]/div/div[2]/div/form/div[3]/input[1]> content: , Spend 0.19700002670288086 seconds
+2017-07-03 22:40:31,805 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'per_sure btn_submit']>, Spend 0.18400001525878906 seconds
+2017-07-03 22:40:31,939 - root - INFO - SUCCESS    positioned to element: <xpath->//div[2]/div[2]/div/div[2]/div/form/div[3]/span[1]> , Spend 0.13300013542175293 seconds
+2017-07-03 22:40:31,939 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:40:32,561 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/user/fund/trader/password, Spend 0.3940000534057617 seconds
+2017-07-03 22:40:32,731 - root - INFO - SUCCESS    Clicked element: <class name->setPassword>, Spend 0.17079997062683105 seconds
+2017-07-03 22:40:32,950 - root - INFO - SUCCESS    Clear and type element: <id->payPassword> content: 12345678, Spend 0.21719980239868164 seconds
+2017-07-03 22:40:33,183 - root - INFO - SUCCESS    Clear and type element: <id->payPassword1> content: 12345678, Spend 0.23239994049072266 seconds
+2017-07-03 22:40:33,398 - root - INFO - SUCCESS    Clear and type element: <xpath->//div[2]/div[2]/div/div[2]/div/form/div[3]/input[1]> content: 1111, Spend 0.21300005912780762 seconds
+2017-07-03 22:40:33,580 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'per_sure btn_submit']>, Spend 0.18200016021728516 seconds
+2017-07-03 22:40:33,675 - root - INFO - SUCCESS    positioned to element: <xpath->//div[2]/div[2]/div/div[2]/div/form/div[3]/span[1]> , Spend 0.09500002861022949 seconds
+2017-07-03 22:40:33,676 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:40:36,883 - root - INFO - ###############################  End  ###############################
+2017-07-03 22:40:36,884 - root - INFO - ############################### START ###############################
+2017-07-03 22:40:42,773 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/user/fund, Spend 0.9205999374389648 seconds
+2017-07-03 22:40:43,092 - root - INFO - SUCCESS    Clear and type element: <id->username> content: 15868147450, Spend 0.31840014457702637 seconds
+2017-07-03 22:40:43,365 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 12345678, Spend 0.27180004119873047 seconds
+2017-07-03 22:40:43,587 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'btn_com btn_blue login_btn_submit sy_in']>, Spend 0.22080016136169434 seconds
+2017-07-03 22:40:45,759 - root - INFO - SUCCESS    Clicked element: <css selector->a[class = 'btn_orange']>, Spend 2.171799898147583 seconds
+2017-07-03 22:40:45,903 - root - INFO - SUCCESS    positioned to element: <xpath->html/body/div[2]/div[2]/div/div/h1> , Spend 0.14299988746643066 seconds
+2017-07-03 22:40:45,903 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:40:46,840 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/user/fund, Spend 0.4140000343322754 seconds
+2017-07-03 22:40:47,422 - root - INFO - SUCCESS    Clicked element: <css selector->a[class = 'btn_orange2']>, Spend 0.581200122833252 seconds
+2017-07-03 22:40:47,501 - root - INFO - SUCCESS    positioned to element: <xpath->html/body/div[2]/div[2]/div/div/h1> , Spend 0.07800006866455078 seconds
+2017-07-03 22:40:47,502 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:40:48,484 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/user/fund, Spend 0.5117998123168945 seconds
+2017-07-03 22:40:49,134 - root - INFO - SUCCESS    Clicked element: <css selector->a[class = 'btn_blue_r']>, Spend 0.6498000621795654 seconds
+2017-07-03 22:40:49,243 - root - INFO - SUCCESS    positioned to element: <xpath->html/body/div[2]/div[2]/div[1]/div/h1> , Spend 0.10800004005432129 seconds
+2017-07-03 22:40:49,243 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:40:50,303 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/user/fund, Spend 0.49919986724853516 seconds
+2017-07-03 22:40:51,302 - root - INFO - SUCCESS    Clicked element: <css selector->a[class = 'more_records']>, Spend 0.996999979019165 seconds
+2017-07-03 22:40:51,480 - root - INFO - SUCCESS    positioned to element: <xpath->html/body/div[2]/div[3]/div/h1> , Spend 0.1770000457763672 seconds
+2017-07-03 22:40:51,481 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:40:55,087 - root - INFO - ###############################  End  ###############################
+2017-07-03 22:40:55,087 - root - INFO - ############################### START ###############################
+2017-07-03 22:41:00,850 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/user/fund/recharge, Spend 0.7939999103546143 seconds
+2017-07-03 22:41:01,163 - root - INFO - SUCCESS    Clear and type element: <id->username> content: 15868147450, Spend 0.31100010871887207 seconds
+2017-07-03 22:41:01,415 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 12345678, Spend 0.25240015983581543 seconds
+2017-07-03 22:41:01,631 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'btn_com btn_blue login_btn_submit sy_in']>, Spend 0.21379995346069336 seconds
+2017-07-03 22:41:02,701 - root - INFO - SUCCESS    Clear and type element: <id->money> content: , Spend 1.070000171661377 seconds
+2017-07-03 22:41:02,917 - root - INFO - SUCCESS    Clicked element: <xpath->//form/div[2]/label/span>, Spend 0.21599984169006348 seconds
+2017-07-03 22:41:03,022 - root - INFO - SUCCESS    positioned to element: <xpath->//form/div[2]/span[1]> , Spend 0.10460019111633301 seconds
+2017-07-03 22:41:03,023 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:41:03,999 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/user/fund/recharge, Spend 0.6152000427246094 seconds
+2017-07-03 22:41:04,217 - root - INFO - SUCCESS    Clear and type element: <id->money> content: , Spend 0.21700000762939453 seconds
+2017-07-03 22:41:05,184 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'btn_com btn_blue btn_submit']>, Spend 0.9503998756408691 seconds
+2017-07-03 22:41:05,331 - root - INFO - SUCCESS    positioned to element: <xpath->//div[2]/div/div[2]/div[1]/h2> , Spend 0.14499998092651367 seconds
+2017-07-03 22:41:05,332 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:41:06,036 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/user/fund/recharge, Spend 0.45999979972839355 seconds
+2017-07-03 22:41:06,232 - root - INFO - SUCCESS    Clear and type element: <id->money> content: , Spend 0.1957998275756836 seconds
+2017-07-03 22:41:06,953 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'btn_com btn_blue btn_submit']>, Spend 0.7200000286102295 seconds
+2017-07-03 22:41:07,617 - root - INFO - SUCCESS    Clicked element: <xpath->//div[2]/div/div[2]/div[2]/a[1]>, Spend 0.6629998683929443 seconds
+2017-07-03 22:41:07,727 - root - INFO - SUCCESS    positioned to element: <xpath->//div[2]/div[1]/h1> , Spend 0.10900020599365234 seconds
+2017-07-03 22:41:07,728 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:41:08,848 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/user/fund/recharge, Spend 0.39100003242492676 seconds
+2017-07-03 22:41:09,015 - root - INFO - SUCCESS    Clear and type element: <id->money> content: 10, Spend 0.1659998893737793 seconds
+2017-07-03 22:41:09,763 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'btn_com btn_blue btn_submit']>, Spend 0.7463998794555664 seconds
+2017-07-03 22:41:09,891 - root - INFO - SUCCESS    positioned to element: <xpath->//div[2]/div[1]/div[2]/h2/span> , Spend 0.1268000602722168 seconds
+2017-07-03 22:41:09,891 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:41:10,670 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/user/fund/recharge, Spend 0.503000020980835 seconds
+2017-07-03 22:41:10,984 - root - INFO - SUCCESS    Clear and type element: <id->money> content: 10, Spend 0.312999963760376 seconds
+2017-07-03 22:41:11,455 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'btn_com btn_blue btn_submit']>, Spend 0.47119998931884766 seconds
+2017-07-03 22:41:11,647 - root - INFO - SUCCESS    Clicked element: <css selector->div[class = 'pay_style']>, Spend 0.1904001235961914 seconds
+2017-07-03 22:41:15,806 - root - INFO - SUCCESS    Clicked element: <id->mm_pay>, Spend 4.158399820327759 seconds
+2017-07-03 22:41:16,023 - root - INFO - SUCCESS    positioned to element: <css selector->strong[class = ' amount-font-22 ']> , Spend 0.21499991416931152 seconds
+2017-07-03 22:41:16,024 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:41:19,383 - root - INFO - ###############################  End  ###############################
+2017-07-03 22:41:19,383 - root - INFO - ############################### START ###############################
+2017-07-03 22:41:25,893 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/user/fund/cash, Spend 1.5262000560760498 seconds
+2017-07-03 22:41:26,193 - root - INFO - SUCCESS    Clear and type element: <id->username> content: 15868147450, Spend 0.29980015754699707 seconds
+2017-07-03 22:41:26,382 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 12345678, Spend 0.1884000301361084 seconds
+2017-07-03 22:41:26,575 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'btn_com btn_blue login_btn_submit sy_in']>, Spend 0.1921999454498291 seconds
+2017-07-03 22:41:27,701 - root - INFO - SUCCESS    Clear and type element: <xpath->//form/div[1]/input[2]> content: , Spend 1.1256000995635986 seconds
+2017-07-03 22:41:27,960 - root - INFO - SUCCESS    Clear and type element: <xpath->//form/div[2]/input[2]> content: 12345678, Spend 0.2576000690460205 seconds
+2017-07-03 22:41:28,166 - root - INFO - SUCCESS    Clear and type element: <id->money> content: 10, Spend 0.2051999568939209 seconds
+2017-07-03 22:41:28,397 - root - INFO - SUCCESS    Clear and type element: <xpath->//form/div[4]/input> content: 12345678, Spend 0.21539998054504395 seconds
+2017-07-03 22:41:28,566 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'per_sure btn_submit']>, Spend 0.16839981079101562 seconds
+2017-07-03 22:41:28,651 - root - INFO - SUCCESS    positioned to element: <xpath->//form/div[1]/span[1]> , Spend 0.08500003814697266 seconds
+2017-07-03 22:41:28,652 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0009999275207519531 seconds
+2017-07-03 22:41:29,879 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/user/fund/cash, Spend 1.008000135421753 seconds
+2017-07-03 22:41:30,170 - root - INFO - SUCCESS    Clear and type element: <xpath->//form/div[1]/input[2]> content: 张某某, Spend 0.2894001007080078 seconds
+2017-07-03 22:41:30,374 - root - INFO - SUCCESS    Clear and type element: <xpath->//form/div[2]/input[2]> content: , Spend 0.203200101852417 seconds
+2017-07-03 22:41:30,594 - root - INFO - SUCCESS    Clear and type element: <id->money> content: 10, Spend 0.21939992904663086 seconds
+2017-07-03 22:41:30,845 - root - INFO - SUCCESS    Clear and type element: <xpath->//form/div[4]/input> content: 12345678, Spend 0.2501997947692871 seconds
+2017-07-03 22:41:31,058 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'per_sure btn_submit']>, Spend 0.21179986000061035 seconds
+2017-07-03 22:41:31,290 - root - INFO - SUCCESS    positioned to element: <xpath->//form/div[2]/span[1]> , Spend 0.23000001907348633 seconds
+2017-07-03 22:41:31,291 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:41:32,167 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/user/fund/cash, Spend 0.38700008392333984 seconds
+2017-07-03 22:41:32,387 - root - INFO - SUCCESS    Clear and type element: <xpath->//form/div[1]/input[2]> content: 张某某, Spend 0.21979999542236328 seconds
+2017-07-03 22:41:32,596 - root - INFO - SUCCESS    Clear and type element: <xpath->//form/div[2]/input[2]> content: 12345678, Spend 0.20840001106262207 seconds
+2017-07-03 22:41:32,796 - root - INFO - SUCCESS    Clear and type element: <id->money> content: , Spend 0.1998000144958496 seconds
+2017-07-03 22:41:33,059 - root - INFO - SUCCESS    Clear and type element: <xpath->//form/div[4]/input> content: 12345678, Spend 0.2630000114440918 seconds
+2017-07-03 22:41:33,242 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'per_sure btn_submit']>, Spend 0.18179988861083984 seconds
+2017-07-03 22:41:33,345 - root - INFO - SUCCESS    positioned to element: <xpath->//form/div[3]/span[1]> , Spend 0.10199999809265137 seconds
+2017-07-03 22:41:33,346 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:41:33,924 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/user/fund/cash, Spend 0.39499998092651367 seconds
+2017-07-03 22:41:34,129 - root - INFO - SUCCESS    Clear and type element: <xpath->//form/div[1]/input[2]> content: 张某某, Spend 0.20479989051818848 seconds
+2017-07-03 22:41:34,369 - root - INFO - SUCCESS    Clear and type element: <xpath->//form/div[2]/input[2]> content: 12345678, Spend 0.24040007591247559 seconds
+2017-07-03 22:41:34,609 - root - INFO - SUCCESS    Clear and type element: <id->money> content: 10, Spend 0.23740005493164062 seconds
+2017-07-03 22:41:34,784 - root - INFO - SUCCESS    Clear and type element: <xpath->//form/div[4]/input> content: , Spend 0.17479991912841797 seconds
+2017-07-03 22:41:34,972 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'per_sure btn_submit']>, Spend 0.1863999366760254 seconds
+2017-07-03 22:41:35,084 - root - INFO - SUCCESS    positioned to element: <xpath->//form/div[4]/span[1]> , Spend 0.11100006103515625 seconds
+2017-07-03 22:41:35,085 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:41:38,270 - root - INFO - ###############################  End  ###############################
+2017-07-03 22:41:38,271 - root - INFO - ############################### START ###############################
+2017-07-03 22:41:44,242 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/demand/add/demand/type?demandType=5, Spend 0.8239998817443848 seconds
+2017-07-03 22:41:44,606 - root - INFO - SUCCESS    Clear and type element: <id->username> content: 15868147450, Spend 0.3619999885559082 seconds
+2017-07-03 22:41:44,902 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 12345678, Spend 0.2946000099182129 seconds
+2017-07-03 22:41:45,136 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'btn_com btn_blue login_btn_submit sy_in']>, Spend 0.23200011253356934 seconds
+2017-07-03 22:41:47,415 - root - INFO - SUCCESS    Clicked element: <xpath->//form/div[1]/div[2]/div/div/div/div/input[1]>, Spend 2.2790000438690186 seconds
+2017-07-03 22:41:47,606 - root - INFO - SUCCESS    Clicked element: <xpath->//form/div[1]/div[2]/div/div/div/div/ul/li[2]>, Spend 0.19000005722045898 seconds
+2017-07-03 22:41:47,780 - root - INFO - SUCCESS    Clear and type element: <xpath->//form/div[2]/div[2]/div/div/div/input> content: 急需开发团队, Spend 0.17200016975402832 seconds
+2017-07-03 22:41:47,957 - root - INFO - SUCCESS    Clear and type element: <xpath->//form/div[3]/div[2]/div/div/div/textarea> content: 团结专业效率高, Spend 0.1770000457763672 seconds
+2017-07-03 22:41:48,104 - root - INFO - SUCCESS    Clicked element: <xpath->//form/div[6]/div[2]/div/div/div/input>, Spend 0.14499998092651367 seconds
+2017-07-03 22:41:50,002 - root - INFO - SUCCESS    Clicked element: <xpath->//div[4]/div[1]/div[2]/table/tbody/tr[5]/td[6]/div>, Spend 0.8969998359680176 seconds
+2017-07-03 22:41:50,336 - root - INFO - SUCCESS    Clicked element: <xpath->//form/div[6]/div[1]/h1>, Spend 0.3320000171661377 seconds
+2017-07-03 22:41:50,590 - root - INFO - SUCCESS    Clicked element: <id->check_agree>, Spend 0.25300002098083496 seconds
+2017-07-03 22:41:50,851 - root - INFO - SUCCESS    Clicked element: <id->demandSavesaa>, Spend 0.25999999046325684 seconds
+2017-07-03 22:41:50,978 - root - INFO - SUCCESS    positioned to element: <xpath->//div[5]/div/div[2]/div> , Spend 0.12599992752075195 seconds
+2017-07-03 22:41:50,979 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:41:53,768 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/demand/add/demand/type?demandType=5, Spend 2.5269999504089355 seconds
+2017-07-03 22:41:54,003 - root - INFO - SUCCESS    Clear and type element: <xpath->//form/div[2]/div[2]/div/div/div/input> content: 急需开发团队, Spend 0.2330000400543213 seconds
+2017-07-03 22:41:54,236 - root - INFO - SUCCESS    Clear and type element: <xpath->//form/div[3]/div[2]/div/div/div/textarea> content: 团结专业效率高, Spend 0.23199987411499023 seconds
+2017-07-03 22:41:54,439 - root - INFO - SUCCESS    Clicked element: <id->demandSavesaa>, Spend 0.20199990272521973 seconds
+2017-07-03 22:41:54,546 - root - INFO - SUCCESS    positioned to element: <xpath->//form/div[1]/div[2]/div/div/div/div/span[1]> , Spend 0.10500001907348633 seconds
+2017-07-03 22:41:54,547 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:41:55,951 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/demand/add/demand/type?demandType=5, Spend 1.249000072479248 seconds
+2017-07-03 22:41:56,111 - root - INFO - SUCCESS    Clicked element: <xpath->//form/div[1]/div[2]/div/div/div/div/input[1]>, Spend 0.15900015830993652 seconds
+2017-07-03 22:41:56,281 - root - INFO - SUCCESS    Clicked element: <xpath->//form/div[1]/div[2]/div/div/div/div/ul/li[2]>, Spend 0.1699998378753662 seconds
+2017-07-03 22:41:56,430 - root - INFO - SUCCESS    Clear and type element: <xpath->//form/div[2]/div[2]/div/div/div/input> content: , Spend 0.14800000190734863 seconds
+2017-07-03 22:41:56,632 - root - INFO - SUCCESS    Clear and type element: <xpath->//form/div[3]/div[2]/div/div/div/textarea> content: 团结专业效率高, Spend 0.20099997520446777 seconds
+2017-07-03 22:41:56,794 - root - INFO - SUCCESS    Clicked element: <id->demandSavesaa>, Spend 0.16100001335144043 seconds
+2017-07-03 22:41:56,880 - root - INFO - SUCCESS    positioned to element: <xpath->//form/div[2]/div[2]/div/div/div/span[1]> , Spend 0.08500003814697266 seconds
+2017-07-03 22:41:56,880 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:41:57,949 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/demand/add/demand/type?demandType=5, Spend 0.937000036239624 seconds
+2017-07-03 22:41:58,084 - root - INFO - SUCCESS    Clicked element: <xpath->//form/div[1]/div[2]/div/div/div/div/input[1]>, Spend 0.13400006294250488 seconds
+2017-07-03 22:41:58,219 - root - INFO - SUCCESS    Clicked element: <xpath->//form/div[1]/div[2]/div/div/div/div/ul/li[2]>, Spend 0.13400006294250488 seconds
+2017-07-03 22:41:58,449 - root - INFO - SUCCESS    Clear and type element: <xpath->//form/div[2]/div[2]/div/div/div/input> content: 少时诵诗书所少时诵诗书所少时诵诗书少时就诵诗书是是是搜索搜索搜, Spend 0.22899985313415527 seconds
+2017-07-03 22:41:58,629 - root - INFO - SUCCESS    Clear and type element: <xpath->//form/div[3]/div[2]/div/div/div/textarea> content: 团结专业效率高, Spend 0.1790001392364502 seconds
+2017-07-03 22:41:58,959 - root - INFO - SUCCESS    Clicked element: <id->demandSavesaa>, Spend 0.3280000686645508 seconds
+2017-07-03 22:41:59,187 - root - INFO - SUCCESS    positioned to element: <xpath->//form/div[2]/div[2]/div/div/div/span[1]> , Spend 0.22499990463256836 seconds
+2017-07-03 22:41:59,189 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:42:01,377 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/demand/add/demand/type?demandType=5, Spend 1.823000192642212 seconds
+2017-07-03 22:42:01,580 - root - INFO - SUCCESS    Clicked element: <xpath->//form/div[1]/div[2]/div/div/div/div/input[1]>, Spend 0.20099997520446777 seconds
+2017-07-03 22:42:01,763 - root - INFO - SUCCESS    Clicked element: <xpath->//form/div[1]/div[2]/div/div/div/div/ul/li[2]>, Spend 0.1830000877380371 seconds
+2017-07-03 22:42:01,980 - root - INFO - SUCCESS    Clear and type element: <xpath->//form/div[2]/div[2]/div/div/div/input> content: 急需开发团队, Spend 0.21600008010864258 seconds
+2017-07-03 22:42:02,187 - root - INFO - SUCCESS    Clear and type element: <xpath->//form/div[3]/div[2]/div/div/div/textarea> content: , Spend 0.20600008964538574 seconds
+2017-07-03 22:42:02,383 - root - INFO - SUCCESS    Clicked element: <id->demandSavesaa>, Spend 0.19499993324279785 seconds
+2017-07-03 22:42:02,496 - root - INFO - SUCCESS    positioned to element: <xpath->//form/div[3]/div[2]/div/div/div/span[1]> , Spend 0.1119999885559082 seconds
+2017-07-03 22:42:02,497 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:42:04,580 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/demand/add/demand/type?demandType=5, Spend 1.939000129699707 seconds
+2017-07-03 22:42:04,843 - root - INFO - SUCCESS    Clicked element: <xpath->//form/div[1]/div[2]/div/div/div/div/input[1]>, Spend 0.26200008392333984 seconds
+2017-07-03 22:42:05,101 - root - INFO - SUCCESS    Clicked element: <xpath->//form/div[1]/div[2]/div/div/div/div/ul/li[2]>, Spend 0.2569999694824219 seconds
+2017-07-03 22:42:05,540 - root - INFO - SUCCESS    Clear and type element: <xpath->//form/div[2]/div[2]/div/div/div/input> content: 急需开发团队, Spend 0.43600010871887207 seconds
+2017-07-03 22:42:06,022 - root - INFO - SUCCESS    Clear and type element: <xpath->//form/div[3]/div[2]/div/div/div/textarea> content: 团结专业效率高, Spend 0.4789998531341553 seconds
+2017-07-03 22:42:06,597 - root - INFO - SUCCESS    Clicked element: <id->demandSavesaa>, Spend 0.5720000267028809 seconds
+2017-07-03 22:42:06,834 - root - INFO - SUCCESS    positioned to element: <xpath->//form/div[6]/div[2]/div/div/div/span[1]> , Spend 0.2349998950958252 seconds
+2017-07-03 22:42:06,837 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:42:08,619 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/demand/add/demand/type?demandType=5, Spend 1.4520001411437988 seconds
+2017-07-03 22:42:08,880 - root - INFO - SUCCESS    Clear and type element: <xpath->//form/div[2]/div[2]/div/div/div/input> content: 急需开发团队, Spend 0.25999999046325684 seconds
+2017-07-03 22:42:09,174 - root - INFO - SUCCESS    Clear and type element: <xpath->//form/div[3]/div[2]/div/div/div/textarea> content: 团结专业效率高, Spend 0.29400014877319336 seconds
+2017-07-03 22:42:09,463 - root - INFO - SUCCESS    Clicked element: <xpath->//form/div[8]/a>, Spend 0.2869999408721924 seconds
+2017-07-03 22:42:10,680 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://www.fengsulian.com/register/deal, Spend 1.2149999141693115 seconds
+2017-07-03 22:42:10,934 - root - INFO - SUCCESS    positioned to element: <xpath->//div[2]/div[1]/h1> , Spend 0.25300002098083496 seconds
+2017-07-03 22:42:10,937 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0009999275207519531 seconds
+2017-07-03 22:42:13,386 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/demand/add/demand/type?demandType=5, Spend 1.872999906539917 seconds
+2017-07-03 22:42:13,569 - root - INFO - SUCCESS    Clicked element: <xpath->//form/div[1]/div[2]/div/div/div/div/input[1]>, Spend 0.18200016021728516 seconds
+2017-07-03 22:42:13,794 - root - INFO - SUCCESS    Clicked element: <xpath->//form/div[1]/div[2]/div/div/div/div/ul/li[2]>, Spend 0.22499990463256836 seconds
+2017-07-03 22:42:14,032 - root - INFO - SUCCESS    Clear and type element: <xpath->//form/div[2]/div[2]/div/div/div/input> content: 急需开发团队, Spend 0.23599982261657715 seconds
+2017-07-03 22:42:14,280 - root - INFO - SUCCESS    Clear and type element: <xpath->//form/div[3]/div[2]/div/div/div/textarea> content: 团结专业效率高, Spend 0.24699997901916504 seconds
+2017-07-03 22:42:14,485 - root - INFO - SUCCESS    Clicked element: <xpath->//form/div[6]/div[2]/div/div/div/input>, Spend 0.2049999237060547 seconds
+2017-07-03 22:42:15,966 - root - INFO - SUCCESS    Clicked element: <xpath->//div[4]/div[1]/div[2]/table/tbody/tr[5]/td[6]/div>, Spend 0.4789998531341553 seconds
+2017-07-03 22:42:16,406 - root - INFO - SUCCESS    Clicked element: <xpath->//form/div[6]/div[1]/h1>, Spend 0.437999963760376 seconds
+2017-07-03 22:42:16,791 - root - INFO - SUCCESS    Clicked element: <id->trif>, Spend 0.38299989700317383 seconds
+2017-07-03 22:42:18,296 - root - INFO - SUCCESS    positioned to element: <xpath->//div[2]/div[1]/div[2]/div/div/div[3]/ul/li[2]/div[2]/div[1]/a/p> , Spend 1.503000020980835 seconds
+2017-07-03 22:42:18,297 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:42:21,715 - root - INFO - ###############################  End  ###############################
+2017-07-03 22:42:21,716 - root - INFO - ############################### START ###############################
+2017-07-03 22:42:27,843 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/user/demand, Spend 0.9347999095916748 seconds
+2017-07-03 22:42:28,263 - root - INFO - SUCCESS    Clear and type element: <id->username> content: 15868147450, Spend 0.41899991035461426 seconds
+2017-07-03 22:42:28,607 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 12345678, Spend 0.34240007400512695 seconds
+2017-07-03 22:42:28,877 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'btn_com btn_blue login_btn_submit sy_in']>, Spend 0.2686002254486084 seconds
+2017-07-03 22:42:31,216 - root - INFO - SUCCESS    Clicked element: <xpath->//div[2]/div[1]/div[2]/div/div/div[3]/ul/li[2]/div[2]/div[1]/a/p>, Spend 2.3389999866485596 seconds
+2017-07-03 22:42:31,308 - root - INFO - SUCCESS    positioned to element: <xpath->//div[2]/div[1]/div/div[1]/div[1]/h6> , Spend 0.09100008010864258 seconds
+2017-07-03 22:42:31,324 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:42:31,824 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/user/demand, Spend 0.3599998950958252 seconds
+2017-07-03 22:42:32,560 - root - INFO - SUCCESS    Clicked element: <xpath->//div[2]/div[1]/div[2]/div/div/div[3]/ul/li[2]/div[2]/div[1]/a/p>, Spend 0.7342000007629395 seconds
+2017-07-03 22:42:35,057 - root - INFO - SUCCESS    Clicked element: <xpath->//div[2]/div[1]/div/div[2]/a>, Spend 2.495000123977661 seconds
+2017-07-03 22:42:35,148 - root - INFO - SUCCESS    positioned to element: <xpath->//form/div[2]/div[2]/div/div/div/input> , Spend 0.08999991416931152 seconds
+2017-07-03 22:42:35,149 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:42:38,424 - root - INFO - ###############################  End  ###############################
+2017-07-03 22:42:38,424 - root - INFO - ############################### START ###############################
+2017-07-03 22:42:44,296 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/register, Spend 0.9189999103546143 seconds
+2017-07-03 22:42:44,554 - root - INFO - SUCCESS    Clear and type element: <id->account> content: , Spend 0.2574000358581543 seconds
+2017-07-03 22:42:44,861 - root - INFO - SUCCESS    Clear and type element: <id->code> content: 1111, Spend 0.305800199508667 seconds
+2017-07-03 22:42:45,146 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 12345678, Spend 0.2834000587463379 seconds
+2017-07-03 22:42:45,395 - root - INFO - SUCCESS    Clicked element: <css selector->a[class = 'btn_com btn_blue w100p btn_submit']>, Spend 0.24699997901916504 seconds
+2017-07-03 22:42:45,517 - root - INFO - SUCCESS    positioned to element: <xpath->//form/div/div[2]/span[1]> , Spend 0.12199997901916504 seconds
+2017-07-03 22:42:45,518 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:42:46,174 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/register, Spend 0.2630000114440918 seconds
+2017-07-03 22:42:46,412 - root - INFO - SUCCESS    Clear and type element: <id->account> content: 1586814745, Spend 0.236799955368042 seconds
+2017-07-03 22:42:46,655 - root - INFO - SUCCESS    Clear and type element: <id->code> content: 1111, Spend 0.24179983139038086 seconds
+2017-07-03 22:42:46,979 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 12345678, Spend 0.32360005378723145 seconds
+2017-07-03 22:42:47,242 - root - INFO - SUCCESS    Clicked element: <css selector->a[class = 'btn_com btn_blue w100p btn_submit']>, Spend 0.26040005683898926 seconds
+2017-07-03 22:42:47,316 - root - INFO - SUCCESS    positioned to element: <xpath->//form/div/div[2]/span[1]> , Spend 0.07400012016296387 seconds
+2017-07-03 22:42:47,317 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:42:47,847 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/register, Spend 0.2239999771118164 seconds
+2017-07-03 22:42:48,041 - root - INFO - SUCCESS    Clear and type element: <id->account> content: 15868147451, Spend 0.19479990005493164 seconds
+2017-07-03 22:42:48,194 - root - INFO - SUCCESS    Clear and type element: <id->code> content: , Spend 0.15219998359680176 seconds
+2017-07-03 22:42:48,400 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 12345678, Spend 0.2050001621246338 seconds
+2017-07-03 22:42:48,536 - root - INFO - SUCCESS    Clicked element: <css selector->a[class = 'btn_com btn_blue w100p btn_submit']>, Spend 0.13680005073547363 seconds
+2017-07-03 22:42:48,615 - root - INFO - SUCCESS    positioned to element: <xpath->//form/div/div[3]/span[1]> , Spend 0.07700014114379883 seconds
+2017-07-03 22:42:48,615 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:42:49,131 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/register, Spend 0.247999906539917 seconds
+2017-07-03 22:42:49,465 - root - INFO - SUCCESS    Clear and type element: <id->account> content: 15868147451, Spend 0.33279991149902344 seconds
+2017-07-03 22:42:49,711 - root - INFO - SUCCESS    Clear and type element: <id->code> content: 1111, Spend 0.24479985237121582 seconds
+2017-07-03 22:42:49,936 - root - INFO - SUCCESS    Clear and type element: <id->password> content: , Spend 0.22439980506896973 seconds
+2017-07-03 22:42:50,135 - root - INFO - SUCCESS    Clicked element: <css selector->a[class = 'btn_com btn_blue w100p btn_submit']>, Spend 0.1978001594543457 seconds
+2017-07-03 22:42:50,252 - root - INFO - SUCCESS    positioned to element: <xpath->//form/div/div[4]/span[1]> , Spend 0.11680006980895996 seconds
+2017-07-03 22:42:50,252 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:42:50,877 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/register, Spend 0.27320003509521484 seconds
+2017-07-03 22:42:51,157 - root - INFO - SUCCESS    Clear and type element: <id->account> content: 15868147451, Spend 0.2779998779296875 seconds
+2017-07-03 22:42:51,385 - root - INFO - SUCCESS    Clear and type element: <id->code> content: 1111, Spend 0.21159982681274414 seconds
+2017-07-03 22:42:51,613 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 11111, Spend 0.2277998924255371 seconds
+2017-07-03 22:42:51,783 - root - INFO - SUCCESS    Clicked element: <css selector->a[class = 'btn_com btn_blue w100p btn_submit']>, Spend 0.1700000762939453 seconds
+2017-07-03 22:42:51,867 - root - INFO - SUCCESS    positioned to element: <xpath->//form/div/div[4]/span[1]> , Spend 0.08380007743835449 seconds
+2017-07-03 22:42:51,867 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:42:52,624 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/register, Spend 0.4030001163482666 seconds
+2017-07-03 22:42:52,996 - root - INFO - SUCCESS    Clear and type element: <id->account> content: 15868147451, Spend 0.37000012397766113 seconds
+2017-07-03 22:42:53,186 - root - INFO - SUCCESS    Clear and type element: <id->code> content: 1111, Spend 0.18959999084472656 seconds
+2017-07-03 22:42:53,456 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 11111111111111100, Spend 0.2704000473022461 seconds
+2017-07-03 22:42:53,619 - root - INFO - SUCCESS    Clicked element: <css selector->a[class = 'btn_com btn_blue w100p btn_submit']>, Spend 0.16160011291503906 seconds
+2017-07-03 22:42:53,684 - root - INFO - SUCCESS    positioned to element: <xpath->//form/div/div[4]/span[1]> , Spend 0.06419992446899414 seconds
+2017-07-03 22:42:53,684 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:42:54,278 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/register, Spend 0.2727999687194824 seconds
+2017-07-03 22:42:54,546 - root - INFO - SUCCESS    Clear and type element: <id->account> content: 15868147451, Spend 0.26760005950927734 seconds
+2017-07-03 22:42:54,778 - root - INFO - SUCCESS    Clear and type element: <id->code> content: 1111, Spend 0.23020005226135254 seconds
+2017-07-03 22:42:55,016 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 12345678, Spend 0.23620009422302246 seconds
+2017-07-03 22:42:55,220 - root - INFO - SUCCESS    Clicked element: <id->userRegisterAgree>, Spend 0.20360016822814941 seconds
+2017-07-03 22:42:55,383 - root - INFO - SUCCESS    Clicked element: <css selector->a[class = 'btn_com btn_blue w100p btn_submit']>, Spend 0.16300010681152344 seconds
+2017-07-03 22:42:55,520 - root - INFO - SUCCESS    positioned to element: <css selector->span[class = 'wrong registerAlert']> , Spend 0.13719987869262695 seconds
+2017-07-03 22:42:55,520 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:42:55,987 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/register, Spend 0.21799993515014648 seconds
+2017-07-03 22:42:56,418 - root - INFO - SUCCESS    Clicked element: <css selector->a[class = 'btn_blue_r btn_com reg_go_login']>, Spend 0.43000006675720215 seconds
+2017-07-03 22:42:56,531 - root - INFO - SUCCESS    positioned to element: <xpath->//div[2]/div[2]/div/div[1]/p/span[1]> , Spend 0.1119999885559082 seconds
+2017-07-03 22:42:56,531 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:42:57,149 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/register, Spend 0.2812001705169678 seconds
+2017-07-03 22:42:57,423 - root - INFO - SUCCESS    Clicked element: <class name->txt_blue>, Spend 0.27180004119873047 seconds
+2017-07-03 22:42:58,605 - root - INFO - SUCCESS    Switch to the new window,new window's url: http://www.fengsulian.com/agreement, Spend 1.179999828338623 seconds
+2017-07-03 22:42:58,808 - root - INFO - SUCCESS    positioned to element: <xpath->//div[2]/div[1]/h1> , Spend 0.20199990272521973 seconds
+2017-07-03 22:42:58,809 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:43:02,355 - root - INFO - ###############################  End  ###############################
+2017-07-03 22:43:02,357 - root - INFO - ############################### START ###############################
+2017-07-03 22:43:09,066 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/user/cards, Spend 1.4625000953674316 seconds
+2017-07-03 22:43:09,626 - root - INFO - SUCCESS    Clear and type element: <id->username> content: 15868147450, Spend 0.557499885559082 seconds
+2017-07-03 22:43:10,022 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 12345678, Spend 0.39660000801086426 seconds
+2017-07-03 22:43:10,392 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'btn_com btn_blue login_btn_submit sy_in']>, Spend 0.3647000789642334 seconds
+2017-07-03 22:43:11,692 - root - INFO - SUCCESS    positioned to element: <css selector->a[class='per_active']> , Spend 1.3000001907348633 seconds
+2017-07-03 22:43:11,694 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:43:12,733 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/user/cards, Spend 0.7261998653411865 seconds
+2017-07-03 22:43:14,453 - root - INFO - SUCCESS    Clicked element: <css selector->a[class='ss_nearcom']>, Spend 1.717400074005127 seconds
+2017-07-03 22:43:14,593 - root - INFO - SUCCESS    positioned to element: <css selector->a[href='/enterprise/1549']>h2> , Spend 0.1399998664855957 seconds
+2017-07-03 22:43:14,593 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:43:15,305 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/user/cards, Spend 0.5 seconds
+2017-07-03 22:43:16,555 - root - INFO - SUCCESS    Clicked element: <css selector->a[class='ss_nearcom']>, Spend 1.25 seconds
+2017-07-03 22:43:16,735 - root - INFO - SUCCESS    Clicked element: <css selector->div[class='wf_content_list_view fr']>a>, Spend 0.17750000953674316 seconds
+2017-07-03 22:43:17,535 - root - INFO - SUCCESS    positioned to element: <css selector->div[class='title cardName_ajax']> , Spend 0.7999999523162842 seconds
+2017-07-03 22:43:17,538 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:43:18,270 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/user/cards, Spend 0.5749998092651367 seconds
+2017-07-03 22:43:19,293 - root - INFO - SUCCESS    Clicked element: <css selector->a[class='ss_nearcom']>, Spend 1.0199000835418701 seconds
+2017-07-03 22:43:19,473 - root - INFO - SUCCESS    Clicked element: <css selector->div[class='wf_content_list_view fr']>a>, Spend 0.17750000953674316 seconds
+2017-07-03 22:43:20,390 - root - INFO - SUCCESS    Clicked element: <css selector->i[class='fa fa-heart-o']>, Spend 0.9174997806549072 seconds
+2017-07-03 22:43:20,535 - root - INFO - SUCCESS    positioned to element: <css selector->span[class='collect']> , Spend 0.1425001621246338 seconds
+2017-07-03 22:43:20,538 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:43:23,915 - root - INFO - ###############################  End  ###############################
+2017-07-03 22:43:23,917 - root - INFO - ############################### START ###############################
+2017-07-03 22:43:29,734 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/user/cards, Spend 0.8137001991271973 seconds
+2017-07-03 22:43:30,008 - root - INFO - SUCCESS    Clear and type element: <id->username> content: 15868147450, Spend 0.27179980278015137 seconds
+2017-07-03 22:43:30,230 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 12345678, Spend 0.2211000919342041 seconds
+2017-07-03 22:43:30,425 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'btn_com btn_blue login_btn_submit sy_in']>, Spend 0.19549989700317383 seconds
+2017-07-03 22:43:31,308 - root - INFO - SUCCESS    positioned to element: <css selector->p[class='p_text']> , Spend 0.880000114440918 seconds
+2017-07-03 22:43:31,308 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:43:32,082 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/user/cards, Spend 0.5611999034881592 seconds
+2017-07-03 22:43:32,251 - root - INFO - SUCCESS    Clicked element: <css selector->a[class='see_card']>, Spend 0.1661999225616455 seconds
+2017-07-03 22:43:33,035 - root - INFO - SUCCESS    positioned to element: <css selector->div[class='title cardName_ajax']> , Spend 0.7839000225067139 seconds
+2017-07-03 22:43:33,035 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:43:33,787 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/user/cards, Spend 0.518700122833252 seconds
+2017-07-03 22:43:34,078 - root - INFO - SUCCESS    Clicked element: <css selector->div[class='del_btn']>i>, Spend 0.2885000705718994 seconds
+2017-07-03 22:43:34,198 - root - INFO - SUCCESS    positioned to element: <css selector->div[class='dialog_main dialog_alert']> , Spend 0.12000012397766113 seconds
+2017-07-03 22:43:34,200 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:43:34,900 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/user/cards, Spend 0.49000000953674316 seconds
+2017-07-03 22:43:35,099 - root - INFO - SUCCESS    Clicked element: <css selector->div[class='del_btn']>i>, Spend 0.1967000961303711 seconds
+2017-07-03 22:43:35,302 - root - INFO - SUCCESS    Clicked element: <css selector->div[class='cancel btn_com btn_red ml30']>, Spend 0.2025001049041748 seconds
+2017-07-03 22:43:35,416 - root - INFO - SUCCESS    positioned to element: <css selector->p[class='p_text']> , Spend 0.10929989814758301 seconds
+2017-07-03 22:43:35,416 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:43:36,272 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/user/cards, Spend 0.605600118637085 seconds
+2017-07-03 22:43:36,528 - root - INFO - SUCCESS    Clicked element: <css selector->div[class='del_btn']>i>, Spend 0.25300002098083496 seconds
+2017-07-03 22:43:36,787 - root - INFO - SUCCESS    Clicked element: <css selector->div[class='submit btn_com btn_blue']>, Spend 0.25929999351501465 seconds
+2017-07-03 22:43:37,852 - root - INFO - SUCCESS    positioned to element: <css selector->a[class='ss_nearcom']> , Spend 1.064500093460083 seconds
+2017-07-03 22:43:37,852 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-03 22:43:41,301 - root - INFO - ###############################  End  ###############################
