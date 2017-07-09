@@ -1,0 +1,347 @@
+2017-07-09 09:05:14,923 - root - INFO - ############################### START ###############################
+2017-07-09 09:05:20,467 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.4110000133514404 seconds
+2017-07-09 09:05:22,053 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/login, Spend 1.5829999446868896 seconds
+2017-07-09 09:05:22,306 - root - INFO - SUCCESS    Clear and type element: <id->username> content: , Spend 0.24900007247924805 seconds
+2017-07-09 09:05:22,552 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 12345678, Spend 0.24500012397766113 seconds
+2017-07-09 09:05:22,739 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'btn_com btn_blue login_btn_submit sy_in']>, Spend 0.18600010871887207 seconds
+2017-07-09 09:05:22,835 - root - INFO - SUCCESS    positioned to element: <css selector->div[class = 'in_r']> , Spend 0.09500002861022949 seconds
+2017-07-09 09:05:22,835 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-09 09:05:23,513 - root - INFO - SUCCESS    Get the current window screenshot,path: F:\fengsulian-2\report\image\a1_1.jpg, Spend 0.6760001182556152 seconds
+2017-07-09 09:05:23,785 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/login, Spend 0.2689998149871826 seconds
+2017-07-09 09:05:23,976 - root - INFO - SUCCESS    Clear and type element: <id->username> content: 15868147450, Spend 0.18799996376037598 seconds
+2017-07-09 09:05:24,127 - root - INFO - SUCCESS    Clear and type element: <id->password> content: , Spend 0.14899992942810059 seconds
+2017-07-09 09:05:24,253 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'btn_com btn_blue login_btn_submit sy_in']>, Spend 0.12599992752075195 seconds
+2017-07-09 09:05:24,338 - root - INFO - SUCCESS    positioned to element: <xpath->//div[2]/div[2]/div/div[1]/form/div[2]/div/span[1]> , Spend 0.07599997520446777 seconds
+2017-07-09 09:05:24,341 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-09 09:05:24,785 - root - INFO - SUCCESS    Get the current window screenshot,path: F:\fengsulian-2\report\image\a1_2.jpg, Spend 0.4440000057220459 seconds
+2017-07-09 09:05:25,023 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/login, Spend 0.2369999885559082 seconds
+2017-07-09 09:05:25,256 - root - INFO - SUCCESS    Clear and type element: <id->username> content: 15868147450, Spend 0.23099994659423828 seconds
+2017-07-09 09:05:25,413 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 12345678, Spend 0.1550002098083496 seconds
+2017-07-09 09:05:25,571 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'btn_com btn_blue login_btn_submit sy_in']>, Spend 0.1549999713897705 seconds
+2017-07-09 09:05:28,897 - root - INFO - SUCCESS    positioned to element: <xpath->//div[1]/div[1]/div[1]/div/div[1]/div[1]/span> , Spend 3.324000120162964 seconds
+2017-07-09 09:05:28,900 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-09 09:05:30,295 - root - INFO - SUCCESS    Get the current window screenshot,path: F:\fengsulian-2\report\image\a1_3.jpg, Spend 1.3929998874664307 seconds
+2017-07-09 09:05:33,387 - root - INFO - ###############################  End  ###############################
+2017-07-09 09:08:26,903 - root - INFO - ############################### START ###############################
+2017-07-09 09:08:32,296 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.2620000839233398 seconds
+2017-07-09 09:08:33,555 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/login, Spend 1.25600004196167 seconds
+2017-07-09 09:08:33,812 - root - INFO - SUCCESS    Clear and type element: <id->username> content: , Spend 0.25300002098083496 seconds
+2017-07-09 09:08:34,085 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 12345678, Spend 0.2720000743865967 seconds
+2017-07-09 09:08:34,302 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'btn_com btn_blue login_btn_submit sy_in']>, Spend 0.21600008010864258 seconds
+2017-07-09 09:08:34,401 - root - INFO - SUCCESS    positioned to element: <css selector->div[class = 'in_r']> , Spend 0.09599995613098145 seconds
+2017-07-09 09:08:34,404 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-09 09:08:35,043 - root - INFO - SUCCESS    Get the current window screenshot,path: F:\fengsulian-2\report\image\a1_1.jpg, Spend 0.6380000114440918 seconds
+2017-07-09 09:08:35,305 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/login, Spend 0.25799989700317383 seconds
+2017-07-09 09:08:35,612 - root - INFO - SUCCESS    Clear and type element: <id->username> content: 15868147450, Spend 0.30699992179870605 seconds
+2017-07-09 09:08:35,957 - root - INFO - SUCCESS    Clear and type element: <id->password> content: , Spend 0.3410000801086426 seconds
+2017-07-09 09:08:36,125 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'btn_com btn_blue login_btn_submit sy_in']>, Spend 0.1659998893737793 seconds
+2017-07-09 09:08:36,256 - root - INFO - SUCCESS    positioned to element: <xpath->//div[2]/div[2]/div/div[1]/form/div[2]/div/span[1]> , Spend 0.12800002098083496 seconds
+2017-07-09 09:08:36,256 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-09 09:08:36,700 - root - INFO - SUCCESS    Get the current window screenshot,path: F:\fengsulian-2\report\image\a1_2.jpg, Spend 0.442000150680542 seconds
+2017-07-09 09:08:36,967 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/login, Spend 0.26400017738342285 seconds
+2017-07-09 09:08:37,138 - root - INFO - SUCCESS    Clear and type element: <id->username> content: 15868147450, Spend 0.16900014877319336 seconds
+2017-07-09 09:08:37,272 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 12345678, Spend 0.13300013542175293 seconds
+2017-07-09 09:08:37,377 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'btn_com btn_blue login_btn_submit sy_in']>, Spend 0.10299992561340332 seconds
+2017-07-09 09:08:40,318 - root - INFO - SUCCESS    positioned to element: <xpath->//div[1]/div[1]/div[1]/div/div[1]/div[1]/span> , Spend 2.940000057220459 seconds
+2017-07-09 09:08:40,319 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-09 09:08:41,934 - root - INFO - SUCCESS    Get the current window screenshot,path: F:\fengsulian-2\report\image\a1_3.jpg, Spend 1.6140000820159912 seconds
+2017-07-09 09:08:45,085 - root - INFO - ###############################  End  ###############################
+2017-07-09 09:11:11,713 - root - INFO - ############################### START ###############################
+2017-07-09 09:11:17,071 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.2679998874664307 seconds
+2017-07-09 09:11:18,288 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/login, Spend 1.2150001525878906 seconds
+2017-07-09 09:11:18,719 - root - INFO - SUCCESS    Clear and type element: <id->username> content: , Spend 0.42800021171569824 seconds
+2017-07-09 09:11:19,065 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 12345678, Spend 0.3430001735687256 seconds
+2017-07-09 09:11:19,332 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'btn_com btn_blue login_btn_submit sy_in']>, Spend 0.2630000114440918 seconds
+2017-07-09 09:11:19,459 - root - INFO - SUCCESS    positioned to element: <css selector->div[class = 'in_r']> , Spend 0.12399983406066895 seconds
+2017-07-09 09:11:19,460 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-09 09:11:20,263 - root - INFO - SUCCESS    Get the current window screenshot,path: F:\fengsulian-2\report\image\a1_1.jpg, Spend 0.7999999523162842 seconds
+2017-07-09 09:11:20,555 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/login, Spend 0.28799986839294434 seconds
+2017-07-09 09:11:20,819 - root - INFO - SUCCESS    Clear and type element: <id->username> content: 15868147450, Spend 0.26200008392333984 seconds
+2017-07-09 09:11:21,007 - root - INFO - SUCCESS    Clear and type element: <id->password> content: , Spend 0.18599987030029297 seconds
+2017-07-09 09:11:21,167 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'btn_com btn_blue login_btn_submit sy_in']>, Spend 0.15700006484985352 seconds
+2017-07-09 09:11:21,262 - root - INFO - SUCCESS    positioned to element: <xpath->//div[2]/div[2]/div/div[1]/form/div[2]/div/span[1]> , Spend 0.09099984169006348 seconds
+2017-07-09 09:11:21,263 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-09 09:11:21,757 - root - INFO - SUCCESS    Get the current window screenshot,path: F:\fengsulian-2\report\image\a1_2.jpg, Spend 0.4909999370574951 seconds
+2017-07-09 09:11:21,961 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/login, Spend 0.20199990272521973 seconds
+2017-07-09 09:11:22,240 - root - INFO - SUCCESS    Clear and type element: <id->username> content: 15868147450, Spend 0.2760000228881836 seconds
+2017-07-09 09:11:22,428 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 12345678, Spend 0.18699979782104492 seconds
+2017-07-09 09:11:22,578 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'btn_com btn_blue login_btn_submit sy_in']>, Spend 0.14599990844726562 seconds
+2017-07-09 09:11:25,377 - root - INFO - SUCCESS    positioned to element: <xpath->//div[1]/div[1]/div[1]/div/div[1]/div[1]/span> , Spend 2.7980000972747803 seconds
+2017-07-09 09:11:25,378 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-09 09:11:26,578 - root - INFO - SUCCESS    Get the current window screenshot,path: F:\fengsulian-2\report\image\a1_3.jpg, Spend 1.1979999542236328 seconds
+2017-07-09 09:11:29,661 - root - INFO - ###############################  End  ###############################
+2017-07-09 09:27:00,052 - root - INFO - ############################### START ###############################
+2017-07-09 09:27:05,450 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.2020001411437988 seconds
+2017-07-09 09:27:05,453 - root - INFO - ############################### START ###############################
+2017-07-09 09:27:10,704 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.2569999694824219 seconds
+2017-07-09 09:27:11,674 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/login, Spend 0.9660000801086426 seconds
+2017-07-09 09:27:11,904 - root - INFO - SUCCESS    Clear and type element: <id->username> content: , Spend 0.22899985313415527 seconds
+2017-07-09 09:27:12,157 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 12345678, Spend 0.25 seconds
+2017-07-09 09:27:12,357 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'btn_com btn_blue login_btn_submit sy_in']>, Spend 0.19700002670288086 seconds
+2017-07-09 09:27:12,447 - root - INFO - SUCCESS    positioned to element: <css selector->div[class = 'in_r']> , Spend 0.08800005912780762 seconds
+2017-07-09 09:27:12,448 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-09 09:27:13,023 - root - INFO - SUCCESS    Get the current window screenshot,path: F:\fengsulian-2\report\image\a1_1.jpg, Spend 0.5720000267028809 seconds
+2017-07-09 09:27:13,253 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/login, Spend 0.22699999809265137 seconds
+2017-07-09 09:27:13,438 - root - INFO - SUCCESS    Clear and type element: <id->username> content: 15868147450, Spend 0.18499994277954102 seconds
+2017-07-09 09:27:13,573 - root - INFO - SUCCESS    Clear and type element: <id->password> content: , Spend 0.13299989700317383 seconds
+2017-07-09 09:27:13,693 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'btn_com btn_blue login_btn_submit sy_in']>, Spend 0.11800003051757812 seconds
+2017-07-09 09:27:13,765 - root - INFO - SUCCESS    positioned to element: <xpath->//div[2]/div[2]/div/div[1]/form/div[2]/div/span[1]> , Spend 0.07000017166137695 seconds
+2017-07-09 09:27:13,766 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-09 09:27:14,177 - root - INFO - SUCCESS    Get the current window screenshot,path: F:\fengsulian-2\report\image\a1_2.jpg, Spend 0.40799999237060547 seconds
+2017-07-09 09:27:14,372 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/login, Spend 0.19299983978271484 seconds
+2017-07-09 09:27:14,539 - root - INFO - SUCCESS    Clear and type element: <id->username> content: 15868147450, Spend 0.1640000343322754 seconds
+2017-07-09 09:27:14,673 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 12345678, Spend 0.13200020790100098 seconds
+2017-07-09 09:27:14,789 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'btn_com btn_blue login_btn_submit sy_in']>, Spend 0.11500000953674316 seconds
+2017-07-09 09:27:17,558 - root - INFO - SUCCESS    positioned to element: <xpath->//div[1]/div[1]/div[1]/div/div[1]/div[1]/span> , Spend 2.7660000324249268 seconds
+2017-07-09 09:27:17,559 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-09 09:27:19,280 - root - INFO - SUCCESS    Get the current window screenshot,path: F:\fengsulian-2\report\image\a1_3.jpg, Spend 1.7189998626708984 seconds
+2017-07-09 09:27:22,459 - root - INFO - ###############################  End  ###############################
+2017-07-09 09:29:46,338 - root - INFO - ############################### START ###############################
+2017-07-09 09:29:51,867 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.24399995803833 seconds
+2017-07-09 09:29:51,871 - root - INFO - ############################### START ###############################
+2017-07-09 09:55:44,303 - root - INFO - ############################### START ###############################
+2017-07-09 09:55:49,740 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.2860000133514404 seconds
+2017-07-09 09:55:51,220 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/login, Spend 1.4760000705718994 seconds
+2017-07-09 09:55:51,532 - root - INFO - SUCCESS    Clear and type element: <id->username> content: , Spend 0.312000036239624 seconds
+2017-07-09 09:55:51,904 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 12345678, Spend 0.3710000514984131 seconds
+2017-07-09 09:55:52,200 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'btn_com btn_blue login_btn_submit sy_in']>, Spend 0.29400014877319336 seconds
+2017-07-09 09:55:52,635 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/login, Spend 0.4309999942779541 seconds
+2017-07-09 09:55:53,029 - root - INFO - SUCCESS    Clear and type element: <id->username> content: 15868147450, Spend 0.3940000534057617 seconds
+2017-07-09 09:55:53,473 - root - INFO - SUCCESS    Clear and type element: <id->password> content: , Spend 0.442000150680542 seconds
+2017-07-09 09:55:53,806 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'btn_com btn_blue login_btn_submit sy_in']>, Spend 0.3320000171661377 seconds
+2017-07-09 09:55:53,944 - root - INFO - SUCCESS    positioned to element: <xpath->//div[2]/div[2]/div/div[1]/form/div[2]/div/span[1]> , Spend 0.13499999046325684 seconds
+2017-07-09 09:55:53,944 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0009999275207519531 seconds
+2017-07-09 09:55:54,683 - root - INFO - SUCCESS    Get the current window screenshot,path: F:\fengsulian-2\report\image\a1_2.jpg, Spend 0.7369999885559082 seconds
+2017-07-09 09:55:55,040 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/login, Spend 0.3559999465942383 seconds
+2017-07-09 09:55:55,295 - root - INFO - SUCCESS    Clear and type element: <id->username> content: 15868147450, Spend 0.254000186920166 seconds
+2017-07-09 09:55:55,510 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 12345678, Spend 0.21399998664855957 seconds
+2017-07-09 09:55:55,684 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'btn_com btn_blue login_btn_submit sy_in']>, Spend 0.17199993133544922 seconds
+2017-07-09 09:55:58,882 - root - INFO - SUCCESS    positioned to element: <xpath->//div[1]/div[1]/div[1]/div/div[1]/div[1]/span> , Spend 3.1969997882843018 seconds
+2017-07-09 09:55:58,884 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-09 09:56:00,423 - root - INFO - SUCCESS    Get the current window screenshot,path: F:\fengsulian-2\report\image\a1_3.jpg, Spend 1.5369999408721924 seconds
+2017-07-09 09:56:03,542 - root - INFO - ###############################  End  ###############################
+2017-07-09 09:59:54,293 - root - INFO - ############################### START ###############################
+2017-07-09 09:59:59,690 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.2450001239776611 seconds
+2017-07-09 10:00:00,572 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/login, Spend 0.8810000419616699 seconds
+2017-07-09 10:00:00,788 - root - INFO - SUCCESS    Clear and type element: <id->username> content: , Spend 0.21500015258789062 seconds
+2017-07-09 10:00:01,032 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 12345678, Spend 0.24300003051757812 seconds
+2017-07-09 10:00:01,230 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'btn_com btn_blue login_btn_submit sy_in']>, Spend 0.1960000991821289 seconds
+2017-07-09 10:00:01,433 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/login, Spend 0.20099997520446777 seconds
+2017-07-09 10:00:01,582 - root - INFO - SUCCESS    Clear and type element: <id->username> content: 15868147450, Spend 0.14800000190734863 seconds
+2017-07-09 10:00:01,709 - root - INFO - SUCCESS    Clear and type element: <id->password> content: , Spend 0.127000093460083 seconds
+2017-07-09 10:00:01,813 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'btn_com btn_blue login_btn_submit sy_in']>, Spend 0.10399985313415527 seconds
+2017-07-09 10:00:01,904 - root - INFO - SUCCESS    positioned to element: <xpath->//div[2]/div[2]/div/div[1]/form/div[2]/div/span[1]> , Spend 0.08999991416931152 seconds
+2017-07-09 10:00:01,905 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-09 10:00:02,710 - root - INFO - SUCCESS    Get the current window screenshot,path: F:\fengsulian-2\report\image\a1_2.jpg, Spend 0.8039999008178711 seconds
+2017-07-09 10:00:03,026 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/login, Spend 0.31099987030029297 seconds
+2017-07-09 10:00:03,273 - root - INFO - SUCCESS    Clear and type element: <id->username> content: 15868147450, Spend 0.24600005149841309 seconds
+2017-07-09 10:00:03,516 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 12345678, Spend 0.24100017547607422 seconds
+2017-07-09 10:00:03,769 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'btn_com btn_blue login_btn_submit sy_in']>, Spend 0.2519998550415039 seconds
+2017-07-09 10:00:06,710 - root - INFO - SUCCESS    positioned to element: <xpath->//div[1]/div[1]/div[1]/div/div[1]/div[1]/span> , Spend 2.939000129699707 seconds
+2017-07-09 10:00:06,710 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-09 10:00:08,128 - root - INFO - SUCCESS    Get the current window screenshot,path: F:\fengsulian-2\report\image\a1_3.jpg, Spend 1.4179999828338623 seconds
+2017-07-09 10:00:11,263 - root - INFO - ###############################  End  ###############################
+2017-07-09 10:01:49,994 - root - INFO - ############################### START ###############################
+2017-07-09 10:01:55,441 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.2760000228881836 seconds
+2017-07-09 10:01:56,654 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/login, Spend 1.2120001316070557 seconds
+2017-07-09 10:01:56,997 - root - INFO - SUCCESS    Clear and type element: <id->username> content: , Spend 0.3410000801086426 seconds
+2017-07-09 10:01:57,424 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 12345678, Spend 0.4249999523162842 seconds
+2017-07-09 10:01:57,694 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'btn_com btn_blue login_btn_submit sy_in']>, Spend 0.2669999599456787 seconds
+2017-07-09 10:01:58,005 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/login, Spend 0.30700016021728516 seconds
+2017-07-09 10:01:58,335 - root - INFO - SUCCESS    Clear and type element: <id->username> content: 15868147450, Spend 0.32899999618530273 seconds
+2017-07-09 10:01:58,552 - root - INFO - SUCCESS    Clear and type element: <id->password> content: , Spend 0.21500015258789062 seconds
+2017-07-09 10:01:58,757 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'btn_com btn_blue login_btn_submit sy_in']>, Spend 0.20399999618530273 seconds
+2017-07-09 10:01:58,911 - root - INFO - SUCCESS    positioned to element: <xpath->//div[2]/div[2]/div/div[1]/form/div[2]/div/span[1]> , Spend 0.1510000228881836 seconds
+2017-07-09 10:01:58,911 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-09 10:01:59,635 - root - INFO - SUCCESS    Get the current window screenshot,path: F:\fengsulian-2\report\image\a1_2.jpg, Spend 0.7229998111724854 seconds
+2017-07-09 10:01:59,891 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/login, Spend 0.25499987602233887 seconds
+2017-07-09 10:02:00,121 - root - INFO - SUCCESS    Clear and type element: <id->username> content: 15868147450, Spend 0.22800016403198242 seconds
+2017-07-09 10:02:00,305 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 12345678, Spend 0.1830000877380371 seconds
+2017-07-09 10:02:00,543 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'btn_com btn_blue login_btn_submit sy_in']>, Spend 0.23799991607666016 seconds
+2017-07-09 10:02:03,486 - root - INFO - SUCCESS    positioned to element: <xpath->//div[1]/div[1]/div[1]/div/div[1]/div[1]/span> , Spend 2.940999984741211 seconds
+2017-07-09 10:02:03,487 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-09 10:02:04,872 - root - INFO - SUCCESS    Get the current window screenshot,path: F:\fengsulian-2\report\image\a1_3.jpg, Spend 1.3840000629425049 seconds
+2017-07-09 10:02:07,983 - root - INFO - ###############################  End  ###############################
+2017-07-09 10:03:15,092 - root - INFO - ############################### START ###############################
+2017-07-09 10:03:20,382 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.3359999656677246 seconds
+2017-07-09 10:03:21,594 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/login, Spend 1.2089998722076416 seconds
+2017-07-09 10:03:21,862 - root - INFO - SUCCESS    Clear and type element: <id->username> content: , Spend 0.2669999599456787 seconds
+2017-07-09 10:03:22,198 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 12345678, Spend 0.33499979972839355 seconds
+2017-07-09 10:03:22,421 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'btn_com btn_blue login_btn_submit sy_in']>, Spend 0.2219998836517334 seconds
+2017-07-09 10:03:22,661 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/login, Spend 0.23399996757507324 seconds
+2017-07-09 10:03:22,878 - root - INFO - SUCCESS    Clear and type element: <id->username> content: 15868147450, Spend 0.21700000762939453 seconds
+2017-07-09 10:03:23,066 - root - INFO - SUCCESS    Clear and type element: <id->password> content: , Spend 0.18799996376037598 seconds
+2017-07-09 10:03:23,217 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'btn_com btn_blue login_btn_submit sy_in']>, Spend 0.15000009536743164 seconds
+2017-07-09 10:03:23,305 - root - INFO - SUCCESS    positioned to element: <xpath->//div[2]/div[2]/div/div[1]/form/div[2]/div/span[1]> , Spend 0.08700013160705566 seconds
+2017-07-09 10:03:23,306 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-09 10:03:24,042 - root - INFO - SUCCESS    Get the current window screenshot,path: F:\fengsulian-2\report\image\a1_2.jpg, Spend 0.7349998950958252 seconds
+2017-07-09 10:03:24,596 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/login, Spend 0.5510001182556152 seconds
+2017-07-09 10:03:24,894 - root - INFO - SUCCESS    Clear and type element: <id->username> content: 15868147450, Spend 0.29600000381469727 seconds
+2017-07-09 10:03:25,135 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 12345678, Spend 0.2390000820159912 seconds
+2017-07-09 10:03:25,332 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'btn_com btn_blue login_btn_submit sy_in']>, Spend 0.1940000057220459 seconds
+2017-07-09 10:03:27,697 - root - INFO - SUCCESS    positioned to element: <xpath->//div[1]/div[1]/div[1]/div/div[1]/div[1]/span> , Spend 2.364000082015991 seconds
+2017-07-09 10:03:27,698 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-09 10:03:29,013 - root - INFO - SUCCESS    Get the current window screenshot,path: F:\fengsulian-2\report\image\a1_3.jpg, Spend 1.311000108718872 seconds
+2017-07-09 10:03:32,153 - root - INFO - ###############################  End  ###############################
+2017-07-09 10:11:18,002 - root - INFO - ############################### START ###############################
+2017-07-09 10:11:23,378 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.24399995803833 seconds
+2017-07-09 10:11:30,398 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/login, Spend 7.019000053405762 seconds
+2017-07-09 10:11:30,739 - root - INFO - SUCCESS    Clear and type element: <id->username> content: , Spend 0.3379998207092285 seconds
+2017-07-09 10:11:31,055 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 12345678, Spend 0.31599998474121094 seconds
+2017-07-09 10:11:31,286 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'btn_com btn_blue login_btn_submit sy_in']>, Spend 0.22900009155273438 seconds
+2017-07-09 10:11:41,311 - root - INFO - SUCCESS    element not positioned: <css selector->div[class = 'in_r']> , Spend 10.023000001907349 seconds
+2017-07-09 10:11:41,312 - root - INFO - 【FAIL】    say with certainty: False != True, Spend 0.0 seconds
+2017-07-09 10:11:42,430 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/login, Spend 0.372999906539917 seconds
+2017-07-09 10:11:42,680 - root - INFO - SUCCESS    Clear and type element: <id->username> content: 15868147450, Spend 0.2480001449584961 seconds
+2017-07-09 10:11:42,868 - root - INFO - SUCCESS    Clear and type element: <id->password> content: , Spend 0.18799996376037598 seconds
+2017-07-09 10:11:43,042 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'btn_com btn_blue login_btn_submit sy_in']>, Spend 0.17100000381469727 seconds
+2017-07-09 10:11:43,148 - root - INFO - SUCCESS    positioned to element: <xpath->//div[2]/div[2]/div/div[1]/form/div[2]/div/span[1]> , Spend 0.10500001907348633 seconds
+2017-07-09 10:11:43,148 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-09 10:11:43,661 - root - INFO - SUCCESS    Get the current window screenshot,path: F:\fengsulian-2\report\image\a1_2.jpg, Spend 0.5110001564025879 seconds
+2017-07-09 10:11:43,918 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/login, Spend 0.2569999694824219 seconds
+2017-07-09 10:11:44,130 - root - INFO - SUCCESS    Clear and type element: <id->username> content: 15868147450, Spend 0.2089998722076416 seconds
+2017-07-09 10:11:44,335 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 12345678, Spend 0.20399999618530273 seconds
+2017-07-09 10:11:44,578 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'btn_com btn_blue login_btn_submit sy_in']>, Spend 0.24200010299682617 seconds
+2017-07-09 10:11:48,730 - root - INFO - SUCCESS    positioned to element: <xpath->//div[1]/div[1]/div[1]/div/div[1]/div[1]/span> , Spend 4.14900016784668 seconds
+2017-07-09 10:11:48,732 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-09 10:11:50,607 - root - INFO - SUCCESS    Get the current window screenshot,path: F:\fengsulian-2\report\image\a1_3.jpg, Spend 1.873000144958496 seconds
+2017-07-09 10:11:53,752 - root - INFO - ###############################  End  ###############################
+2017-07-09 10:15:48,947 - root - INFO - ############################### START ###############################
+2017-07-09 10:15:54,476 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.2739999294281006 seconds
+2017-07-09 10:15:55,749 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/login, Spend 1.2699999809265137 seconds
+2017-07-09 10:15:56,023 - root - INFO - SUCCESS    Clear and type element: <id->username> content: , Spend 0.2720000743865967 seconds
+2017-07-09 10:15:56,299 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 12345678, Spend 0.2739999294281006 seconds
+2017-07-09 10:15:56,549 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'btn_com btn_blue login_btn_submit sy_in']>, Spend 0.24699997901916504 seconds
+2017-07-09 10:16:06,608 - root - INFO - SUCCESS    element not positioned: <css selector->div[class = 'in_r']> , Spend 10.057999849319458 seconds
+2017-07-09 10:16:06,611 - root - INFO - 【FAIL】    say with certainty: False != True, Spend 0.0 seconds
+2017-07-09 10:16:07,934 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/login, Spend 0.4049999713897705 seconds
+2017-07-09 10:16:08,196 - root - INFO - SUCCESS    Clear and type element: <id->username> content: 15868147450, Spend 0.2589998245239258 seconds
+2017-07-09 10:16:08,404 - root - INFO - SUCCESS    Clear and type element: <id->password> content: , Spend 0.20600008964538574 seconds
+2017-07-09 10:16:08,581 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'btn_com btn_blue login_btn_submit sy_in']>, Spend 0.17299985885620117 seconds
+2017-07-09 10:16:08,693 - root - INFO - SUCCESS    positioned to element: <xpath->//div[2]/div[2]/div/div[1]/form/div[2]/div/span[1]> , Spend 0.10899996757507324 seconds
+2017-07-09 10:16:08,694 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-09 10:16:09,342 - root - INFO - SUCCESS    Get the current window screenshot,path: F:\fengsulian-2\report\image\a1_2.jpg, Spend 0.6449999809265137 seconds
+2017-07-09 10:16:09,668 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/login, Spend 0.32200002670288086 seconds
+2017-07-09 10:16:10,072 - root - INFO - SUCCESS    Clear and type element: <id->username> content: 15868147450, Spend 0.40000009536743164 seconds
+2017-07-09 10:16:10,355 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 12345678, Spend 0.28099989891052246 seconds
+2017-07-09 10:16:10,549 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'btn_com btn_blue login_btn_submit sy_in']>, Spend 0.18900012969970703 seconds
+2017-07-09 10:16:13,299 - root - INFO - SUCCESS    positioned to element: <xpath->//div[1]/div[1]/div[1]/div/div[1]/div[1]/span> , Spend 2.75 seconds
+2017-07-09 10:16:13,301 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-09 10:16:14,779 - root - INFO - SUCCESS    Get the current window screenshot,path: F:\fengsulian-2\report\image\a1_3.jpg, Spend 1.4760000705718994 seconds
+2017-07-09 10:16:18,028 - root - INFO - ###############################  End  ###############################
+2017-07-09 10:16:48,023 - root - INFO - ############################### START ###############################
+2017-07-09 10:16:53,459 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.2410001754760742 seconds
+2017-07-09 10:16:54,770 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/login, Spend 1.308000087738037 seconds
+2017-07-09 10:16:55,173 - root - INFO - SUCCESS    Clear and type element: <id->username> content: , Spend 0.39800000190734863 seconds
+2017-07-09 10:16:55,476 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 12345678, Spend 0.2999999523162842 seconds
+2017-07-09 10:16:55,720 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'btn_com btn_blue login_btn_submit sy_in']>, Spend 0.24200010299682617 seconds
+2017-07-09 10:17:05,780 - root - INFO - SUCCESS    element not positioned: <css selector->div[class = 'in_r']> , Spend 10.056999921798706 seconds
+2017-07-09 10:17:05,783 - root - INFO - 【FAIL】    say with certainty: False != True, Spend 0.0 seconds
+2017-07-09 10:17:07,279 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/login, Spend 0.38300013542175293 seconds
+2017-07-09 10:17:07,492 - root - INFO - SUCCESS    Clear and type element: <id->username> content: 15868147450, Spend 0.2110002040863037 seconds
+2017-07-09 10:17:07,668 - root - INFO - SUCCESS    Clear and type element: <id->password> content: , Spend 0.17400002479553223 seconds
+2017-07-09 10:17:07,805 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'btn_com btn_blue login_btn_submit sy_in']>, Spend 0.13399982452392578 seconds
+2017-07-09 10:17:07,888 - root - INFO - SUCCESS    positioned to element: <xpath->//div[2]/div[2]/div/div[1]/form/div[2]/div/span[1]> , Spend 0.0820000171661377 seconds
+2017-07-09 10:17:07,890 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-09 10:17:08,426 - root - INFO - SUCCESS    Get the current window screenshot,path: F:\fengsulian-2\report\image\a1_2.jpg, Spend 0.5339999198913574 seconds
+2017-07-09 10:17:08,786 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/login, Spend 0.3560001850128174 seconds
+2017-07-09 10:17:09,102 - root - INFO - SUCCESS    Clear and type element: <id->username> content: 15868147450, Spend 0.3149998188018799 seconds
+2017-07-09 10:17:09,341 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 12345678, Spend 0.23600006103515625 seconds
+2017-07-09 10:17:09,513 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'btn_com btn_blue login_btn_submit sy_in']>, Spend 0.16900014877319336 seconds
+2017-07-09 10:17:12,887 - root - INFO - SUCCESS    positioned to element: <xpath->//div[1]/div[1]/div[1]/div/div[1]/div[1]/span> , Spend 3.371999979019165 seconds
+2017-07-09 10:17:12,887 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-09 10:17:14,266 - root - INFO - SUCCESS    Get the current window screenshot,path: F:\fengsulian-2\report\image\a1_3.jpg, Spend 1.377000093460083 seconds
+2017-07-09 10:17:17,348 - root - INFO - ###############################  End  ###############################
+2017-07-09 10:19:10,732 - root - INFO - ############################### START ###############################
+2017-07-09 10:19:15,884 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.309000015258789 seconds
+2017-07-09 10:19:16,917 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/login, Spend 1.0289998054504395 seconds
+2017-07-09 10:19:17,280 - root - INFO - SUCCESS    Clear and type element: <id->username> content: , Spend 0.3619999885559082 seconds
+2017-07-09 10:19:17,559 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 12345678, Spend 0.2760000228881836 seconds
+2017-07-09 10:19:17,790 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'btn_com btn_blue login_btn_submit sy_in']>, Spend 0.22899985313415527 seconds
+2017-07-09 10:19:28,341 - root - INFO - SUCCESS    element not positioned: <css selector->div[class = 'in_r']> , Spend 10.54800009727478 seconds
+2017-07-09 10:19:28,344 - root - INFO - 【FAIL】    say with certainty: False != True, Spend 0.0 seconds
+2017-07-09 10:19:29,286 - root - INFO - True
+2017-07-09 10:19:29,747 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/login, Spend 0.4549999237060547 seconds
+2017-07-09 10:19:30,176 - root - INFO - SUCCESS    Clear and type element: <id->username> content: 15868147450, Spend 0.4240000247955322 seconds
+2017-07-09 10:19:30,359 - root - INFO - SUCCESS    Clear and type element: <id->password> content: , Spend 0.1809999942779541 seconds
+2017-07-09 10:19:30,525 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'btn_com btn_blue login_btn_submit sy_in']>, Spend 0.16199994087219238 seconds
+2017-07-09 10:19:30,624 - root - INFO - SUCCESS    positioned to element: <xpath->//div[2]/div[2]/div/div[1]/form/div[2]/div/span[1]> , Spend 0.0969998836517334 seconds
+2017-07-09 10:19:30,625 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-09 10:19:31,183 - root - INFO - SUCCESS    Get the current window screenshot,path: F:\fengsulian-2\report\image\a1_2.jpg, Spend 0.5559999942779541 seconds
+2017-07-09 10:19:31,483 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/login, Spend 0.2970001697540283 seconds
+2017-07-09 10:19:31,732 - root - INFO - SUCCESS    Clear and type element: <id->username> content: 15868147450, Spend 0.24699997901916504 seconds
+2017-07-09 10:19:31,924 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 12345678, Spend 0.19099998474121094 seconds
+2017-07-09 10:19:32,075 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'btn_com btn_blue login_btn_submit sy_in']>, Spend 0.14899992942810059 seconds
+2017-07-09 10:19:35,305 - root - INFO - SUCCESS    positioned to element: <xpath->//div[1]/div[1]/div[1]/div/div[1]/div[1]/span> , Spend 3.2280001640319824 seconds
+2017-07-09 10:19:35,306 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-09 10:19:37,180 - root - INFO - SUCCESS    Get the current window screenshot,path: F:\fengsulian-2\report\image\a1_3.jpg, Spend 1.870999813079834 seconds
+2017-07-09 10:19:40,336 - root - INFO - ###############################  End  ###############################
+2017-07-09 10:22:24,526 - root - INFO - ############################### START ###############################
+2017-07-09 10:22:29,816 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.2869999408721924 seconds
+2017-07-09 10:22:31,154 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/login, Spend 1.3320000171661377 seconds
+2017-07-09 10:22:31,503 - root - INFO - SUCCESS    Clear and type element: <id->username> content: , Spend 0.3450000286102295 seconds
+2017-07-09 10:22:31,852 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 12345678, Spend 0.34599995613098145 seconds
+2017-07-09 10:22:32,071 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'btn_com btn_blue login_btn_submit sy_in']>, Spend 0.21499991416931152 seconds
+2017-07-09 10:22:42,608 - root - INFO - SUCCESS    element not positioned: <css selector->div[class = 'in_r']> , Spend 10.53600001335144 seconds
+2017-07-09 10:22:42,611 - root - INFO - 【FAIL】    say with certainty: False != True, Spend 0.0 seconds
+2017-07-09 10:22:43,857 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/login, Spend 0.31799983978271484 seconds
+2017-07-09 10:22:44,107 - root - INFO - SUCCESS    Clear and type element: <id->username> content: 15868147450, Spend 0.24600005149841309 seconds
+2017-07-09 10:22:44,358 - root - INFO - SUCCESS    Clear and type element: <id->password> content: , Spend 0.24900007247924805 seconds
+2017-07-09 10:22:44,579 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'btn_com btn_blue login_btn_submit sy_in']>, Spend 0.21799993515014648 seconds
+2017-07-09 10:22:44,698 - root - INFO - SUCCESS    positioned to element: <xpath->//div[2]/div[2]/div/div[1]/form/div[2]/div/span[1]> , Spend 0.11599993705749512 seconds
+2017-07-09 10:22:44,700 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-09 10:22:45,303 - root - INFO - SUCCESS    Get the current window screenshot,path: F:\fengsulian-2\report\image\a1_2.jpg, Spend 0.5999999046325684 seconds
+2017-07-09 10:22:45,598 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/login, Spend 0.29200005531311035 seconds
+2017-07-09 10:22:45,864 - root - INFO - SUCCESS    Clear and type element: <id->username> content: 15868147450, Spend 0.26199984550476074 seconds
+2017-07-09 10:22:46,124 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 12345678, Spend 0.25799989700317383 seconds
+2017-07-09 10:22:46,367 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'btn_com btn_blue login_btn_submit sy_in']>, Spend 0.23799991607666016 seconds
+2017-07-09 10:22:49,467 - root - INFO - SUCCESS    positioned to element: <xpath->//div[1]/div[1]/div[1]/div/div[1]/div[1]/span> , Spend 3.0980000495910645 seconds
+2017-07-09 10:22:49,469 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-09 10:22:50,775 - root - INFO - SUCCESS    Get the current window screenshot,path: F:\fengsulian-2\report\image\a1_3.jpg, Spend 1.305999994277954 seconds
+2017-07-09 10:22:53,979 - root - INFO - ###############################  End  ###############################
+2017-07-09 10:27:39,700 - root - INFO - ############################### START ###############################
+2017-07-09 10:27:45,569 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.434999942779541 seconds
+2017-07-09 10:27:46,634 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/login, Spend 1.0600001811981201 seconds
+2017-07-09 10:27:46,963 - root - INFO - SUCCESS    Clear and type element: <id->username> content: , Spend 0.31999993324279785 seconds
+2017-07-09 10:27:47,224 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 12345678, Spend 0.25799989700317383 seconds
+2017-07-09 10:27:47,413 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'btn_com btn_blue login_btn_submit sy_in']>, Spend 0.18499994277954102 seconds
+2017-07-09 10:27:57,457 - root - INFO - 【FAIL】    element not positioned: <css selector->div[class = 'in_r']> , Spend 10.041000127792358 seconds
+2017-07-09 10:27:57,460 - root - INFO - 【FAIL】    say with certainty: False != True, Spend 0.0 seconds
+2017-07-09 10:27:58,796 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/login, Spend 0.5480000972747803 seconds
+2017-07-09 10:27:59,062 - root - INFO - SUCCESS    Clear and type element: <id->username> content: 15868147450, Spend 0.26399993896484375 seconds
+2017-07-09 10:27:59,255 - root - INFO - SUCCESS    Clear and type element: <id->password> content: , Spend 0.19000005722045898 seconds
+2017-07-09 10:27:59,417 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'btn_com btn_blue login_btn_submit sy_in']>, Spend 0.16000008583068848 seconds
+2017-07-09 10:27:59,515 - root - INFO - SUCCESS    positioned to element: <xpath->//div[2]/div[2]/div/div[1]/form/div[2]/div/span[1]> , Spend 0.09500002861022949 seconds
+2017-07-09 10:27:59,516 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-09 10:28:00,134 - root - INFO - SUCCESS    Get the current window screenshot,path: F:\fengsulian-2\report\image\a1_2.jpg, Spend 0.6150000095367432 seconds
+2017-07-09 10:28:00,434 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/login, Spend 0.29600000381469727 seconds
+2017-07-09 10:28:00,661 - root - INFO - SUCCESS    Clear and type element: <id->username> content: 15868147450, Spend 0.22499990463256836 seconds
+2017-07-09 10:28:00,832 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 12345678, Spend 0.1699998378753662 seconds
+2017-07-09 10:28:00,974 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'btn_com btn_blue login_btn_submit sy_in']>, Spend 0.1399998664855957 seconds
+2017-07-09 10:28:03,957 - root - INFO - SUCCESS    positioned to element: <xpath->//div[1]/div[1]/div[1]/div/div[1]/div[1]/span> , Spend 2.9809999465942383 seconds
+2017-07-09 10:28:03,960 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-09 10:28:05,503 - root - INFO - SUCCESS    Get the current window screenshot,path: F:\fengsulian-2\report\image\a1_3.jpg, Spend 1.5399999618530273 seconds
+2017-07-09 10:28:08,680 - root - INFO - ###############################  End  ###############################
+2017-07-09 10:32:31,338 - root - INFO - ############################### START ###############################
+2017-07-09 10:32:36,640 - root - INFO - SUCCESS    Set browser window maximized, Spend 1.2569999694824219 seconds
+2017-07-09 10:32:37,723 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/login, Spend 1.0789999961853027 seconds
+2017-07-09 10:32:38,016 - root - INFO - SUCCESS    Clear and type element: <name->username> content: , Spend 0.29000020027160645 seconds
+2017-07-09 10:32:38,290 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 12345678, Spend 0.2720000743865967 seconds
+2017-07-09 10:32:38,489 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'btn_com btn_blue login_btn_submit sy_in']>, Spend 0.1960000991821289 seconds
+2017-07-09 10:32:48,970 - root - INFO - 【FAIL】    element not positioned: <css selector->div[class = 'in_r']> , Spend 10.479000091552734 seconds
+2017-07-09 10:32:49,841 - root - INFO - 【FAIL】    say with certainty: False != True, Spend 0.0 seconds
+2017-07-09 10:32:50,752 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/login, Spend 0.2949998378753662 seconds
+2017-07-09 10:32:51,007 - root - INFO - SUCCESS    Clear and type element: <name->username> content: 15868147450, Spend 0.2539999485015869 seconds
+2017-07-09 10:32:51,203 - root - INFO - SUCCESS    Clear and type element: <id->password> content: , Spend 0.1919999122619629 seconds
+2017-07-09 10:32:51,407 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'btn_com btn_blue login_btn_submit sy_in']>, Spend 0.20199990272521973 seconds
+2017-07-09 10:32:51,538 - root - INFO - SUCCESS    positioned to element: <xpath->//div[2]/div[2]/div/div[1]/form/div[2]/div/span[1]> , Spend 0.12800002098083496 seconds
+2017-07-09 10:32:51,539 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-09 10:32:52,223 - root - INFO - SUCCESS    Get the current window screenshot,path: F:\fengsulian-2\report\image\a1_2.jpg, Spend 0.681999921798706 seconds
+2017-07-09 10:32:52,530 - root - INFO - SUCCESS    Navigated to http://www.fengsulian.com/login, Spend 0.3039999008178711 seconds
+2017-07-09 10:32:52,796 - root - INFO - SUCCESS    Clear and type element: <name->username> content: 15868147450, Spend 0.2650001049041748 seconds
+2017-07-09 10:32:53,007 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 12345678, Spend 0.21000003814697266 seconds
+2017-07-09 10:32:53,236 - root - INFO - SUCCESS    Clicked element: <css selector->input[class = 'btn_com btn_blue login_btn_submit sy_in']>, Spend 0.22699999809265137 seconds
+2017-07-09 10:32:56,016 - root - INFO - SUCCESS    positioned to element: <xpath->//div[1]/div[1]/div[1]/div/div[1]/div[1]/span> , Spend 2.7770001888275146 seconds
+2017-07-09 10:32:56,017 - root - INFO - SUCCESS    say with certainty: True == True, Spend 0.0 seconds
+2017-07-09 10:32:57,723 - root - INFO - SUCCESS    Get the current window screenshot,path: F:\fengsulian-2\report\image\a1_3.jpg, Spend 1.7039999961853027 seconds
+2017-07-09 10:33:00,825 - root - INFO - ###############################  End  ###############################

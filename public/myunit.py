@@ -8,6 +8,7 @@ from selenium import webdriver
 
 
 class MyTest(unittest.TestCase,Page):
+
     @classmethod
     def setUpClass(self):
         self.logger = Log()

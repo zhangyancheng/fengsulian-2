@@ -1,8 +1,9 @@
 from selenium import webdriver
 from config import globalparam
+from public.base import Page
 class Screen(object):
     """这个应该截图功能的装饰器"""
-    def __init__(self, driver):
+    def __init__(self,driver):
         self.driver = driver
     def __call__(self, f):
         def inner(*args):

@@ -8,6 +8,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from selenium.common.exceptions import TimeoutException
 from public.log import Log
+from config import globalparam
 
 success = "SUCCESS   "
 fail = "【FAIL】   "
@@ -26,6 +27,16 @@ class Page():
 
     def my_print(self,msg):
         logger.info(msg)
+
+    def fail_img(self):
+        file_name = '%s.jpg' % time.strftime("%Y_%m_%d_%H_%M_%S")
+        file_path = globalparam.eximg_path + "\\" + file_name
+        self.driver.get_screenshot_as_file(file_path)
+
+    def assert_img(self):
+        file_name = 'assert(%s).jpg' % time.strftime("%Y_%m_%d_%H_%M_%S")
+        file_path = globalparam.eximg_path + "\\" + file_name
+        self.driver.get_screenshot_as_file(file_path)
 
     def select_browser(self,browser='chrome', remoteAddress=None):
         t1 = time.time()
@@ -137,11 +148,15 @@ class Page():
         driver.open("http://www.fengsulian.com")
         """
         t1 = time.time()
+        nowTime = time.strftime("%Y_%m_%d_%H_%M_%S")
+        file_name = 'open->%s.jpg' % nowTime
+        file_path = globalparam.eximg_path + "\\" + file_name
         try:
             self._open(self.url)
             self.my_print("{0} Navigated to {1}, Spend {2} seconds".format(success,self.base_url+self.url,time.time()-t1))
         except Exception:
             self.my_print("{0} Unable to load {1}, Spend {2} seconds".format(fail,self.base_url+self.url,time.time()- t1))
+            self.fail_img()
             raise
 
     def on_page(self):
@@ -186,6 +201,7 @@ class Page():
         except Exception:
             self.my_print("{0} Unable to type element: <{1}> content: {2}, Spend {3} seconds-- from{4}".format(fail,
                 css1, text, time.time() - t1,base_dir))
+            self.fail_img()
             raise
         
     def clear_type(self, css, text):
@@ -207,6 +223,7 @@ class Page():
         except Exception:
             self.my_print("{0} Unable to clear and type element: <{1}> content: {2}, Spend {3} seconds".format(fail,
                 css1, text,time.time() - t1))
+            self.fail_img()
             raise
         
     def click(self, css):
@@ -226,6 +243,7 @@ class Page():
             self.my_print("{0} Clicked element: <{1}>, Spend {2} seconds".format(success,css1,time.time() - t1))
         except Exception:
             self.my_print("{0} Unable to click element: <{1}>, Spend {2} seconds".format(fail, css1, time.time() - t1))
+            self.fail_img()
             raise
         
     def right_click(self, css):
@@ -244,6 +262,7 @@ class Page():
             self.my_print("{0} Right click element: <{1}>, Spend {2} seconds".format(success, css1, time.time() - t1))
         except Exception:
             self.my_print("{0} Unable to right click element: <{1}>, Spend {2} seconds".format(fail, css1, time.time() - t1))
+            self.fail_img()
             raise
     
     def move_to_element(self, css):
@@ -262,6 +281,7 @@ class Page():
             self.my_print("{0} Move to element: <{1}>, Spend {2} seconds".format(success, css1, time.time() - t1))
         except Exception:
             self.my_print("{0} unable move to element: <{1}>, Spend {2} seconds".format(fail, css1, time.time() - t1))
+            self.fail_img()
             raise
         
     def double_click(self, css):
@@ -280,6 +300,7 @@ class Page():
             self.my_print("{0} Double click element: <{1}>, Spend {2} seconds".format(success, css1, time.time() - t1))
         except Exception:
             self.my_print("{0} Unable to double click element: <{1}>, Spend {2} seconds".format(fail, css1, time.time() - t1))
+            self.fail_img()
             raise
 
     def drag_and_drop(self, el_css, ta_css):
@@ -301,6 +322,7 @@ class Page():
         except Exception:
             self.my_print("{0} Unable to drag and drop element: <{1}> to element: <{2}>, Spend {3} seconds".format(fail,
                 el_css, ta_css, time.time() - t1))
+            self.fail_img()
             raise
         
     def click_text(self, text):
@@ -316,6 +338,7 @@ class Page():
             self.my_print("{0} Click by text content: {1}, Spend {2} seconds".format(success, text,time.time() - t1))
         except Exception:
             self.my_print("{0} Unable to Click by text content: {1}, Spend {2} seconds".format(fail, text, time.time() - t1))
+            self.fail_img()
             raise
         
     def close(self):
@@ -357,6 +380,7 @@ class Page():
             self.my_print("{0} Submit form args element: <{1}>, Spend {2} seconds".format(success,css1, time.time() - t1))
         except Exception:
             self.my_print("{0} Unable to submit form args element: <{1}>, Spend {2} seconds".format(fail, css1, time.time() - t1))
+            self.fail_img()
             raise
 
     def F5(self):
@@ -384,6 +408,7 @@ class Page():
         except Exception:
             self.my_print("{0} Unable to execute javascript scripts: {1}, Spend {2} seconds".format(fail,
                 script, time.time() - t1))
+            self.fail_img()
             raise
 
     def get_attribute(self, css, attribute):
@@ -403,6 +428,7 @@ class Page():
         except Exception:
             self.my_print("{0} Unable to get attribute element: <{1}>,attribute: {2}, Spend {3} seconds".format(fail,
                 css, attribute,time.time() - t1))
+            self.fail_img()
             raise
 
     def get_text(self, css):
@@ -421,6 +447,7 @@ class Page():
             return text
         except Exception:
             self.my_print("{0} Unable to get element text element: <{1}>, Spend {2} seconds".format(fail, css1, time.time() - t1))
+            self.fail_img()
             raise
 
     def get_title(self):
@@ -498,6 +525,7 @@ class Page():
             self.my_print("{0} Switch to frame element: <{1}>, Spend {2} seconds".format(success,css1, time.time() - t1))
         except Exception:
             self.my_print("{0} Unable switch to frame element: <{1}>, Spend {2} seconds".format(fail, css1, time.time() - t1))
+            self.fail_img()
             raise
 
     def switch_to_frame_out(self):
@@ -534,6 +562,7 @@ class Page():
         except Exception:
             self.my_print("{0} Click element: <{1}> open a new window and swich into, Spend {2} seconds".format(fail,
                 css1,time.time() - t1))
+            self.fail_img()
             raise
 
     def element_exist(self, css):
@@ -551,6 +580,7 @@ class Page():
             return True
         except TimeoutException:
             self.my_print("{0} Element: <{1}> is not exist, Spend {2} seconds".format(fail, css1, time.time() - t1))
+            self.fail_img()
             return False
 
     def take_screenshot(self, file_path):
@@ -568,6 +598,7 @@ class Page():
         except Exception:
             self.my_print("{0} Unable to get the current window screenshot,path: {1}, Spend {2} seconds".format(fail,
                 file_path,time.time() - t1))
+            self.fail_img()
             raise
 
     def into_new_window(self):
@@ -592,6 +623,7 @@ class Page():
                 self.driver.current_url,time.time() - t1))
         except Exception:
             self.my_print("{0} Unable switch to the new window, Spend {1} seconds".format(fail, time.time() - t1))
+            self.fail_img()
             raise
 
     def type_and_enter(self, css, text, secs=0.5):
@@ -614,6 +646,7 @@ class Page():
         except Exception:
             self.my_print("{0} Unable element <{1}> type content: {2},and sleep {3} seconds,input ENTER key, Spend {4} seconds".
                 format(fail, css1, text, secs, time.time() - t1))
+            self.fail_img()
             raise
 
     def js_click(self, css):
@@ -631,6 +664,7 @@ class Page():
         except Exception:
             self.my_print("{0} Unable to use javascript click element: {1}, Spend {2} seconds".format(fail,
                 js_str, time.time() - t1))
+            self.fail_img()
             raise
     
     #控制滚动条
@@ -657,8 +691,9 @@ class Page():
         try:
             result = WebDriverWait(self.driver, timeout, 0.5).until(EC.text_to_be_present_in_element(locator, text))
         except TimeoutException:
-            self.my_print("{0} element not positioned: <{1}> , Spend {2} seconds".format(success,
+            self.my_print("{0} element not positioned: <{1}> , Spend {2} seconds".format(fail,
                                                                                          locator1, time.time() - t1))
+            self.fail_img()
             return False
         else:
             self.my_print("{0} positioned to element: <{1}> , Spend {2} seconds".format(success,
@@ -677,8 +712,9 @@ class Page():
             result = WebDriverWait(self.driver, timeout, 0.5).until(EC.text_to_be_present_in_element_value(locator,
                                                                                                          value))
         except TimeoutException:
-            self.my_print("{0} element not positioned: <{1}> , Spend {2} seconds".format(success,
+            self.my_print("{0} element not positioned: <{1}> , Spend {2} seconds".format(fail,
                                                                                          locator1, time.time() - t1))
+            self.fail_img()
             return False
         else:
             self.my_print("{0} positioned to element: <{1}> , Spend {2} seconds".format(success,
@@ -697,9 +733,10 @@ class Page():
             self.assertEqual(loc,text)
             self.my_print("{0} say with certainty: {1} == {2}, Spend {3} seconds".format(success,loc,
                                                                                          text,time.time()-t1))
-        except:
+        except Exception:
             self.my_print("{0} say with certainty: {1} != {2}, Spend {3} seconds".format(fail, loc,
                                                                                          text, time.time() - t1))
+            self.assert_img()
             raise
 
     def assert_notequal(self, loc, text):
@@ -717,6 +754,7 @@ class Page():
         except:
             self.my_print("{0} say with certainty: {1} == {2}, Spend {3} seconds".format(fail, loc,
                                                                                          text, time.time() - t1))
+            self.assert_img()
             raise
 
 

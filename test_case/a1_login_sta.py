@@ -1,7 +1,9 @@
 import unittest
 import ddt
+from public.exceptionscr import Screen
 from data.testdata.data_read import Test1
-from public import myunit,function
+from public.myunit import MyTest
+from public import function
 from public.base import Page
 from test_case.page_obj.a1_loginPage import login
 data1 = Test1().a1_data(sheet = "a1_sta")
@@ -9,9 +11,10 @@ data1 = Test1().a1_data(sheet = "a1_sta")
 """用户登录->3"""
 # @ddt.ddt
 # @unittest.skip("跳过此用例")
-class loginTest(myunit.MyTest,Page):
+class loginTest(MyTest,Page):
     "风速链用户登录"
 
+    # @Screen(driver)
     def test_login1(self,expected=True):
         """用户名为空,密码正确"""
         po = login(self.driver)
