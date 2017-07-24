@@ -25,9 +25,6 @@
 <br>13、testcase目录  编写测试用例，可以分模块编写，建相应的目录
 <br>14、执行run_ai_test.py  就可以执行所有的测试用例
 
-<br>可以参考虫师的pyse,github地址:https://github.com/defnngj/pyse
-<br>虫师的博客园地址：https://github.com/defnngj/pyse
-
 <br>导入base文件
 <br>import base
 <br>1、启动浏览器：

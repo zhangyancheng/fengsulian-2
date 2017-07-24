@@ -1,17 +1,17 @@
-from selenium import webdriver
 import unittest
+from selenium import webdriver
 from time import sleep
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.wait import WebDriverWait
-from selenium.webdriver.common.by import  By
-from selenium.webdriver.common.action_chains import  ActionChains
+from selenium.webdriver.common.by import By
+from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.common.keys import Keys
 import os
 
 class MyTest(unittest.TestCase):
 
     #定位器1
-    login_username_loc = (By.ID, "username")
+    login_username_loc = (By.ID, "usernam")
     login_password_loc = (By.ID, "password")
     login_button_loc = (By.CSS_SELECTOR, "input[class = 'btn_com btn_blue login_btn_submit sy_in']")
     #定位器2
@@ -25,7 +25,7 @@ class MyTest(unittest.TestCase):
 
     def element_wait(self,css, secs=8):
         """
-        显示等待
+        显示等待，判断元素是否存在
         """
         by = css[0].strip()
         messages = 'Element: {0} not found in {1} seconds.'.format(css, secs)
@@ -42,6 +42,7 @@ class MyTest(unittest.TestCase):
         elif by == "css selector":
             WebDriverWait(self.driver, secs, 0.5).until(EC.presence_of_element_located(css), messages)
         else:
+            #变量名不存在
             raise NameError("Please enter the correct targeting elements,'id','name','class','link_text','xpath','css'.")
 
     def login_username(self):
@@ -56,14 +57,15 @@ class MyTest(unittest.TestCase):
     def login_button(self):
         self.element_wait(css=self.login_button_loc)
         self.driver.find_element(*self.login_button_loc).click()
+    def login_success(self):
+        self.element_wait(css=self.user_login_success_loc)
+        return self.driver.find_element(*self.user_login_success_loc).text
 
     def test_login1(self):
         self.login_username()
         self.login_password()
         self.login_button()
-        self.element_wait(css=self.user_login_success_loc)
-        expected = self.driver.find_element(*self.user_login_success_loc).text
-        self.assertEqual(expected,"FSL_62223599   ")
+        self.assertEqual(self.login_success(),"FSL_62223599   ")
 
     @classmethod
     def tearDownClass(self):
